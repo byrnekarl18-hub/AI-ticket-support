@@ -1,0 +1,1001 @@
+ticket_id,ticket,category,priority,ticket_length
+1,I cannot receive verification codes after changing my phone number. I first noticed this on Sunday at 02:25. I would appreciate some help resolving this.,Account,High,153
+2,I think someone else accessed my account. I first noticed this on Sunday at 04:59. Can you provide an update?,Account,High,109
+3,The app shows a blank screen after the update. I first noticed this on Monday at 12:24. Can you provide an update?,Technical,High,114
+4,The checkout button is not responding. I first noticed this on Monday at 16:48. Can you provide an update?,Technical,High,106
+5,I was charged in the wrong currency. I first noticed this on Thursday at 19:14. Can you provide an update?,Billing,Medium,106
+6,My billing date is different from what I expected. I first noticed this on Thursday at 20:20. Can you provide an update?,Billing,Medium,120
+7,The courier attempted delivery while I was away. I first noticed this on Saturday at 18:54. Can you look into this?,Delivery,Low,115
+8,Can you arrange another delivery attempt? I first noticed this on Saturday at 22:23. I would appreciate some help resolving this.,Delivery,Low,129
+9,My payment is still showing as pending. I first noticed this on Thursday at 15:23. Can you look into this?,Billing,Medium,106
+10,I cannot receive verification codes after changing my phone number. I first noticed this on Sunday at 06:05. Can you provide an update?,Account,High,135
+11,Search is not returning the expected results. I first noticed this on Wednesday at 07:07. Please advise on the next step.,Technical,Medium,121
+12,The courier says my address is invalid. I first noticed this on Saturday at 11:23. I would appreciate some help resolving this.,Delivery,Medium,127
+13,Can you tell me where my package is? I first noticed this on Saturday at 16:31. Could you check this for me?,Delivery,Medium,108
+14,Can I get a copy of last month's invoice? I first noticed this on Friday at 13:01. Please let me know what I should do next.,Billing,Low,124
+15,My payment is still showing as pending. I first noticed this on Thursday at 19:58. I would appreciate some help resolving this.,Billing,Medium,127
+16,The dashboard takes a long time to load. I first noticed this on Tuesday at 21:13. Please advise on the next step.,Technical,Medium,114
+17,My package is stuck at the sorting centre. I first noticed this on Saturday at 06:04. Please advise on the next step.,Delivery,Medium,117
+18,The checkout button is not responding. I first noticed this on Tuesday at 01:58. Could you check this for me?,Technical,High,109
+19,There is a minor formatting issue on the dashboard. I first noticed this on Wednesday at 13:43. Please advise on the next step.,Technical,Low,127
+20,The app shows a blank screen after the update. I first noticed this on Tuesday at 04:54. Can you provide an update?,Technical,High,115
+21,The website is running very slowly. I first noticed this on Tuesday at 16:16. Could you check this for me?,Technical,Medium,106
+22,The courier says my address is invalid. I first noticed this on Saturday at 10:28. Please advise on the next step.,Delivery,Medium,114
+23,The CSV export option is not working. I first noticed this on Tuesday at 14:59. Please let me know what I should do next.,Technical,Medium,121
+24,Can you arrange another delivery attempt? I first noticed this on Saturday at 20:33. Can you provide an update?,Delivery,Low,111
+25,The app crashes whenever I open the settings page. I first noticed this on Monday at 10:01. Please advise on the next step.,Technical,High,123
+26,How long do refunds normally take? I first noticed this on Monday at 22:36. Can you provide an update?,Refund,Low,102
+27,I am not receiving the verification email. I first noticed this on Sunday at 20:12. Please advise on the next step.,Account,Medium,115
+28,I get an error every time I upload a file. I first noticed this on Tuesday at 10:57. Can you look into this?,Technical,High,108
+29,I was charged after cancelling the service. I first noticed this on Wednesday at 21:14. Can you provide an update?,Billing,High,114
+30,I was charged after cancelling the service. I first noticed this on Wednesday at 17:34. I would appreciate some help resolving this.,Billing,High,132
+31,The app shows a blank screen after the update. I first noticed this on Tuesday at 11:19. Please advise on the next step.,Technical,High,120
+32,I cannot log in even though my password is correct. I first noticed this on Sunday at 03:31. I would appreciate some help resolving this.,Account,High,137
+33,Is this purchase eligible for a refund? I first noticed this on Monday at 22:47. Please let me know what I should do next.,Refund,Low,122
+34,My verification code has expired. I first noticed this on Sunday at 16:54. Please advise on the next step.,Account,Medium,106
+35,The amount on my invoice looks incorrect. I first noticed this on Thursday at 22:21. Please advise on the next step.,Billing,Medium,116
+36,Where can I view my billing history? I first noticed this on Friday at 11:00. Could you check this for me?,Billing,Low,106
+37,Some product images are not displaying correctly. I first noticed this on Wednesday at 12:37. Please advise on the next step.,Technical,Low,125
+38,The app crashes whenever I open the settings page. I first noticed this on Tuesday at 03:26. I would appreciate some help resolving this.,Technical,High,137
+39,The app crashes whenever I open the settings page. I first noticed this on Monday at 20:06. Can you provide an update?,Technical,High,118
+40,Where can I view my billing history? I first noticed this on Friday at 09:10. I would appreciate some help resolving this.,Billing,Low,122
+41,The CSV export option is not working. I first noticed this on Tuesday at 19:34. Could you check this for me?,Technical,Medium,108
+42,The CSV export option is not working. I first noticed this on Wednesday at 06:34. Could you check this for me?,Technical,Medium,110
+43,One icon looks different from the others. I first noticed this on Wednesday at 10:14. I would appreciate some help resolving this.,Technical,Low,130
+44,Notifications have stopped appearing. I first noticed this on Tuesday at 14:15. Can you look into this?,Technical,Medium,103
+45,Tracking has not updated for several days. I first noticed this on Saturday at 16:42. Can you look into this?,Delivery,Medium,109
+46,My billing date is different from what I expected. I first noticed this on Thursday at 13:55. Please let me know what I should do next.,Billing,Medium,135
+47,My card was declined and my subscription may be cancelled. I first noticed this on Thursday at 02:00. Could you check this for me?,Billing,High,130
+48,I am not receiving the verification email. I first noticed this on Sunday at 18:22. Please let me know what I should do next.,Account,Medium,125
+49,The app crashes whenever I open the settings page. I first noticed this on Tuesday at 05:16. Could you check this for me?,Technical,High,121
+50,The app crashes whenever I open the settings page. I first noticed this on Tuesday at 01:36. Can you provide an update?,Technical,High,119
+51,Is this purchase eligible for a refund? I first noticed this on Monday at 20:02. I would appreciate some help resolving this.,Refund,Low,125
+52,My billing date is different from what I expected. I first noticed this on Friday at 04:35. Can you look into this?,Billing,Medium,115
+53,The app shows a blank screen after the update. I first noticed this on Monday at 11:29. Please let me know what I should do next.,Technical,High,129
+54,Someone changed my account email without permission. I first noticed this on Sunday at 08:28. Please let me know what I should do next.,Account,High,135
+55,The checkout button is not responding. I first noticed this on Monday at 22:18. Can you provide an update?,Technical,High,106
+56,My package is stuck at the sorting centre. I first noticed this on Saturday at 08:49. Could you check this for me?,Delivery,Medium,114
+57,Can I delete my account permanently? I first noticed this on Monday at 02:15. Could you check this for me?,Account,Low,106
+58,Notifications have stopped appearing. I first noticed this on Wednesday at 04:00. Can you provide an update?,Technical,Medium,108
+59,My verification code has expired. I first noticed this on Sunday at 12:19. I would appreciate some help resolving this.,Account,Medium,119
+60,I forgot my password and need to reset it. I first noticed this on Sunday at 21:51. Could you check this for me?,Account,Medium,112
+61,The dashboard takes a long time to load. I first noticed this on Tuesday at 22:08. I would appreciate some help resolving this.,Technical,Medium,127
+62,The amount on my invoice looks incorrect. I first noticed this on Thursday at 12:16. I would appreciate some help resolving this.,Billing,Medium,129
+63,My refund was processed but the money is missing. I first noticed this on Monday at 05:33. Can you look into this?,Refund,High,114
+64,Search is not returning the expected results. I first noticed this on Wednesday at 01:37. Please advise on the next step.,Technical,Medium,121
+65,The courier says my address is invalid. I first noticed this on Saturday at 16:53. I would appreciate some help resolving this.,Delivery,Medium,127
+66,The application freezes when I submit the form. I first noticed this on Monday at 23:35. Please let me know what I should do next.,Technical,High,130
+67,My payment went through but the balance still shows unpaid. I first noticed this on Thursday at 10:37. Please let me know what I should do next.,Billing,High,144
+68,The courier says my address is invalid. I first noticed this on Saturday at 04:58. Please advise on the next step.,Delivery,Medium,114
+69,I paid for express shipping but the order is seriously delayed. I first noticed this on Friday at 14:40. Please advise on the next step.,Delivery,High,136
+70,Can I get a copy of last month's invoice? I first noticed this on Friday at 06:36. Could you check this for me?,Billing,Low,111
+71,My payment went through but the balance still shows unpaid. I first noticed this on Wednesday at 20:52. I would appreciate some help resolving this.,Billing,High,148
+72,How long do refunds normally take? I first noticed this on Monday at 18:56. I would appreciate some help resolving this.,Refund,Low,120
+73,Someone changed my account email without permission. I first noticed this on Sunday at 02:58. Please let me know what I should do next.,Account,High,135
+74,The app shows a blank screen after the update. I first noticed this on Monday at 15:09. Can you look into this?,Technical,High,111
+75,Can you send me a receipt for my latest payment? I first noticed this on Friday at 06:14. Can you provide an update?,Billing,Low,116
+76,I do not recognise a charge on my statement. I first noticed this on Thursday at 02:33. Please advise on the next step.,Billing,High,119
+77,Notifications have stopped appearing. I first noticed this on Tuesday at 17:55. Please advise on the next step.,Technical,Medium,111
+78,Can you arrange another delivery attempt? I first noticed this on Sunday at 00:13. Could you check this for me?,Delivery,Low,111
+79,Can I request a refund for something bought yesterday? I first noticed this on Monday at 22:58. Could you check this for me?,Refund,Low,124
+80,The amount on my invoice looks incorrect. I first noticed this on Thursday at 13:11. Can you look into this?,Billing,Medium,108
+81,Notifications have stopped appearing. I first noticed this on Tuesday at 15:10. Could you check this for me?,Technical,Medium,108
+82,My card was declined and my subscription may be cancelled. I first noticed this on Thursday at 07:30. Could you check this for me?,Billing,High,130
+83,The app shows a blank screen after the update. I first noticed this on Tuesday at 07:39. Can you look into this?,Technical,High,112
+84,How can I update my personal details? I first noticed this on Monday at 02:59. Can you provide an update?,Account,Low,105
+85,I get an error every time I upload a file. I first noticed this on Monday at 21:12. Can you provide an update?,Technical,High,110
+86,I was charged twice for the same subscription. I first noticed this on Wednesday at 17:56. Can you provide an update?,Billing,High,117
+87,My account keeps logging me out. I first noticed this on Sunday at 22:35. Can you provide an update?,Account,Medium,100
+88,My payment is still showing as pending. I first noticed this on Thursday at 18:08. Can you provide an update?,Billing,Medium,109
+89,I do not recognise a charge on my statement. I first noticed this on Thursday at 10:48. Could you check this for me?,Billing,High,116
+90,I was charged twice for the same subscription. I first noticed this on Wednesday at 23:26. Can you provide an update?,Billing,High,117
+91,My package is stuck at the sorting centre. I first noticed this on Saturday at 12:29. I would appreciate some help resolving this.,Delivery,Medium,130
+92,The tracking link does not work. I first noticed this on Saturday at 06:15. Can you provide an update?,Delivery,Medium,102
+93,The dashboard takes a long time to load. I first noticed this on Tuesday at 23:58. Could you check this for me?,Technical,Medium,111
+94,The website is running very slowly. I first noticed this on Tuesday at 17:11. Please let me know what I should do next.,Technical,Medium,119
+95,I get an error every time I upload a file. I first noticed this on Monday at 23:57. Can you look into this?,Technical,High,107
+96,The application freezes when I submit the form. I first noticed this on Tuesday at 07:50. I would appreciate some help resolving this.,Technical,High,134
+97,My parcel says delivered but I cannot find it. I first noticed this on Friday at 19:37. Could you check this for me?,Delivery,High,116
+98,I would like a refund for my recent purchase. I first noticed this on Monday at 10:41. Please let me know what I should do next.,Refund,Medium,128
+99,The CSV export option is not working. I first noticed this on Wednesday at 01:04. Could you check this for me?,Technical,Medium,110
+100,Can you tell me where my package is? I first noticed this on Saturday at 14:41. I would appreciate some help resolving this.,Delivery,Medium,124
+101,The amount on my invoice looks incorrect. I first noticed this on Friday at 02:56. Can you provide an update?,Billing,Medium,109
+102,How do I enable two-factor authentication? I first noticed this on Monday at 00:03. Could you check this for me?,Account,Low,112
+103,I received the wrong item. I first noticed this on Friday at 20:43. Could you check this for me?,Delivery,High,96
+104,My refund was processed but the money is missing. I first noticed this on Monday at 07:23. Please let me know what I should do next.,Refund,High,132
+105,I get an error every time I upload a file. I first noticed this on Tuesday at 02:42. Can you provide an update?,Technical,High,111
+106,The checkout button is not responding. I first noticed this on Monday at 15:53. Please let me know what I should do next.,Technical,High,121
+107,The website layout looks unusual on my tablet. I first noticed this on Wednesday at 08:46. Could you check this for me?,Technical,Low,119
+108,Search is not returning the expected results. I first noticed this on Tuesday at 14:37. Please advise on the next step.,Technical,Medium,119
+109,The website is running very slowly. I first noticed this on Tuesday at 20:51. Can you look into this?,Technical,Medium,101
+110,My refund was processed but the money is missing. I first noticed this on Monday at 08:18. Can you provide an update?,Refund,High,117
+111,Tracking has not updated for several days. I first noticed this on Saturday at 13:02. Please let me know what I should do next.,Delivery,Medium,127
+112,Where can I find my tracking number? I first noticed this on Saturday at 19:05. I would appreciate some help resolving this.,Delivery,Low,124
+113,I paid for express shipping but the order is seriously delayed. I first noticed this on Friday at 20:10. Please advise on the next step.,Delivery,High,136
+114,The dashboard takes a long time to load. I first noticed this on Tuesday at 16:38. I would appreciate some help resolving this.,Technical,Medium,127
+115,When will my next payment be taken? I first noticed this on Friday at 13:12. Could you check this for me?,Billing,Low,105
+116,I was charged twice for the same subscription. I first noticed this on Thursday at 10:26. Can you provide an update?,Billing,High,116
+117,Can I change the name on my profile? I first noticed this on Monday at 02:37. I would appreciate some help resolving this.,Account,Low,122
+118,I cannot sign in on my new phone. I first noticed this on Sunday at 19:28. Please let me know what I should do next.,Account,Medium,116
+119,The app shows a blank screen after the update. I first noticed this on Tuesday at 03:59. Please let me know what I should do next.,Technical,High,130
+120,Why was my refund rejected? I first noticed this on Monday at 14:54. Can you provide an update?,Refund,Medium,95
+121,I paid for express shipping but the order is seriously delayed. I first noticed this on Friday at 15:35. I would appreciate some help resolving this.,Delivery,High,149
+122,The checkout button is not responding. I first noticed this on Tuesday at 07:28. Could you check this for me?,Technical,High,109
+123,I was charged twice for the same subscription. I first noticed this on Thursday at 06:46. I would appreciate some help resolving this.,Billing,High,134
+124,The website is running very slowly. I first noticed this on Wednesday at 06:56. I would appreciate some help resolving this.,Technical,Medium,124
+125,The application freezes when I submit the form. I first noticed this on Tuesday at 03:15. Can you look into this?,Technical,High,113
+126,The application freezes when I submit the form. I first noticed this on Tuesday at 11:30. Can you provide an update?,Technical,High,116
+127,The CSV export option is not working. I first noticed this on Wednesday at 04:44. I would appreciate some help resolving this.,Technical,Medium,126
+128,Search is not returning the expected results. I first noticed this on Wednesday at 00:42. Can you provide an update?,Technical,Medium,116
+129,The courier says my address is invalid. I first noticed this on Saturday at 04:03. Can you provide an update?,Delivery,Medium,109
+130,The dashboard takes a long time to load. I first noticed this on Tuesday at 17:33. Can you look into this?,Technical,Medium,106
+131,The checkout button is not responding. I first noticed this on Monday at 23:13. Please advise on the next step.,Technical,High,111
+132,Someone changed my account email without permission. I first noticed this on Sunday at 10:18. Please advise on the next step.,Account,High,125
+133,The dashboard takes a long time to load. I first noticed this on Tuesday at 13:53. Please let me know what I should do next.,Technical,Medium,124
+134,I get an error every time I upload a file. I first noticed this on Monday at 13:52. Could you check this for me?,Technical,High,112
+135,Can you tell me where my package is? I first noticed this on Saturday at 07:21. Can you provide an update?,Delivery,Medium,106
+136,My parcel says delivered but I cannot find it. I first noticed this on Saturday at 01:07. Could you check this for me?,Delivery,High,118
+137,Notifications have stopped appearing. I first noticed this on Wednesday at 02:10. Could you check this for me?,Technical,Medium,110
+138,My promotional discount was not applied. I first noticed this on Thursday at 17:02. Can you provide an update?,Billing,Medium,110
+139,Can you send me a receipt for my latest payment? I first noticed this on Friday at 13:34. I would appreciate some help resolving this.,Billing,Low,134
+140,The dashboard takes a long time to load. I first noticed this on Wednesday at 05:28. Could you check this for me?,Technical,Medium,113
+141,The website is running very slowly. I first noticed this on Tuesday at 18:06. Can you provide an update?,Technical,Medium,104
+142,The app shows a blank screen after the update. I first noticed this on Tuesday at 00:19. Please advise on the next step.,Technical,High,120
+143,The checkout button is not responding. I first noticed this on Tuesday at 08:23. Please let me know what I should do next.,Technical,High,122
+144,The refund amount I received is incorrect. I first noticed this on Monday at 09:57. Can you look into this?,Refund,High,107
+145,My refund was processed but the money is missing. I first noticed this on Monday at 06:28. Could you check this for me?,Refund,High,119
+146,The courier attempted delivery while I was away. I first noticed this on Saturday at 22:34. Please advise on the next step.,Delivery,Low,123
+147,The application freezes when I submit the form. I first noticed this on Tuesday at 02:20. I would appreciate some help resolving this.,Technical,High,134
+148,Can I get my money back for a cancelled order? I first noticed this on Monday at 11:47. Please let me know what I should do next.,Refund,Medium,129
+149,Some product images are not displaying correctly. I first noticed this on Wednesday at 09:52. Could you check this for me?,Technical,Low,122
+150,The amount on my invoice looks incorrect. I first noticed this on Thursday at 17:46. I would appreciate some help resolving this.,Billing,Medium,129
+151,The checkout button is not responding. I first noticed this on Tuesday at 05:38. I would appreciate some help resolving this.,Technical,High,125
+152,I cannot log in even though my password is correct. I first noticed this on Sunday at 00:46. Please let me know what I should do next.,Account,High,134
+153,Notifications have stopped appearing. I first noticed this on Tuesday at 16:05. Please let me know what I should do next.,Technical,Medium,121
+154,The text spacing looks unusual on mobile. I first noticed this on Wednesday at 16:50. I would appreciate some help resolving this.,Technical,Low,130
+155,My payment went through but the balance still shows unpaid. I first noticed this on Thursday at 05:07. Please let me know what I should do next.,Billing,High,144
+156,Can I get my money back for a cancelled order? I first noticed this on Monday at 16:22. Could you check this for me?,Refund,Medium,116
+157,My order has not arrived and it is overdue. I first noticed this on Friday at 16:41. I would appreciate some help resolving this.,Delivery,High,129
+158,My billing date is different from what I expected. I first noticed this on Thursday at 17:35. Can you look into this?,Billing,Medium,117
+159,How can I update my billing address? I first noticed this on Friday at 07:53. Can you look into this?,Billing,Low,101
+160,The tracking link does not work. I first noticed this on Saturday at 16:20. Please let me know what I should do next.,Delivery,Medium,117
+161,I think someone else accessed my account. I first noticed this on Sunday at 06:49. I would appreciate some help resolving this.,Account,High,127
+162,My payment went through but the balance still shows unpaid. I first noticed this on Wednesday at 19:57. Please advise on the next step.,Billing,High,135
+163,How can I update my billing address? I first noticed this on Friday at 11:33. Please advise on the next step.,Billing,Low,109
+164,My refund has been pending for several business days. I first noticed this on Monday at 10:30. Can you provide an update?,Refund,High,121
+165,I was charged in the wrong currency. I first noticed this on Friday at 01:39. Please advise on the next step.,Billing,Medium,109
+166,I cannot receive verification codes after changing my phone number. I first noticed this on Sunday at 08:50. Can you look into this?,Account,High,132
+167,I cancelled my subscription and want a partial refund. I first noticed this on Monday at 16:55. Please advise on the next step.,Refund,Medium,127
+168,My verification code has expired. I first noticed this on Sunday at 18:44. Can you look into this?,Account,Medium,98
+169,My billing date is different from what I expected. I first noticed this on Thursday at 19:25. Please let me know what I should do next.,Billing,Medium,135
+170,My card was declined and my subscription may be cancelled. I first noticed this on Wednesday at 17:45. Please advise on the next step.,Billing,High,134
+171,The app shows a blank screen after the update. I first noticed this on Tuesday at 03:04. Could you check this for me?,Technical,High,117
+172,The courier says my address is invalid. I first noticed this on Saturday at 09:33. Can you provide an update?,Delivery,Medium,109
+173,How can I update my personal details? I first noticed this on Monday at 04:49. I would appreciate some help resolving this.,Account,Low,123
+174,My refund was processed but the money is missing. I first noticed this on Monday at 09:13. Please advise on the next step.,Refund,High,122
+175,Can you send me a receipt for my latest payment? I first noticed this on Friday at 07:09. Please advise on the next step.,Billing,Low,121
+176,Can you tell me where my package is? I first noticed this on Saturday at 15:36. Can you look into this?,Delivery,Medium,103
+177,My parcel says delivered but I cannot find it. I first noticed this on Friday at 18:42. Can you look into this?,Delivery,High,111
+178,The tracking link does not work. I first noticed this on Saturday at 13:35. I would appreciate some help resolving this.,Delivery,Medium,120
+179,The checkout button is not responding. I first noticed this on Monday at 21:23. Please let me know what I should do next.,Technical,High,121
+180,My order arrived damaged. I first noticed this on Friday at 16:19. Could you check this for me?,Delivery,High,95
+181,The CSV export option is not working. I first noticed this on Wednesday at 05:39. Can you look into this?,Technical,Medium,105
+182,I received the wrong item. I first noticed this on Friday at 21:38. Please let me know what I should do next.,Delivery,High,109
+183,The courier attempted delivery while I was away. I first noticed this on Saturday at 19:49. Could you check this for me?,Delivery,Low,120
+184,I want to return my purchase and request a refund. I first noticed this on Monday at 14:43. Please advise on the next step.,Refund,Medium,123
+185,The checkout button is not responding. I first noticed this on Tuesday at 11:08. I would appreciate some help resolving this.,Technical,High,125
+186,I get an error every time I upload a file. I first noticed this on Monday at 20:17. Please let me know what I should do next.,Technical,High,125
+187,Notifications have stopped appearing. I first noticed this on Tuesday at 17:00. Can you provide an update?,Technical,Medium,106
+188,My promotional discount was not applied. I first noticed this on Friday at 03:07. Please let me know what I should do next.,Billing,Medium,123
+189,I want to return my purchase and request a refund. I first noticed this on Monday at 11:03. Can you look into this?,Refund,Medium,115
+190,I want to return my purchase and request a refund. I first noticed this on Monday at 11:58. Could you check this for me?,Refund,Medium,120
+191,I cannot receive verification codes after changing my phone number. I first noticed this on Sunday at 03:20. Can you look into this?,Account,High,132
+192,The checkout button is not responding. I first noticed this on Tuesday at 02:53. Please let me know what I should do next.,Technical,High,122
+193,I was charged twice for the same subscription. I first noticed this on Wednesday at 17:01. Please let me know what I should do next.,Billing,High,132
+194,Can you tell me where my package is? I first noticed this on Saturday at 03:41. I would appreciate some help resolving this.,Delivery,Medium,124
+195,My refund was processed but the money is missing. I first noticed this on Monday at 10:08. I would appreciate some help resolving this.,Refund,High,135
+196,The amount on my invoice looks incorrect. I first noticed this on Friday at 00:11. Can you look into this?,Billing,Medium,106
+197,Can I request a refund for something bought yesterday? I first noticed this on Monday at 22:03. Can you look into this?,Refund,Low,119
+198,I think someone else accessed my account. I first noticed this on Sunday at 07:44. Can you look into this?,Account,High,106
+199,Search is not returning the expected results. I first noticed this on Tuesday at 21:02. I would appreciate some help resolving this.,Technical,Medium,132
+200,Notifications have stopped appearing. I first noticed this on Wednesday at 05:50. I would appreciate some help resolving this.,Technical,Medium,126
+201,The dashboard takes a long time to load. I first noticed this on Tuesday at 15:43. Please advise on the next step.,Technical,Medium,114
+202,My order arrived damaged. I first noticed this on Friday at 19:59. I would appreciate some help resolving this.,Delivery,High,111
+203,My account has been locked. I first noticed this on Sunday at 02:47. Can you provide an update?,Account,High,95
+204,The tracking link does not work. I first noticed this on Saturday at 07:10. Please advise on the next step.,Delivery,Medium,107
+205,There is a minor formatting issue on the dashboard. I first noticed this on Wednesday at 12:48. Can you provide an update?,Technical,Low,122
+206,I was charged after cancelling the service. I first noticed this on Thursday at 06:24. Could you check this for me?,Billing,High,115
+207,How can I update my personal details? I first noticed this on Monday at 01:09. Could you check this for me?,Account,Low,107
+208,I was charged in the wrong currency. I first noticed this on Thursday at 21:04. I would appreciate some help resolving this.,Billing,Medium,124
+209,I paid for express shipping but the order is seriously delayed. I first noticed this on Friday at 17:25. Could you check this for me?,Delivery,High,133
+210,Search is not returning the expected results. I first noticed this on Wednesday at 03:27. Can you look into this?,Technical,Medium,113
+211,I requested a refund several days ago and it has not arrived. I first noticed this on Monday at 05:11. Please let me know what I should do next.,Refund,High,144
+212,How do I enable two-factor authentication? I first noticed this on Sunday at 23:08. Can you look into this?,Account,Low,107
+213,I cannot log in even though my password is correct. I first noticed this on Sunday at 09:56. Can you look into this?,Account,High,116
+214,I cannot receive verification codes after changing my phone number. I first noticed this on Sunday at 05:10. Please let me know what I should do next.,Account,High,150
+215,Tracking has not updated for several days. I first noticed this on Saturday at 11:12. Can you look into this?,Delivery,Medium,109
+216,Can I get a copy of last month's invoice? I first noticed this on Friday at 10:16. I would appreciate some help resolving this.,Billing,Low,127
+217,The CSV export option is not working. I first noticed this on Tuesday at 17:44. I would appreciate some help resolving this.,Technical,Medium,124
+218,How do I enable two-factor authentication? I first noticed this on Monday at 01:53. Can you provide an update?,Account,Low,110
+219,My refund was sent to the wrong card. I first noticed this on Monday at 07:34. Could you check this for me?,Refund,High,107
+220,I was charged in the wrong currency. I first noticed this on Thursday at 18:19. Please let me know what I should do next.,Billing,Medium,121
+221,My card was declined and my subscription may be cancelled. I first noticed this on Thursday at 01:05. Can you look into this?,Billing,High,125
+222,I do not recognise a charge on my statement. I first noticed this on Wednesday at 22:53. Can you look into this?,Billing,High,112
+223,Where can I check my refund status? I first noticed this on Monday at 21:30. Can you provide an update?,Refund,Low,103
+224,My payment is still showing as pending. I first noticed this on Thursday at 22:43. Please let me know what I should do next.,Billing,Medium,124
+225,The courier says my address is invalid. I first noticed this on Saturday at 06:48. Can you look into this?,Delivery,Medium,106
+226,The courier says my address is invalid. I first noticed this on Saturday at 05:53. I would appreciate some help resolving this.,Delivery,Medium,127
+227,Where can I check my refund status? I first noticed this on Monday at 19:40. Could you check this for me?,Refund,Low,105
+228,There is a minor formatting issue on the dashboard. I first noticed this on Wednesday at 16:28. Could you check this for me?,Technical,Low,124
+229,I was charged after cancelling the service. I first noticed this on Thursday at 10:04. I would appreciate some help resolving this.,Billing,High,131
+230,Search is not returning the expected results. I first noticed this on Tuesday at 20:07. Please advise on the next step.,Technical,Medium,119
+231,Where can I view my billing history? I first noticed this on Friday at 08:15. Please advise on the next step.,Billing,Low,109
+232,My refund has been pending for several business days. I first noticed this on Monday at 06:50. I would appreciate some help resolving this.,Refund,High,139
+233,Can I change the delivery address before shipping? I first noticed this on Saturday at 23:07. Could you check this for me?,Delivery,Low,122
+234,I paid for express shipping but the order is seriously delayed. I first noticed this on Friday at 18:20. Please let me know what I should do next.,Delivery,High,146
+235,My account has been locked. I first noticed this on Sunday at 00:57. Could you check this for me?,Account,High,97
+236,I get an error every time I upload a file. I first noticed this on Tuesday at 07:17. Please let me know what I should do next.,Technical,High,126
+237,Some product images are not displaying correctly. I first noticed this on Wednesday at 16:17. Please let me know what I should do next.,Technical,Low,135
+238,Is this purchase eligible for a refund? I first noticed this on Monday at 19:07. Please advise on the next step.,Refund,Low,112
+239,How can I start a refund request? I first noticed this on Monday at 21:19. Please advise on the next step.,Refund,Low,106
+240,I forgot my password and need to reset it. I first noticed this on Sunday at 20:56. Can you look into this?,Account,Medium,107
+241,I am not receiving the verification email. I first noticed this on Sunday at 19:17. Can you provide an update?,Account,Medium,110
+242,Can I get my money back for a cancelled order? I first noticed this on Monday at 17:17. Please let me know what I should do next.,Refund,Medium,129
+243,My payment went through but the balance still shows unpaid. I first noticed this on Wednesday at 19:02. Can you provide an update?,Billing,High,130
+244,My order arrived damaged. I first noticed this on Saturday at 01:29. I would appreciate some help resolving this.,Delivery,High,113
+245,When should I expect my delivery? I first noticed this on Saturday at 22:56. Please let me know what I should do next.,Delivery,Low,118
+246,I was charged twice for the same subscription. I first noticed this on Wednesday at 20:41. Can you look into this?,Billing,High,114
+247,I cancelled my subscription and want a partial refund. I first noticed this on Monday at 17:50. I would appreciate some help resolving this.,Refund,Medium,140
+248,Search is not returning the expected results. I first noticed this on Tuesday at 12:47. Please let me know what I should do next.,Technical,Medium,129
+249,I was charged twice for the same subscription. I first noticed this on Thursday at 08:36. Could you check this for me?,Billing,High,118
+250,The tracking link does not work. I first noticed this on Saturday at 09:00. Can you look into this?,Delivery,Medium,99
+251,I forgot my password and need to reset it. I first noticed this on Sunday at 20:01. I would appreciate some help resolving this.,Account,Medium,128
+252,The application freezes when I submit the form. I first noticed this on Monday at 13:30. Can you provide an update?,Technical,High,115
+253,The checkout button is not responding. I first noticed this on Tuesday at 03:48. Can you provide an update?,Technical,High,107
+254,I requested a refund several days ago and it has not arrived. I first noticed this on Monday at 08:51. Can you look into this?,Refund,High,126
+255,Can I change the name on my profile? I first noticed this on Monday at 03:32. Can you look into this?,Account,Low,101
+256,Some product images are not displaying correctly. I first noticed this on Wednesday at 14:27. Can you look into this?,Technical,Low,117
+257,Can I get my money back for a cancelled order? I first noticed this on Monday at 14:32. I would appreciate some help resolving this.,Refund,Medium,132
+258,I would like a refund for my recent purchase. I first noticed this on Monday at 13:26. I would appreciate some help resolving this.,Refund,Medium,131
+259,My payment went through but the balance still shows unpaid. I first noticed this on Wednesday at 18:07. Please let me know what I should do next.,Billing,High,145
+260,The website layout looks unusual on my tablet. I first noticed this on Wednesday at 14:16. Could you check this for me?,Technical,Low,119
+261,How can I start a refund request? I first noticed this on Monday at 22:14. I would appreciate some help resolving this.,Refund,Low,119
+262,Where can I find my tracking number? I first noticed this on Saturday at 22:45. Can you provide an update?,Delivery,Low,106
+263,I was charged in the wrong currency. I first noticed this on Thursday at 20:09. Please advise on the next step.,Billing,Medium,111
+264,The application freezes when I submit the form. I first noticed this on Monday at 17:10. Could you check this for me?,Technical,High,117
+265,My package is stuck at the sorting centre. I first noticed this on Saturday at 13:24. Can you look into this?,Delivery,Medium,109
+266,The app shows a blank screen after the update. I first noticed this on Monday at 21:34. Could you check this for me?,Technical,High,116
+267,My card was declined and my subscription may be cancelled. I first noticed this on Wednesday at 20:30. Could you check this for me?,Billing,High,131
+268,My parcel says delivered but I cannot find it. I first noticed this on Friday at 20:32. Please let me know what I should do next.,Delivery,High,129
+269,Can I change the delivery address before shipping? I first noticed this on Saturday at 22:12. Can you look into this?,Delivery,Low,117
+270,There is a minor formatting issue on the dashboard. I first noticed this on Wednesday at 10:58. Could you check this for me?,Technical,Low,124
+271,The application freezes when I submit the form. I first noticed this on Tuesday at 09:40. Could you check this for me?,Technical,High,118
+272,My card was declined and my subscription may be cancelled. I first noticed this on Thursday at 12:05. Can you look into this?,Billing,High,125
+273,Can I get a copy of last month's invoice? I first noticed this on Friday at 07:31. Please let me know what I should do next.,Billing,Low,124
+274,Where can I find my tracking number? I first noticed this on Sunday at 00:35. I would appreciate some help resolving this.,Delivery,Low,122
+275,My account has been locked. I first noticed this on Sunday at 05:32. Can you look into this?,Account,High,92
+276,The application freezes when I submit the form. I first noticed this on Monday at 19:00. Can you provide an update?,Technical,High,115
+277,Can I request a refund for something bought yesterday? I first noticed this on Monday at 21:08. I would appreciate some help resolving this.,Refund,Low,140
+278,My billing date is different from what I expected. I first noticed this on Thursday at 13:00. Could you check this for me?,Billing,Medium,122
+279,The refund amount I received is incorrect. I first noticed this on Monday at 07:12. Can you provide an update?,Refund,High,110
+280,I cannot receive verification codes after changing my phone number. I first noticed this on Sunday at 01:30. Please advise on the next step.,Account,High,140
+281,Can I get a copy of last month's invoice? I first noticed this on Friday at 08:26. Can you provide an update?,Billing,Low,109
+282,I was charged in the wrong currency. I first noticed this on Thursday at 14:39. Please advise on the next step.,Billing,Medium,111
+283,The website is running very slowly. I first noticed this on Wednesday at 05:06. Can you provide an update?,Technical,Medium,106
+284,How can I start a refund request? I first noticed this on Monday at 23:09. Can you look into this?,Refund,Low,98
+285,The amount on my invoice looks incorrect. I first noticed this on Friday at 03:51. Please advise on the next step.,Billing,Medium,114
+286,My card was declined and my subscription may be cancelled. I first noticed this on Thursday at 02:55. Please let me know what I should do next.,Billing,High,143
+287,My payment went through but the balance still shows unpaid. I first noticed this on Thursday at 08:47. Can you look into this?,Billing,High,126
+288,I was charged in the wrong currency. I first noticed this on Friday at 05:19. Please let me know what I should do next.,Billing,Medium,119
+289,My promotional discount was not applied. I first noticed this on Thursday at 22:32. Can you provide an update?,Billing,Medium,110
+290,I would like a refund for my recent purchase. I first noticed this on Monday at 14:21. Can you look into this?,Refund,Medium,110
+291,The amount on my invoice looks incorrect. I first noticed this on Thursday at 23:16. I would appreciate some help resolving this.,Billing,Medium,129
+292,The website layout looks unusual on my tablet. I first noticed this on Wednesday at 16:06. Can you provide an update?,Technical,Low,117
+293,The application freezes when I submit the form. I first noticed this on Monday at 15:20. I would appreciate some help resolving this.,Technical,High,133
+294,Search is not returning the expected results. I first noticed this on Wednesday at 06:12. Can you provide an update?,Technical,Medium,116
+295,The app crashes whenever I open the settings page. I first noticed this on Monday at 15:31. Please advise on the next step.,Technical,High,123
+296,My order arrived damaged. I first noticed this on Friday at 21:49. Could you check this for me?,Delivery,High,95
+297,I cannot sign in on my new phone. I first noticed this on Sunday at 22:13. I would appreciate some help resolving this.,Account,Medium,119
+298,I think someone else accessed my account. I first noticed this on Sunday at 10:29. Can you provide an update?,Account,High,109
+299,My billing date is different from what I expected. I first noticed this on Thursday at 23:05. Can you look into this?,Billing,Medium,117
+300,The app crashes whenever I open the settings page. I first noticed this on Monday at 17:21. Can you look into this?,Technical,High,115
+301,I was charged after cancelling the service. I first noticed this on Thursday at 05:29. Can you look into this?,Billing,High,110
+302,When should I expect my delivery? I first noticed this on Saturday at 21:06. Can you look into this?,Delivery,Low,100
+303,My payment went through but the balance still shows unpaid. I first noticed this on Wednesday at 23:37. Please let me know what I should do next.,Billing,High,145
+304,Where can I view my billing history? I first noticed this on Friday at 12:50. Can you provide an update?,Billing,Low,104
+305,The website layout looks unusual on my tablet. I first noticed this on Wednesday at 07:51. Can you look into this?,Technical,Low,114
+306,My order arrived damaged. I first noticed this on Friday at 19:04. Please advise on the next step.,Delivery,High,98
+307,The website is running very slowly. I first noticed this on Wednesday at 00:31. Please advise on the next step.,Technical,Medium,111
+308,I was charged in the wrong currency. I first noticed this on Thursday at 22:54. Could you check this for me?,Billing,Medium,108
+309,The app crashes whenever I open the settings page. I first noticed this on Tuesday at 06:11. Please let me know what I should do next.,Technical,High,134
+310,Can I change the delivery address before shipping? I first noticed this on Saturday at 20:22. Please advise on the next step.,Delivery,Low,125
+311,The app shows a blank screen after the update. I first noticed this on Monday at 22:29. Please let me know what I should do next.,Technical,High,129
+312,How do I enable two-factor authentication? I first noticed this on Monday at 02:48. Please advise on the next step.,Account,Low,115
+313,I was charged twice for the same subscription. I first noticed this on Thursday at 04:01. Please let me know what I should do next.,Billing,High,131
+314,My verification code has expired. I first noticed this on Sunday at 11:24. Please advise on the next step.,Account,Medium,106
+315,Search is not returning the expected results. I first noticed this on Tuesday at 21:57. Can you look into this?,Technical,Medium,111
+316,I was charged after cancelling the service. I first noticed this on Thursday at 11:54. Could you check this for me?,Billing,High,115
+317,Search is not returning the expected results. I first noticed this on Wednesday at 05:17. Please let me know what I should do next.,Technical,Medium,131
+318,I paid for express shipping but the order is seriously delayed. I first noticed this on Friday at 22:00. Can you look into this?,Delivery,High,128
+319,I was charged in the wrong currency. I first noticed this on Friday at 02:34. I would appreciate some help resolving this.,Billing,Medium,122
+320,My card was declined and my subscription may be cancelled. I first noticed this on Thursday at 00:10. I would appreciate some help resolving this.,Billing,High,146
+321,Can I delete my account permanently? I first noticed this on Monday at 03:10. Please let me know what I should do next.,Account,Low,119
+322,The CSV export option is not working. I first noticed this on Tuesday at 20:29. Please let me know what I should do next.,Technical,Medium,121
+323,How do I change my account email? I first noticed this on Monday at 02:26. Can you look into this?,Account,Low,98
+324,I cancelled my subscription and want a partial refund. I first noticed this on Monday at 16:00. Can you provide an update?,Refund,Medium,122
+325,I was charged twice for the same subscription. I first noticed this on Wednesday at 18:51. Please advise on the next step.,Billing,High,122
+326,The tracking link does not work. I first noticed this on Saturday at 10:50. Please let me know what I should do next.,Delivery,Medium,117
+327,Can I change the delivery address before shipping? I first noticed this on Saturday at 18:32. Please let me know what I should do next.,Delivery,Low,135
+328,My payment went through but the balance still shows unpaid. I first noticed this on Thursday at 00:32. Can you provide an update?,Billing,High,129
+329,When will my next payment be taken? I first noticed this on Friday at 11:22. I would appreciate some help resolving this.,Billing,Low,121
+330,Someone changed my account email without permission. I first noticed this on Sunday at 09:23. Can you provide an update?,Account,High,120
+331,There is a minor formatting issue on the dashboard. I first noticed this on Wednesday at 10:03. Can you look into this?,Technical,Low,119
+332,The checkout button is not responding. I first noticed this on Monday at 09:28. Could you check this for me?,Technical,High,108
+333,My card was declined and my subscription may be cancelled. I first noticed this on Wednesday at 19:35. Can you look into this?,Billing,High,126
+334,My billing date is different from what I expected. I first noticed this on Thursday at 15:45. Please advise on the next step.,Billing,Medium,125
+335,My order arrived damaged. I first noticed this on Saturday at 02:24. Can you look into this?,Delivery,High,92
+336,The tracking link does not work. I first noticed this on Saturday at 17:15. Can you provide an update?,Delivery,Medium,102
+337,I was charged after cancelling the service. I first noticed this on Thursday at 09:09. Please advise on the next step.,Billing,High,118
+338,Can I delete my account permanently? I first noticed this on Monday at 05:00. Please advise on the next step.,Account,Low,109
+339,I get an error every time I upload a file. I first noticed this on Tuesday at 09:07. Please advise on the next step.,Technical,High,116
+340,I get an error every time I upload a file. I first noticed this on Tuesday at 08:12. Can you provide an update?,Technical,High,111
+341,I cancelled my subscription and want a partial refund. I first noticed this on Monday at 12:20. I would appreciate some help resolving this.,Refund,Medium,140
+342,The courier says my address is invalid. I first noticed this on Saturday at 12:18. Can you look into this?,Delivery,Medium,106
+343,The app shows a blank screen after the update. I first noticed this on Monday at 10:34. Could you check this for me?,Technical,High,116
+344,My order has not arrived and it is overdue. I first noticed this on Friday at 23:06. Can you look into this?,Delivery,High,108
+345,When will my next payment be taken? I first noticed this on Friday at 06:47. Can you look into this?,Billing,Low,100
+346,The website layout looks unusual on my tablet. I first noticed this on Wednesday at 10:36. Can you provide an update?,Technical,Low,117
+347,My billing date is different from what I expected. I first noticed this on Thursday at 18:30. Could you check this for me?,Billing,Medium,122
+348,Can you tell me where my package is? I first noticed this on Saturday at 17:26. Please let me know what I should do next.,Delivery,Medium,121
+349,The dashboard takes a long time to load. I first noticed this on Tuesday at 20:18. Can you provide an update?,Technical,Medium,109
+350,My parcel says delivered but I cannot find it. I first noticed this on Friday at 22:22. Please advise on the next step.,Delivery,High,119
+351,My promotional discount was not applied. I first noticed this on Thursday at 23:27. Please advise on the next step.,Billing,Medium,115
+352,The app shows a blank screen after the update. I first noticed this on Tuesday at 06:44. I would appreciate some help resolving this.,Technical,High,133
+353,The application freezes when I submit the form. I first noticed this on Tuesday at 08:45. Can you look into this?,Technical,High,113
+354,My account keeps logging me out. I first noticed this on Sunday at 18:00. Please advise on the next step.,Account,Medium,105
+355,The tracking link does not work. I first noticed this on Saturday at 09:55. Could you check this for me?,Delivery,Medium,104
+356,My parcel says delivered but I cannot find it. I first noticed this on Friday at 21:27. Can you provide an update?,Delivery,High,114
+357,The checkout button is not responding. I first noticed this on Monday at 10:23. Please let me know what I should do next.,Technical,High,121
+358,The app crashes whenever I open the settings page. I first noticed this on Monday at 14:36. Can you provide an update?,Technical,High,118
+359,How can I update my billing address? I first noticed this on Friday at 06:58. I would appreciate some help resolving this.,Billing,Low,122
+360,My account has been locked. I first noticed this on Sunday at 01:52. Please let me know what I should do next.,Account,High,110
+361,My account keeps logging me out. I first noticed this on Sunday at 18:55. I would appreciate some help resolving this.,Account,Medium,118
+362,Where can I find my tracking number? I first noticed this on Saturday at 20:00. Can you look into this?,Delivery,Low,103
+363,I would like a refund for my recent purchase. I first noticed this on Monday at 17:06. Can you provide an update?,Refund,Medium,113
+364,Why was my refund rejected? I first noticed this on Monday at 18:34. Could you check this for me?,Refund,Medium,97
+365,I was charged twice for the same subscription. I first noticed this on Thursday at 05:51. Please advise on the next step.,Billing,High,121
+366,Search is not returning the expected results. I first noticed this on Wednesday at 04:22. Could you check this for me?,Technical,Medium,118
+367,I cannot log in even though my password is correct. I first noticed this on Sunday at 02:36. Please advise on the next step.,Account,High,124
+368,Can I change the name on my profile? I first noticed this on Monday at 00:47. Can you provide an update?,Account,Low,104
+369,I cannot log in even though my password is correct. I first noticed this on Sunday at 04:26. Can you look into this?,Account,High,116
+370,I paid for express shipping but the order is seriously delayed. I first noticed this on Friday at 23:50. Please let me know what I should do next.,Delivery,High,146
+371,When should I expect my delivery? I first noticed this on Saturday at 23:51. Can you provide an update?,Delivery,Low,103
+372,My payment went through but the balance still shows unpaid. I first noticed this on Thursday at 06:02. Can you provide an update?,Billing,High,129
+373,I cannot sign in on my new phone. I first noticed this on Sunday at 17:38. Can you look into this?,Account,Medium,98
+374,How do I enable two-factor authentication? I first noticed this on Monday at 03:43. I would appreciate some help resolving this.,Account,Low,128
+375,The app shows a blank screen after the update. I first noticed this on Monday at 16:59. Please let me know what I should do next.,Technical,High,129
+376,I get an error every time I upload a file. I first noticed this on Monday at 22:07. Please advise on the next step.,Technical,High,115
+377,My card was declined and my subscription may be cancelled. I first noticed this on Thursday at 09:20. Can you provide an update?,Billing,High,128
+378,How can I start a refund request? I first noticed this on Monday at 20:24. Can you provide an update?,Refund,Low,101
+379,I do not recognise a charge on my statement. I first noticed this on Wednesday at 18:18. Could you check this for me?,Billing,High,117
+380,My account keeps logging me out. I first noticed this on Sunday at 11:35. Can you provide an update?,Account,Medium,100
+381,There is a minor formatting issue on the dashboard. I first noticed this on Wednesday at 11:53. Please let me know what I should do next.,Technical,Low,137
+382,My promotional discount was not applied. I first noticed this on Friday at 01:17. Can you look into this?,Billing,Medium,105
+383,The courier attempted delivery while I was away. I first noticed this on Sunday at 00:24. Can you look into this?,Delivery,Low,113
+384,Someone changed my account email without permission. I first noticed this on Sunday at 03:53. Can you provide an update?,Account,High,120
+385,My account has been locked. I first noticed this on Sunday at 10:07. I would appreciate some help resolving this.,Account,High,113
+386,I think someone else accessed my account. I first noticed this on Sunday at 01:19. I would appreciate some help resolving this.,Account,High,127
+387,The text spacing looks unusual on mobile. I first noticed this on Wednesday at 15:00. Can you provide an update?,Technical,Low,112
+388,The checkout button is not responding. I first noticed this on Monday at 14:58. Could you check this for me?,Technical,High,108
+389,Can you send me a receipt for my latest payment? I first noticed this on Friday at 09:54. Could you check this for me?,Billing,Low,118
+390,Can I change the delivery address before shipping? I first noticed this on Sunday at 00:02. Please let me know what I should do next.,Delivery,Low,133
+391,I received the wrong item. I first noticed this on Friday at 17:58. Please advise on the next step.,Delivery,High,99
+392,My promotional discount was not applied. I first noticed this on Thursday at 13:22. I would appreciate some help resolving this.,Billing,Medium,128
+393,How can I update my billing address? I first noticed this on Friday at 09:43. Please let me know what I should do next.,Billing,Low,119
+394,I think someone else accessed my account. I first noticed this on Sunday at 03:09. Could you check this for me?,Account,High,111
+395,I requested a refund several days ago and it has not arrived. I first noticed this on Monday at 07:01. Please advise on the next step.,Refund,High,134
+396,The CSV export option is not working. I first noticed this on Tuesday at 22:19. Please advise on the next step.,Technical,Medium,111
+397,My card was declined and my subscription may be cancelled. I first noticed this on Thursday at 05:40. I would appreciate some help resolving this.,Billing,High,146
+398,My parcel says delivered but I cannot find it. I first noticed this on Friday at 14:07. Could you check this for me?,Delivery,High,116
+399,Where can I view my billing history? I first noticed this on Friday at 07:20. Can you provide an update?,Billing,Low,104
+400,I was charged in the wrong currency. I first noticed this on Friday at 00:44. Can you provide an update?,Billing,Medium,104
+401,The website is running very slowly. I first noticed this on Tuesday at 13:31. Please advise on the next step.,Technical,Medium,109
+402,The text spacing looks unusual on mobile. I first noticed this on Wednesday at 11:20. I would appreciate some help resolving this.,Technical,Low,130
+403,How do I change my account email? I first noticed this on Sunday at 22:46. Please let me know what I should do next.,Account,Low,116
+404,Notifications have stopped appearing. I first noticed this on Tuesday at 19:45. Can you look into this?,Technical,Medium,103
+405,Can I get my money back for a cancelled order? I first noticed this on Monday at 10:52. Could you check this for me?,Refund,Medium,116
+406,One icon looks different from the others. I first noticed this on Wednesday at 11:09. Can you look into this?,Technical,Low,109
+407,My package is stuck at the sorting centre. I first noticed this on Saturday at 06:59. I would appreciate some help resolving this.,Delivery,Medium,130
+408,My promotional discount was not applied. I first noticed this on Thursday at 12:27. Please advise on the next step.,Billing,Medium,115
+409,Search is not returning the expected results. I first noticed this on Tuesday at 17:22. Could you check this for me?,Technical,Medium,116
+410,My refund was sent to the wrong card. I first noticed this on Monday at 09:24. Can you provide an update?,Refund,High,105
+411,The amount on my invoice looks incorrect. I first noticed this on Thursday at 15:56. Can you provide an update?,Billing,Medium,111
+412,I was charged after cancelling the service. I first noticed this on Thursday at 07:19. Please let me know what I should do next.,Billing,High,128
+413,Notifications have stopped appearing. I first noticed this on Tuesday at 12:25. Please advise on the next step.,Technical,Medium,111
+414,Why was my refund rejected? I first noticed this on Monday at 13:59. Please let me know what I should do next.,Refund,Medium,110
+415,Someone changed my account email without permission. I first noticed this on Sunday at 04:48. Please advise on the next step.,Account,High,125
+416,Where can I find my tracking number? I first noticed this on Saturday at 23:40. Please advise on the next step.,Delivery,Low,111
+417,I requested a refund several days ago and it has not arrived. I first noticed this on Monday at 09:46. Could you check this for me?,Refund,High,131
+418,How can I start a refund request? I first noticed this on Monday at 19:29. Please let me know what I should do next.,Refund,Low,116
+419,Tracking has not updated for several days. I first noticed this on Saturday at 06:37. Could you check this for me?,Delivery,Medium,114
+420,The checkout button is not responding. I first noticed this on Tuesday at 06:33. Can you look into this?,Technical,High,104
+421,The website is running very slowly. I first noticed this on Tuesday at 19:56. I would appreciate some help resolving this.,Technical,Medium,122
+422,The dashboard takes a long time to load. I first noticed this on Wednesday at 01:48. Can you provide an update?,Technical,Medium,111
+423,Tracking has not updated for several days. I first noticed this on Saturday at 10:17. I would appreciate some help resolving this.,Delivery,Medium,130
+424,The app shows a blank screen after the update. I first noticed this on Monday at 08:44. I would appreciate some help resolving this.,Technical,High,132
+425,My payment is still showing as pending. I first noticed this on Thursday at 21:48. Could you check this for me?,Billing,Medium,111
+426,I cancelled my subscription and want a partial refund. I first noticed this on Monday at 14:10. Could you check this for me?,Refund,Medium,124
+427,I do not recognise a charge on my statement. I first noticed this on Wednesday at 23:48. Could you check this for me?,Billing,High,117
+428,I forgot my password and need to reset it. I first noticed this on Sunday at 19:06. Please advise on the next step.,Account,Medium,115
+429,The dashboard takes a long time to load. I first noticed this on Wednesday at 02:43. Please advise on the next step.,Technical,Medium,116
+430,How can I update my personal details? I first noticed this on Monday at 02:04. Please let me know what I should do next.,Account,Low,120
+431,My account has been locked. I first noticed this on Sunday at 08:17. Can you provide an update?,Account,High,95
+432,The amount on my invoice looks incorrect. I first noticed this on Friday at 02:01. Please let me know what I should do next.,Billing,Medium,124
+433,Tracking has not updated for several days. I first noticed this on Saturday at 04:47. I would appreciate some help resolving this.,Delivery,Medium,130
+434,The website layout looks unusual on my tablet. I first noticed this on Wednesday at 09:41. Please let me know what I should do next.,Technical,Low,132
+435,Where can I check my refund status? I first noticed this on Monday at 20:35. Please let me know what I should do next.,Refund,Low,118
+436,I cannot log in even though my password is correct. I first noticed this on Sunday at 08:06. Please advise on the next step.,Account,High,124
+437,Someone changed my account email without permission. I first noticed this on Sunday at 05:43. I would appreciate some help resolving this.,Account,High,138
+438,My payment went through but the balance still shows unpaid. I first noticed this on Wednesday at 21:47. Can you look into this?,Billing,High,127
+439,One icon looks different from the others. I first noticed this on Wednesday at 12:04. Could you check this for me?,Technical,Low,114
+440,I do not recognise a charge on my statement. I first noticed this on Thursday at 11:43. Please let me know what I should do next.,Billing,High,129
+441,Where can I find my tracking number? I first noticed this on Saturday at 20:55. Could you check this for me?,Delivery,Low,108
+442,I am not receiving the verification email. I first noticed this on Sunday at 12:52. Please let me know what I should do next.,Account,Medium,125
+443,The app shows a blank screen after the update. I first noticed this on Monday at 09:39. Can you look into this?,Technical,High,111
+444,Can I change the delivery address before shipping? I first noticed this on Saturday at 21:17. I would appreciate some help resolving this.,Delivery,Low,138
+445,My payment is still showing as pending. I first noticed this on Thursday at 20:53. Can you look into this?,Billing,Medium,106
+446,The app shows a blank screen after the update. I first noticed this on Monday at 19:44. I would appreciate some help resolving this.,Technical,High,132
+447,My order arrived damaged. I first noticed this on Friday at 18:09. Can you provide an update?,Delivery,High,93
+448,Can you tell me where my package is? I first noticed this on Saturday at 04:36. Can you look into this?,Delivery,Medium,103
+449,The dashboard takes a long time to load. I first noticed this on Wednesday at 00:53. Please let me know what I should do next.,Technical,Medium,126
+450,The website is running very slowly. I first noticed this on Tuesday at 21:46. Could you check this for me?,Technical,Medium,106
+451,I received the wrong item. I first noticed this on Friday at 16:08. Please let me know what I should do next.,Delivery,High,109
+452,Is this purchase eligible for a refund? I first noticed this on Monday at 21:52. Could you check this for me?,Refund,Low,109
+453,My order has not arrived and it is overdue. I first noticed this on Saturday at 00:01. Could you check this for me?,Delivery,High,115
+454,One icon looks different from the others. I first noticed this on Wednesday at 09:19. Please advise on the next step.,Technical,Low,117
+455,My package is stuck at the sorting centre. I first noticed this on Saturday at 16:09. Can you provide an update?,Delivery,Medium,112
+456,The application freezes when I submit the form. I first noticed this on Monday at 16:15. Can you look into this?,Technical,High,112
+457,The dashboard takes a long time to load. I first noticed this on Tuesday at 12:03. Can you look into this?,Technical,Medium,106
+458,Can I get a copy of last month's invoice? I first noticed this on Friday at 09:21. Please advise on the next step.,Billing,Low,114
+459,I think someone else accessed my account. I first noticed this on Sunday at 09:34. Please let me know what I should do next.,Account,High,124
+460,I get an error every time I upload a file. I first noticed this on Monday at 12:02. I would appreciate some help resolving this.,Technical,High,128
+461,The dashboard takes a long time to load. I first noticed this on Wednesday at 03:38. I would appreciate some help resolving this.,Technical,Medium,129
+462,I received the wrong item. I first noticed this on Friday at 23:28. Please advise on the next step.,Delivery,High,99
+463,My order arrived damaged. I first noticed this on Friday at 17:14. Please let me know what I should do next.,Delivery,High,108
+464,I forgot my password and need to reset it. I first noticed this on Sunday at 11:46. Please let me know what I should do next.,Account,Medium,125
+465,Some product images are not displaying correctly. I first noticed this on Wednesday at 15:22. Could you check this for me?,Technical,Low,122
+466,The website is running very slowly. I first noticed this on Tuesday at 22:41. Please let me know what I should do next.,Technical,Medium,119
+467,My payment is still showing as pending. I first noticed this on Thursday at 12:38. Can you provide an update?,Billing,Medium,109
+468,Notifications have stopped appearing. I first noticed this on Tuesday at 21:35. Please let me know what I should do next.,Technical,Medium,121
+469,How can I update my billing address? I first noticed this on Friday at 13:23. Can you look into this?,Billing,Low,101
+470,Can I get my money back for a cancelled order? I first noticed this on Monday at 15:27. Can you look into this?,Refund,Medium,111
+471,My payment went through but the balance still shows unpaid. I first noticed this on Thursday at 06:57. Please advise on the next step.,Billing,High,134
+472,I was charged twice for the same subscription. I first noticed this on Thursday at 09:31. Please let me know what I should do next.,Billing,High,131
+473,My billing date is different from what I expected. I first noticed this on Thursday at 16:40. I would appreciate some help resolving this.,Billing,Medium,138
+474,I cannot log in even though my password is correct. I first noticed this on Sunday at 05:21. Could you check this for me?,Account,High,121
+475,I think someone else accessed my account. I first noticed this on Sunday at 05:54. Please advise on the next step.,Account,High,114
+476,When will my next payment be taken? I first noticed this on Friday at 08:37. Please let me know what I should do next.,Billing,Low,118
+477,The CSV export option is not working. I first noticed this on Wednesday at 01:59. Please let me know what I should do next.,Technical,Medium,123
+478,I cannot receive verification codes after changing my phone number. I first noticed this on Sunday at 07:00. Please advise on the next step.,Account,High,140
+479,The app shows a blank screen after the update. I first noticed this on Monday at 23:24. Can you provide an update?,Technical,High,114
+480,The CSV export option is not working. I first noticed this on Wednesday at 00:09. Can you look into this?,Technical,Medium,105
+481,I was charged twice for the same subscription. I first noticed this on Thursday at 11:21. Please advise on the next step.,Billing,High,121
+482,I do not recognise a charge on my statement. I first noticed this on Thursday at 04:23. Can you look into this?,Billing,High,111
+483,I do not recognise a charge on my statement. I first noticed this on Thursday at 07:08. Can you provide an update?,Billing,High,114
+484,I get an error every time I upload a file. I first noticed this on Monday at 10:12. Can you provide an update?,Technical,High,110
+485,The courier says my address is invalid. I first noticed this on Saturday at 07:43. Could you check this for me?,Delivery,Medium,111
+486,Someone changed my account email without permission. I first noticed this on Sunday at 06:38. Can you look into this?,Account,High,117
+487,Can you tell me where my package is? I first noticed this on Saturday at 08:16. Please advise on the next step.,Delivery,Medium,111
+488,I was charged twice for the same subscription. I first noticed this on Thursday at 07:41. Can you look into this?,Billing,High,113
+489,I am not receiving the verification email. I first noticed this on Sunday at 21:07. I would appreciate some help resolving this.,Account,Medium,128
+490,The amount on my invoice looks incorrect. I first noticed this on Thursday at 18:41. Can you look into this?,Billing,Medium,108
+491,I would like a refund for my recent purchase. I first noticed this on Monday at 11:36. Can you provide an update?,Refund,Medium,113
+492,How can I update my billing address? I first noticed this on Friday at 12:28. I would appreciate some help resolving this.,Billing,Low,122
+493,Search is not returning the expected results. I first noticed this on Tuesday at 22:52. Could you check this for me?,Technical,Medium,116
+494,Can I delete my account permanently? I first noticed this on Sunday at 23:30. Please advise on the next step.,Account,Low,109
+495,How do I change my account email? I first noticed this on Monday at 03:21. Could you check this for me?,Account,Low,103
+496,I do not recognise a charge on my statement. I first noticed this on Wednesday at 19:13. Please let me know what I should do next.,Billing,High,130
+497,I received the wrong item. I first noticed this on Friday at 18:53. I would appreciate some help resolving this.,Delivery,High,112
+498,The checkout button is not responding. I first noticed this on Tuesday at 09:18. Can you provide an update?,Technical,High,107
+499,My payment went through but the balance still shows unpaid. I first noticed this on Wednesday at 17:12. Could you check this for me?,Billing,High,132
+500,I cannot sign in on my new phone. I first noticed this on Sunday at 13:58. Please let me know what I should do next.,Account,Medium,116
+501,My verification code has expired. I first noticed this on Sunday at 22:24. Please advise on the next step.,Account,Medium,106
+502,My payment is still showing as pending. I first noticed this on Friday at 00:33. Please advise on the next step.,Billing,Medium,112
+503,I was charged twice for the same subscription. I first noticed this on Wednesday at 21:36. Could you check this for me?,Billing,High,119
+504,My parcel says delivered but I cannot find it. I first noticed this on Friday at 23:17. I would appreciate some help resolving this.,Delivery,High,132
+505,My payment went through but the balance still shows unpaid. I first noticed this on Thursday at 04:12. Could you check this for me?,Billing,High,131
+506,How do I enable two-factor authentication? I first noticed this on Monday at 00:58. Please let me know what I should do next.,Account,Low,125
+507,I forgot my password and need to reset it. I first noticed this on Sunday at 12:41. Can you provide an update?,Account,Medium,110
+508,My verification code has expired. I first noticed this on Sunday at 21:29. Can you provide an update?,Account,Medium,101
+509,The application freezes when I submit the form. I first noticed this on Tuesday at 06:00. Can you provide an update?,Technical,High,116
+510,My payment is still showing as pending. I first noticed this on Friday at 05:08. Can you provide an update?,Billing,Medium,107
+511,The application freezes when I submit the form. I first noticed this on Monday at 21:45. Can you look into this?,Technical,High,112
+512,I was charged in the wrong currency. I first noticed this on Friday at 03:29. Can you look into this?,Billing,Medium,101
+513,My order has not arrived and it is overdue. I first noticed this on Friday at 22:11. I would appreciate some help resolving this.,Delivery,High,129
+514,The checkout button is not responding. I first noticed this on Monday at 13:08. I would appreciate some help resolving this.,Technical,High,124
+515,My promotional discount was not applied. I first noticed this on Friday at 00:22. I would appreciate some help resolving this.,Billing,Medium,126
+516,The checkout button is not responding. I first noticed this on Tuesday at 04:43. Please advise on the next step.,Technical,High,112
+517,Tracking has not updated for several days. I first noticed this on Saturday at 09:22. Please advise on the next step.,Delivery,Medium,117
+518,My billing date is different from what I expected. I first noticed this on Friday at 02:45. Please advise on the next step.,Billing,Medium,123
+519,I am not receiving the verification email. I first noticed this on Sunday at 17:27. Could you check this for me?,Account,Medium,112
+520,Some product images are not displaying correctly. I first noticed this on Wednesday at 08:02. I would appreciate some help resolving this.,Technical,Low,138
+521,I think someone else accessed my account. I first noticed this on Sunday at 02:14. Can you look into this?,Account,High,106
+522,I do not recognise a charge on my statement. I first noticed this on Thursday at 09:53. Can you look into this?,Billing,High,111
+523,How can I update my personal details? I first noticed this on Monday at 00:14. Can you look into this?,Account,Low,102
+524,The CSV export option is not working. I first noticed this on Tuesday at 23:14. I would appreciate some help resolving this.,Technical,Medium,124
+525,The application freezes when I submit the form. I first noticed this on Monday at 20:50. I would appreciate some help resolving this.,Technical,High,133
+526,I cannot sign in on my new phone. I first noticed this on Sunday at 16:43. I would appreciate some help resolving this.,Account,Medium,119
+527,I received the wrong item. I first noticed this on Saturday at 01:18. Can you look into this?,Delivery,High,93
+528,My card was declined and my subscription may be cancelled. I first noticed this on Thursday at 08:25. Please let me know what I should do next.,Billing,High,143
+529,The text spacing looks unusual on mobile. I first noticed this on Wednesday at 14:05. Please let me know what I should do next.,Technical,Low,127
+530,The CSV export option is not working. I first noticed this on Tuesday at 15:54. Can you provide an update?,Technical,Medium,106
+531,My order has not arrived and it is overdue. I first noticed this on Friday at 14:51. Can you provide an update?,Delivery,High,111
+532,Why was my refund rejected? I first noticed this on Monday at 17:39. Can you look into this?,Refund,Medium,92
+533,I get an error every time I upload a file. I first noticed this on Tuesday at 03:37. Please advise on the next step.,Technical,High,116
+534,My payment is still showing as pending. I first noticed this on Thursday at 14:28. I would appreciate some help resolving this.,Billing,Medium,127
+535,The courier attempted delivery while I was away. I first noticed this on Saturday at 23:29. I would appreciate some help resolving this.,Delivery,Low,136
+536,I am not receiving the verification email. I first noticed this on Sunday at 14:42. Please advise on the next step.,Account,Medium,115
+537,Search is not returning the expected results. I first noticed this on Tuesday at 13:42. Can you provide an update?,Technical,Medium,114
+538,Search is not returning the expected results. I first noticed this on Tuesday at 23:47. Please let me know what I should do next.,Technical,Medium,129
+539,The app shows a blank screen after the update. I first noticed this on Monday at 13:19. Please advise on the next step.,Technical,High,119
+540,I was charged twice for the same subscription. I first noticed this on Thursday at 03:06. Could you check this for me?,Billing,High,118
+541,My package is stuck at the sorting centre. I first noticed this on Saturday at 09:44. Please let me know what I should do next.,Delivery,Medium,127
+542,My order has not arrived and it is overdue. I first noticed this on Friday at 18:31. Could you check this for me?,Delivery,High,113
+543,My parcel says delivered but I cannot find it. I first noticed this on Friday at 16:52. Please advise on the next step.,Delivery,High,119
+544,I was charged after cancelling the service. I first noticed this on Thursday at 10:59. Can you look into this?,Billing,High,110
+545,My billing date is different from what I expected. I first noticed this on Friday at 05:30. Could you check this for me?,Billing,Medium,120
+546,The tracking link does not work. I first noticed this on Saturday at 08:05. I would appreciate some help resolving this.,Delivery,Medium,120
+547,My promotional discount was not applied. I first noticed this on Thursday at 21:37. Please let me know what I should do next.,Billing,Medium,125
+548,I cannot receive verification codes after changing my phone number. I first noticed this on Sunday at 04:15. Could you check this for me?,Account,High,137
+549,My payment went through but the balance still shows unpaid. I first noticed this on Thursday at 03:17. Can you look into this?,Billing,High,126
+550,My payment went through but the balance still shows unpaid. I first noticed this on Thursday at 09:42. Could you check this for me?,Billing,High,131
+551,My card was declined and my subscription may be cancelled. I first noticed this on Thursday at 10:15. Please advise on the next step.,Billing,High,133
+552,When should I expect my delivery? I first noticed this on Saturday at 19:16. Please advise on the next step.,Delivery,Low,108
+553,Is this purchase eligible for a refund? I first noticed this on Monday at 20:57. Can you look into this?,Refund,Low,104
+554,The courier says my address is invalid. I first noticed this on Saturday at 08:38. Please let me know what I should do next.,Delivery,Medium,124
+555,My account has been locked. I first noticed this on Sunday at 03:42. Please advise on the next step.,Account,High,100
+556,Can you send me a receipt for my latest payment? I first noticed this on Friday at 10:49. Please let me know what I should do next.,Billing,Low,131
+557,My account keeps logging me out. I first noticed this on Sunday at 16:10. Please let me know what I should do next.,Account,Medium,115
+558,My promotional discount was not applied. I first noticed this on Thursday at 18:52. I would appreciate some help resolving this.,Billing,Medium,128
+559,The app crashes whenever I open the settings page. I first noticed this on Monday at 09:06. Can you provide an update?,Technical,High,118
+560,My promotional discount was not applied. I first noticed this on Friday at 04:57. Please advise on the next step.,Billing,Medium,113
+561,The checkout button is not responding. I first noticed this on Tuesday at 10:13. Please advise on the next step.,Technical,High,112
+562,Can I delete my account permanently? I first noticed this on Monday at 00:25. I would appreciate some help resolving this.,Account,Low,122
+563,I do not recognise a charge on my statement. I first noticed this on Thursday at 08:03. Please advise on the next step.,Billing,High,119
+564,I cannot sign in on my new phone. I first noticed this on Sunday at 14:53. Can you provide an update?,Account,Medium,101
+565,Can you tell me where my package is? I first noticed this on Saturday at 13:46. Please advise on the next step.,Delivery,Medium,111
+566,Search is not returning the expected results. I first noticed this on Tuesday at 19:12. Can you provide an update?,Technical,Medium,114
+567,I was charged after cancelling the service. I first noticed this on Thursday at 01:49. Please let me know what I should do next.,Billing,High,128
+568,Notifications have stopped appearing. I first noticed this on Tuesday at 20:40. Could you check this for me?,Technical,Medium,108
+569,I cannot sign in on my new phone. I first noticed this on Sunday at 18:33. Could you check this for me?,Account,Medium,103
+570,One icon looks different from the others. I first noticed this on Wednesday at 15:44. I would appreciate some help resolving this.,Technical,Low,130
+571,I was charged in the wrong currency. I first noticed this on Thursday at 13:44. Can you provide an update?,Billing,Medium,106
+572,My verification code has expired. I first noticed this on Sunday at 17:49. I would appreciate some help resolving this.,Account,Medium,119
+573,The amount on my invoice looks incorrect. I first noticed this on Thursday at 16:51. Please advise on the next step.,Billing,Medium,116
+574,How do I change my account email? I first noticed this on Monday at 04:16. Please let me know what I should do next.,Account,Low,116
+575,I was charged in the wrong currency. I first noticed this on Thursday at 17:24. Could you check this for me?,Billing,Medium,108
+576,Can you send me a receipt for my latest payment? I first noticed this on Friday at 12:39. Please advise on the next step.,Billing,Low,121
+577,There is a minor formatting issue on the dashboard. I first noticed this on Wednesday at 09:08. I would appreciate some help resolving this.,Technical,Low,140
+578,The website is running very slowly. I first noticed this on Wednesday at 04:11. Please let me know what I should do next.,Technical,Medium,121
+579,The website layout looks unusual on my tablet. I first noticed this on Wednesday at 13:21. Can you look into this?,Technical,Low,114
+580,My account keeps logging me out. I first noticed this on Sunday at 12:30. Please advise on the next step.,Account,Medium,105
+581,The application freezes when I submit the form. I first noticed this on Tuesday at 10:35. Please let me know what I should do next.,Technical,High,131
+582,The courier says my address is invalid. I first noticed this on Saturday at 15:03. Can you provide an update?,Delivery,Medium,109
+583,I do not recognise a charge on my statement. I first noticed this on Thursday at 03:28. I would appreciate some help resolving this.,Billing,High,132
+584,When will my next payment be taken? I first noticed this on Friday at 07:42. Could you check this for me?,Billing,Low,105
+585,How long do refunds normally take? I first noticed this on Monday at 21:41. Please let me know what I should do next.,Refund,Low,117
+586,I received the wrong item. I first noticed this on Friday at 19:48. Can you look into this?,Delivery,High,91
+587,Can you arrange another delivery attempt? I first noticed this on Saturday at 21:28. Please advise on the next step.,Delivery,Low,116
+588,I forgot my password and need to reset it. I first noticed this on Sunday at 17:16. Please let me know what I should do next.,Account,Medium,125
+589,When should I expect my delivery? I first noticed this on Saturday at 20:11. I would appreciate some help resolving this.,Delivery,Low,121
+590,My refund has been pending for several business days. I first noticed this on Monday at 07:45. Can you look into this?,Refund,High,118
+591,The CSV export option is not working. I first noticed this on Tuesday at 18:39. Can you look into this?,Technical,Medium,103
+592,Can I change the name on my profile? I first noticed this on Sunday at 23:52. Please let me know what I should do next.,Account,Low,119
+593,My promotional discount was not applied. I first noticed this on Friday at 02:12. Could you check this for me?,Billing,Medium,110
+594,Where can I check my refund status? I first noticed this on Monday at 22:25. Please advise on the next step.,Refund,Low,108
+595,Can I request a refund for something bought yesterday? I first noticed this on Monday at 19:18. Can you provide an update?,Refund,Low,122
+596,Why was my refund rejected? I first noticed this on Monday at 11:14. I would appreciate some help resolving this.,Refund,Medium,113
+597,I cancelled my subscription and want a partial refund. I first noticed this on Monday at 15:05. Please let me know what I should do next.,Refund,Medium,137
+598,The tracking link does not work. I first noticed this on Saturday at 04:25. Could you check this for me?,Delivery,Medium,104
+599,I received the wrong item. I first noticed this on Friday at 14:18. Can you look into this?,Delivery,High,91
+600,I am not receiving the verification email. I first noticed this on Sunday at 16:32. Can you look into this?,Account,Medium,107
+601,Where can I find my tracking number? I first noticed this on Saturday at 21:50. Please let me know what I should do next.,Delivery,Low,121
+602,Why was my refund rejected? I first noticed this on Monday at 12:09. Can you look into this?,Refund,Medium,92
+603,I received the wrong item. I first noticed this on Saturday at 02:13. Could you check this for me?,Delivery,High,98
+604,I received the wrong item. I first noticed this on Friday at 17:03. Can you provide an update?,Delivery,High,94
+605,My promotional discount was not applied. I first noticed this on Thursday at 20:42. Could you check this for me?,Billing,Medium,112
+606,I was charged in the wrong currency. I first noticed this on Thursday at 15:34. I would appreciate some help resolving this.,Billing,Medium,124
+607,The checkout button is not responding. I first noticed this on Monday at 12:13. Please advise on the next step.,Technical,High,111
+608,My card was declined and my subscription may be cancelled. I first noticed this on Wednesday at 21:25. Please let me know what I should do next.,Billing,High,144
+609,I forgot my password and need to reset it. I first noticed this on Sunday at 14:31. I would appreciate some help resolving this.,Account,Medium,128
+610,The CSV export option is not working. I first noticed this on Wednesday at 07:29. Please let me know what I should do next.,Technical,Medium,123
+611,I paid for express shipping but the order is seriously delayed. I first noticed this on Friday at 21:05. I would appreciate some help resolving this.,Delivery,High,149
+612,The text spacing looks unusual on mobile. I first noticed this on Wednesday at 08:35. Please let me know what I should do next.,Technical,Low,127
+613,My order arrived damaged. I first noticed this on Friday at 22:44. Please let me know what I should do next.,Delivery,High,108
+614,I was charged after cancelling the service. I first noticed this on Thursday at 02:44. Can you provide an update?,Billing,High,113
+615,When will my next payment be taken? I first noticed this on Friday at 12:17. Can you look into this?,Billing,Low,100
+616,The CSV export option is not working. I first noticed this on Wednesday at 02:54. Can you provide an update?,Technical,Medium,108
+617,I requested a refund several days ago and it has not arrived. I first noticed this on Monday at 06:06. Can you provide an update?,Refund,High,129
+618,My card was declined and my subscription may be cancelled. I first noticed this on Wednesday at 18:40. I would appreciate some help resolving this.,Billing,High,147
+619,I get an error every time I upload a file. I first noticed this on Tuesday at 00:52. Could you check this for me?,Technical,High,113
+620,The app crashes whenever I open the settings page. I first noticed this on Monday at 11:51. Can you look into this?,Technical,High,115
+621,My payment is still showing as pending. I first noticed this on Thursday at 17:13. Please let me know what I should do next.,Billing,Medium,124
+622,The text spacing looks unusual on mobile. I first noticed this on Wednesday at 10:25. Please advise on the next step.,Technical,Low,117
+623,My account keeps logging me out. I first noticed this on Sunday at 19:50. Can you look into this?,Account,Medium,97
+624,I would like a refund for my recent purchase. I first noticed this on Monday at 16:11. Please let me know what I should do next.,Refund,Medium,128
+625,I received the wrong item. I first noticed this on Saturday at 03:08. Please let me know what I should do next.,Delivery,High,111
+626,Can I get my money back for a cancelled order? I first noticed this on Monday at 12:42. Can you provide an update?,Refund,Medium,114
+627,I get an error every time I upload a file. I first noticed this on Monday at 12:57. Can you look into this?,Technical,High,107
+628,I was charged after cancelling the service. I first noticed this on Wednesday at 20:19. Please let me know what I should do next.,Billing,High,129
+629,The tracking link does not work. I first noticed this on Saturday at 11:45. Can you provide an update?,Delivery,Medium,102
+630,I am not receiving the verification email. I first noticed this on Sunday at 22:02. Can you look into this?,Account,Medium,107
+631,My refund was sent to the wrong card. I first noticed this on Monday at 05:44. I would appreciate some help resolving this.,Refund,High,123
+632,I do not recognise a charge on my statement. I first noticed this on Thursday at 05:18. Could you check this for me?,Billing,High,116
+633,Why was my refund rejected? I first noticed this on Monday at 13:04. Could you check this for me?,Refund,Medium,97
+634,My order has not arrived and it is overdue. I first noticed this on Friday at 17:36. Can you look into this?,Delivery,High,108
+635,I was charged twice for the same subscription. I first noticed this on Thursday at 04:56. Can you provide an update?,Billing,High,116
+636,The app crashes whenever I open the settings page. I first noticed this on Monday at 21:01. Please advise on the next step.,Technical,High,123
+637,Can you tell me where my package is? I first noticed this on Saturday at 11:56. Please let me know what I should do next.,Delivery,Medium,121
+638,The application freezes when I submit the form. I first noticed this on Monday at 18:05. Please let me know what I should do next.,Technical,High,130
+639,I would like a refund for my recent purchase. I first noticed this on Monday at 15:16. Could you check this for me?,Refund,Medium,115
+640,One icon looks different from the others. I first noticed this on Wednesday at 08:24. Can you provide an update?,Technical,Low,112
+641,Can I get a copy of last month's invoice? I first noticed this on Friday at 12:06. Could you check this for me?,Billing,Low,111
+642,Search is not returning the expected results. I first noticed this on Wednesday at 02:32. I would appreciate some help resolving this.,Technical,Medium,134
+643,My order has not arrived and it is overdue. I first noticed this on Friday at 20:21. Can you provide an update?,Delivery,High,111
+644,The app shows a blank screen after the update. I first noticed this on Monday at 20:39. Can you look into this?,Technical,High,111
+645,How do I change my account email? I first noticed this on Monday at 01:31. I would appreciate some help resolving this.,Account,Low,119
+646,Search is not returning the expected results. I first noticed this on Tuesday at 16:27. Can you look into this?,Technical,Medium,111
+647,I cannot log in even though my password is correct. I first noticed this on Sunday at 07:11. Can you provide an update?,Account,High,119
+648,I cancelled my subscription and want a partial refund. I first noticed this on Monday at 11:25. Please advise on the next step.,Refund,Medium,127
+649,My promotional discount was not applied. I first noticed this on Thursday at 19:47. Can you look into this?,Billing,Medium,107
+650,I am not receiving the verification email. I first noticed this on Sunday at 15:37. I would appreciate some help resolving this.,Account,Medium,128
+651,My package is stuck at the sorting centre. I first noticed this on Saturday at 04:14. Please let me know what I should do next.,Delivery,Medium,127
+652,The courier says my address is invalid. I first noticed this on Saturday at 17:48. Can you look into this?,Delivery,Medium,106
+653,The amount on my invoice looks incorrect. I first noticed this on Thursday at 14:06. Could you check this for me?,Billing,Medium,113
+654,The amount on my invoice looks incorrect. I first noticed this on Friday at 01:06. Could you check this for me?,Billing,Medium,111
+655,Notifications have stopped appearing. I first noticed this on Wednesday at 06:45. Can you look into this?,Technical,Medium,105
+656,The application freezes when I submit the form. I first noticed this on Monday at 09:50. I would appreciate some help resolving this.,Technical,High,133
+657,The courier attempted delivery while I was away. I first noticed this on Saturday at 20:44. Please let me know what I should do next.,Delivery,Low,133
+658,Can you tell me where my package is? I first noticed this on Saturday at 12:51. Can you provide an update?,Delivery,Medium,106
+659,The app crashes whenever I open the settings page. I first noticed this on Tuesday at 10:46. Could you check this for me?,Technical,High,121
+660,I received the wrong item. I first noticed this on Friday at 22:33. Can you provide an update?,Delivery,High,94
+661,I am not receiving the verification email. I first noticed this on Sunday at 13:47. Can you provide an update?,Account,Medium,110
+662,My card was declined and my subscription may be cancelled. I first noticed this on Wednesday at 23:15. Please advise on the next step.,Billing,High,134
+663,I was charged twice for the same subscription. I first noticed this on Thursday at 00:21. Please advise on the next step.,Billing,High,121
+664,The CSV export option is not working. I first noticed this on Wednesday at 03:49. Please advise on the next step.,Technical,Medium,113
+665,My package is stuck at the sorting centre. I first noticed this on Saturday at 05:09. Can you provide an update?,Delivery,Medium,112
+666,My payment is still showing as pending. I first noticed this on Friday at 01:28. I would appreciate some help resolving this.,Billing,Medium,125
+667,Can I delete my account permanently? I first noticed this on Monday at 01:20. Can you look into this?,Account,Low,101
+668,The app shows a blank screen after the update. I first noticed this on Tuesday at 10:24. Can you provide an update?,Technical,High,115
+669,My card was declined and my subscription may be cancelled. I first noticed this on Thursday at 06:35. Can you look into this?,Billing,High,125
+670,The website is running very slowly. I first noticed this on Wednesday at 02:21. Can you look into this?,Technical,Medium,103
+671,I get an error every time I upload a file. I first noticed this on Monday at 18:27. Can you look into this?,Technical,High,107
+672,My order arrived damaged. I first noticed this on Saturday at 00:34. Please advise on the next step.,Delivery,High,100
+673,My package is stuck at the sorting centre. I first noticed this on Saturday at 10:39. Can you provide an update?,Delivery,Medium,112
+674,My billing date is different from what I expected. I first noticed this on Thursday at 21:15. Please advise on the next step.,Billing,Medium,125
+675,I do not recognise a charge on my statement. I first noticed this on Wednesday at 17:23. Can you look into this?,Billing,High,112
+676,My parcel says delivered but I cannot find it. I first noticed this on Saturday at 02:02. Please let me know what I should do next.,Delivery,High,131
+677,The courier says my address is invalid. I first noticed this on Saturday at 13:13. Could you check this for me?,Delivery,Medium,111
+678,I do not recognise a charge on my statement. I first noticed this on Thursday at 01:38. Can you provide an update?,Billing,High,114
+679,The app crashes whenever I open the settings page. I first noticed this on Monday at 08:11. Please let me know what I should do next.,Technical,High,133
+680,Can you arrange another delivery attempt? I first noticed this on Saturday at 23:18. Can you look into this?,Delivery,Low,108
+681,I was charged twice for the same subscription. I first noticed this on Wednesday at 19:46. I would appreciate some help resolving this.,Billing,High,135
+682,I am not receiving the verification email. I first noticed this on Sunday at 11:57. Could you check this for me?,Account,Medium,112
+683,My refund has been pending for several business days. I first noticed this on Monday at 08:40. Could you check this for me?,Refund,High,123
+684,Where can I view my billing history? I first noticed this on Friday at 11:55. Please let me know what I should do next.,Billing,Low,119
+685,The app crashes whenever I open the settings page. I first noticed this on Monday at 16:26. I would appreciate some help resolving this.,Technical,High,136
+686,One icon looks different from the others. I first noticed this on Wednesday at 14:49. Please advise on the next step.,Technical,Low,117
+687,The website is running very slowly. I first noticed this on Tuesday at 12:36. Can you provide an update?,Technical,Medium,104
+688,I was charged after cancelling the service. I first noticed this on Thursday at 00:54. Could you check this for me?,Billing,High,115
+689,I think someone else accessed my account. I first noticed this on Sunday at 08:39. Could you check this for me?,Account,High,111
+690,Some product images are not displaying correctly. I first noticed this on Wednesday at 08:57. Can you look into this?,Technical,Low,117
+691,I want to return my purchase and request a refund. I first noticed this on Monday at 18:23. Please let me know what I should do next.,Refund,Medium,133
+692,My account has been locked. I first noticed this on Sunday at 04:37. I would appreciate some help resolving this.,Account,High,113
+693,Where can I view my billing history? I first noticed this on Friday at 10:05. Can you look into this?,Billing,Low,101
+694,My parcel says delivered but I cannot find it. I first noticed this on Friday at 15:02. Please let me know what I should do next.,Delivery,High,129
+695,My verification code has expired. I first noticed this on Sunday at 15:04. Please let me know what I should do next.,Account,Medium,116
+696,Why was my refund rejected? I first noticed this on Monday at 16:44. I would appreciate some help resolving this.,Refund,Medium,113
+697,The text spacing looks unusual on mobile. I first noticed this on Wednesday at 15:55. Please advise on the next step.,Technical,Low,117
+698,The app shows a blank screen after the update. I first noticed this on Tuesday at 02:09. Can you look into this?,Technical,High,112
+699,The courier attempted delivery while I was away. I first noticed this on Saturday at 21:39. Can you provide an update?,Delivery,Low,118
+700,I get an error every time I upload a file. I first noticed this on Monday at 19:22. Could you check this for me?,Technical,High,112
+701,The app crashes whenever I open the settings page. I first noticed this on Monday at 12:46. Could you check this for me?,Technical,High,120
+702,I cannot sign in on my new phone. I first noticed this on Sunday at 21:18. Please advise on the next step.,Account,Medium,106
+703,My payment is still showing as pending. I first noticed this on Friday at 04:13. Please let me know what I should do next.,Billing,Medium,122
+704,My billing date is different from what I expected. I first noticed this on Thursday at 14:50. Can you provide an update?,Billing,Medium,120
+705,My order arrived damaged. I first noticed this on Friday at 23:39. Can you provide an update?,Delivery,High,93
+706,Tracking has not updated for several days. I first noticed this on Saturday at 12:07. Could you check this for me?,Delivery,Medium,114
+707,The application freezes when I submit the form. I first noticed this on Tuesday at 00:30. Can you provide an update?,Technical,High,116
+708,I get an error every time I upload a file. I first noticed this on Monday at 17:32. I would appreciate some help resolving this.,Technical,High,128
+709,The refund amount I received is incorrect. I first noticed this on Monday at 09:02. I would appreciate some help resolving this.,Refund,High,128
+710,My promotional discount was not applied. I first noticed this on Thursday at 16:07. Please let me know what I should do next.,Billing,Medium,125
+711,I think someone else accessed my account. I first noticed this on Sunday at 04:04. Please let me know what I should do next.,Account,High,124
+712,I cancelled my subscription and want a partial refund. I first noticed this on Monday at 13:15. Can you look into this?,Refund,Medium,119
+713,The app crashes whenever I open the settings page. I first noticed this on Monday at 23:46. Could you check this for me?,Technical,High,120
+714,How long do refunds normally take? I first noticed this on Monday at 20:46. Could you check this for me?,Refund,Low,104
+715,My order arrived damaged. I first noticed this on Saturday at 03:19. Could you check this for me?,Delivery,High,97
+716,The amount on my invoice looks incorrect. I first noticed this on Thursday at 20:31. Please let me know what I should do next.,Billing,Medium,126
+717,The app crashes whenever I open the settings page. I first noticed this on Tuesday at 00:41. Please let me know what I should do next.,Technical,High,134
+718,How can I update my personal details? I first noticed this on Monday at 03:54. Please advise on the next step.,Account,Low,110
+719,The app crashes whenever I open the settings page. I first noticed this on Monday at 22:51. Can you look into this?,Technical,High,115
+720,Can you tell me where my package is? I first noticed this on Saturday at 10:06. Can you look into this?,Delivery,Medium,103
+721,My parcel says delivered but I cannot find it. I first noticed this on Friday at 15:57. Can you provide an update?,Delivery,High,114
+722,The CSV export option is not working. I first noticed this on Tuesday at 14:04. Could you check this for me?,Technical,Medium,108
+723,I was charged in the wrong currency. I first noticed this on Thursday at 23:49. Please let me know what I should do next.,Billing,Medium,121
+724,I want to return my purchase and request a refund. I first noticed this on Monday at 12:53. Please let me know what I should do next.,Refund,Medium,133
+725,The app crashes whenever I open the settings page. I first noticed this on Tuesday at 04:21. Can you look into this?,Technical,High,116
+726,My package is stuck at the sorting centre. I first noticed this on Saturday at 15:14. Please let me know what I should do next.,Delivery,Medium,127
+727,The application freezes when I submit the form. I first noticed this on Monday at 19:55. Please advise on the next step.,Technical,High,120
+728,The app crashes whenever I open the settings page. I first noticed this on Monday at 18:16. Could you check this for me?,Technical,High,120
+729,My refund was sent to the wrong card. I first noticed this on Monday at 06:39. Can you look into this?,Refund,High,102
+730,I was charged twice for the same subscription. I first noticed this on Wednesday at 22:31. Please let me know what I should do next.,Billing,High,132
+731,There is a minor formatting issue on the dashboard. I first noticed this on Wednesday at 15:33. Can you look into this?,Technical,Low,119
+732,The text spacing looks unusual on mobile. I first noticed this on Wednesday at 13:10. Could you check this for me?,Technical,Low,114
+733,My payment is still showing as pending. I first noticed this on Thursday at 13:33. Please advise on the next step.,Billing,Medium,114
+734,The app shows a blank screen after the update. I first noticed this on Monday at 18:49. Please advise on the next step.,Technical,High,119
+735,The app crashes whenever I open the settings page. I first noticed this on Tuesday at 07:06. Can you provide an update?,Technical,High,119
+736,My card was declined and my subscription may be cancelled. I first noticed this on Thursday at 03:50. Can you provide an update?,Billing,High,128
+737,I get an error every time I upload a file. I first noticed this on Monday at 09:17. Please let me know what I should do next.,Technical,High,125
+738,I do not recognise a charge on my statement. I first noticed this on Wednesday at 21:58. I would appreciate some help resolving this.,Billing,High,133
+739,The website is running very slowly. I first noticed this on Tuesday at 14:26. I would appreciate some help resolving this.,Technical,Medium,122
+740,Search is not returning the expected results. I first noticed this on Tuesday at 18:17. Please let me know what I should do next.,Technical,Medium,129
+741,My order arrived damaged. I first noticed this on Friday at 15:24. Can you look into this?,Delivery,High,90
+742,The checkout button is not responding. I first noticed this on Monday at 19:33. Can you look into this?,Technical,High,103
+743,My payment is still showing as pending. I first noticed this on Friday at 02:23. Can you look into this?,Billing,Medium,104
+744,The checkout button is not responding. I first noticed this on Tuesday at 01:03. Can you look into this?,Technical,High,104
+745,My payment went through but the balance still shows unpaid. I first noticed this on Wednesday at 22:42. Could you check this for me?,Billing,High,132
+746,I forgot my password and need to reset it. I first noticed this on Sunday at 15:26. Can you look into this?,Account,Medium,107
+747,I want to return my purchase and request a refund. I first noticed this on Monday at 16:33. Can you look into this?,Refund,Medium,115
+748,One icon looks different from the others. I first noticed this on Wednesday at 12:59. Please let me know what I should do next.,Technical,Low,127
+749,The tracking link does not work. I first noticed this on Saturday at 12:40. Please advise on the next step.,Delivery,Medium,107
+750,I was charged after cancelling the service. I first noticed this on Thursday at 08:14. Can you provide an update?,Billing,High,113
+751,The website is running very slowly. I first noticed this on Tuesday at 19:01. Please advise on the next step.,Technical,Medium,109
+752,My account keeps logging me out. I first noticed this on Sunday at 20:45. Could you check this for me?,Account,Medium,102
+753,I received the wrong item. I first noticed this on Saturday at 00:23. I would appreciate some help resolving this.,Delivery,High,114
+754,My payment went through but the balance still shows unpaid. I first noticed this on Thursday at 11:32. Can you provide an update?,Billing,High,129
+755,Some product images are not displaying correctly. I first noticed this on Wednesday at 11:42. Can you provide an update?,Technical,Low,120
+756,The website is running very slowly. I first noticed this on Wednesday at 03:16. Could you check this for me?,Technical,Medium,108
+757,The app crashes whenever I open the settings page. I first noticed this on Tuesday at 09:51. Can you look into this?,Technical,High,116
+758,The app crashes whenever I open the settings page. I first noticed this on Monday at 13:41. Please let me know what I should do next.,Technical,High,133
+759,Can I delete my account permanently? I first noticed this on Monday at 04:05. Can you provide an update?,Account,Low,104
+760,The amount on my invoice looks incorrect. I first noticed this on Thursday at 15:01. Please let me know what I should do next.,Billing,Medium,126
+761,Tracking has not updated for several days. I first noticed this on Saturday at 03:52. Please advise on the next step.,Delivery,Medium,117
+762,My refund was sent to the wrong card. I first noticed this on Monday at 08:29. Please let me know what I should do next.,Refund,High,120
+763,I get an error every time I upload a file. I first noticed this on Tuesday at 05:27. Can you look into this?,Technical,High,108
+764,The dashboard takes a long time to load. I first noticed this on Tuesday at 12:58. Could you check this for me?,Technical,Medium,111
+765,The application freezes when I submit the form. I first noticed this on Monday at 14:25. Please advise on the next step.,Technical,High,120
+766,I paid for express shipping but the order is seriously delayed. I first noticed this on Saturday at 01:40. Please advise on the next step.,Delivery,High,138
+767,I was charged after cancelling the service. I first noticed this on Thursday at 04:34. I would appreciate some help resolving this.,Billing,High,131
+768,Tracking has not updated for several days. I first noticed this on Saturday at 07:32. Please let me know what I should do next.,Delivery,Medium,127
+769,The text spacing looks unusual on mobile. I first noticed this on Wednesday at 09:30. Can you provide an update?,Technical,Low,112
+770,My account has been locked. I first noticed this on Sunday at 06:27. Could you check this for me?,Account,High,97
+771,Can you tell me where my package is? I first noticed this on Saturday at 09:11. I would appreciate some help resolving this.,Delivery,Medium,124
+772,I am not receiving the verification email. I first noticed this on Sunday at 11:02. Can you look into this?,Account,Medium,107
+773,Tracking has not updated for several days. I first noticed this on Saturday at 05:42. Can you look into this?,Delivery,Medium,109
+774,I was charged in the wrong currency. I first noticed this on Friday at 04:24. Could you check this for me?,Billing,Medium,106
+775,How do I enable two-factor authentication? I first noticed this on Monday at 04:38. Can you look into this?,Account,Low,107
+776,My refund was sent to the wrong card. I first noticed this on Monday at 10:19. Please advise on the next step.,Refund,High,110
+777,My payment went through but the balance still shows unpaid. I first noticed this on Thursday at 02:22. I would appreciate some help resolving this.,Billing,High,147
+778,The dashboard takes a long time to load. I first noticed this on Wednesday at 06:23. Please let me know what I should do next.,Technical,Medium,126
+779,I was charged after cancelling the service. I first noticed this on Wednesday at 23:59. Can you look into this?,Billing,High,111
+780,I was charged twice for the same subscription. I first noticed this on Thursday at 01:16. I would appreciate some help resolving this.,Billing,High,134
+781,My promotional discount was not applied. I first noticed this on Thursday at 15:12. Could you check this for me?,Billing,Medium,112
+782,I get an error every time I upload a file. I first noticed this on Monday at 16:37. Please advise on the next step.,Technical,High,115
+783,My card was declined and my subscription may be cancelled. I first noticed this on Thursday at 11:10. I would appreciate some help resolving this.,Billing,High,146
+784,When will my next payment be taken? I first noticed this on Friday at 05:52. I would appreciate some help resolving this.,Billing,Low,121
+785,My account has been locked. I first noticed this on Sunday at 07:22. Please let me know what I should do next.,Account,High,110
+786,I cannot sign in on my new phone. I first noticed this on Sunday at 13:03. Could you check this for me?,Account,Medium,103
+787,How can I update my billing address? I first noticed this on Friday at 06:03. Please advise on the next step.,Billing,Low,109
+788,My package is stuck at the sorting centre. I first noticed this on Saturday at 11:34. Please advise on the next step.,Delivery,Medium,117
+789,When will my next payment be taken? I first noticed this on Friday at 09:32. Can you provide an update?,Billing,Low,103
+790,My order has not arrived and it is overdue. I first noticed this on Friday at 13:56. Please let me know what I should do next.,Delivery,High,126
+791,How do I change my account email? I first noticed this on Monday at 00:36. Please advise on the next step.,Account,Low,106
+792,I received the wrong item. I first noticed this on Friday at 15:13. Could you check this for me?,Delivery,High,96
+793,The app shows a blank screen after the update. I first noticed this on Monday at 16:04. Could you check this for me?,Technical,High,116
+794,I was charged after cancelling the service. I first noticed this on Wednesday at 18:29. Can you look into this?,Billing,High,111
+795,The application freezes when I submit the form. I first noticed this on Tuesday at 04:10. Could you check this for me?,Technical,High,118
+796,Tracking has not updated for several days. I first noticed this on Saturday at 17:37. Could you check this for me?,Delivery,Medium,114
+797,My payment is still showing as pending. I first noticed this on Friday at 03:18. Could you check this for me?,Billing,Medium,109
+798,The dashboard takes a long time to load. I first noticed this on Tuesday at 23:03. Can you look into this?,Technical,Medium,106
+799,The application freezes when I submit the form. I first noticed this on Monday at 10:45. Can you look into this?,Technical,High,112
+800,Can I get my money back for a cancelled order? I first noticed this on Monday at 18:12. Can you provide an update?,Refund,Medium,114
+801,My payment is still showing as pending. I first noticed this on Thursday at 19:03. Please advise on the next step.,Billing,Medium,114
+802,Can I get a copy of last month's invoice? I first noticed this on Friday at 05:41. Can you look into this?,Billing,Low,106
+803,My order has not arrived and it is overdue. I first noticed this on Saturday at 02:46. Please advise on the next step.,Delivery,High,118
+804,Can I request a refund for something bought yesterday? I first noticed this on Monday at 20:13. Please advise on the next step.,Refund,Low,127
+805,I do not recognise a charge on my statement. I first noticed this on Thursday at 08:58. I would appreciate some help resolving this.,Billing,High,132
+806,I was charged in the wrong currency. I first noticed this on Thursday at 21:59. Can you look into this?,Billing,Medium,103
+807,I want to return my purchase and request a refund. I first noticed this on Monday at 17:28. Could you check this for me?,Refund,Medium,120
+808,The CSV export option is not working. I first noticed this on Tuesday at 13:09. Can you look into this?,Technical,Medium,103
+809,The refund amount I received is incorrect. I first noticed this on Monday at 08:07. Please advise on the next step.,Refund,High,115
+810,The checkout button is not responding. I first noticed this on Monday at 18:38. I would appreciate some help resolving this.,Technical,High,124
+811,I get an error every time I upload a file. I first noticed this on Tuesday at 06:22. Could you check this for me?,Technical,High,113
+812,Can I change the name on my profile? I first noticed this on Monday at 04:27. Could you check this for me?,Account,Low,106
+813,Notifications have stopped appearing. I first noticed this on Tuesday at 23:25. Please advise on the next step.,Technical,Medium,111
+814,My order has not arrived and it is overdue. I first noticed this on Saturday at 00:56. Please let me know what I should do next.,Delivery,High,128
+815,Can you arrange another delivery attempt? I first noticed this on Saturday at 19:38. Please let me know what I should do next.,Delivery,Low,126
+816,Can you arrange another delivery attempt? I first noticed this on Saturday at 18:43. Could you check this for me?,Delivery,Low,113
+817,I cannot sign in on my new phone. I first noticed this on Sunday at 15:48. Please advise on the next step.,Account,Medium,106
+818,The amount on my invoice looks incorrect. I first noticed this on Thursday at 21:26. Can you provide an update?,Billing,Medium,111
+819,My refund has been pending for several business days. I first noticed this on Monday at 09:35. Please let me know what I should do next.,Refund,High,136
+820,I get an error every time I upload a file. I first noticed this on Tuesday at 01:47. Please let me know what I should do next.,Technical,High,126
+821,The amount on my invoice looks incorrect. I first noticed this on Friday at 04:46. I would appreciate some help resolving this.,Billing,Medium,127
+822,Can you send me a receipt for my latest payment? I first noticed this on Friday at 08:04. I would appreciate some help resolving this.,Billing,Low,134
+823,I do not recognise a charge on my statement. I first noticed this on Thursday at 06:13. Please let me know what I should do next.,Billing,High,129
+824,The app crashes whenever I open the settings page. I first noticed this on Monday at 19:11. Please let me know what I should do next.,Technical,High,133
+825,The checkout button is not responding. I first noticed this on Monday at 20:28. Could you check this for me?,Technical,High,108
+826,My billing date is different from what I expected. I first noticed this on Thursday at 22:10. I would appreciate some help resolving this.,Billing,Medium,138
+827,I paid for express shipping but the order is seriously delayed. I first noticed this on Friday at 16:30. Can you look into this?,Delivery,High,128
+828,The website is running very slowly. I first noticed this on Tuesday at 23:36. Can you provide an update?,Technical,Medium,104
+829,The checkout button is not responding. I first noticed this on Monday at 17:43. Please advise on the next step.,Technical,High,111
+830,Can you send me a receipt for my latest payment? I first noticed this on Friday at 08:59. Can you look into this?,Billing,Low,113
+831,I get an error every time I upload a file. I first noticed this on Monday at 15:42. Can you provide an update?,Technical,High,110
+832,The CSV export option is not working. I first noticed this on Tuesday at 16:49. Please advise on the next step.,Technical,Medium,111
+833,I paid for express shipping but the order is seriously delayed. I first noticed this on Friday at 19:15. Can you provide an update?,Delivery,High,131
+834,Someone changed my account email without permission. I first noticed this on Sunday at 01:08. Can you look into this?,Account,High,117
+835,The app shows a blank screen after the update. I first noticed this on Tuesday at 08:34. Could you check this for me?,Technical,High,117
+836,My promotional discount was not applied. I first noticed this on Thursday at 17:57. Please advise on the next step.,Billing,Medium,115
+837,My billing date is different from what I expected. I first noticed this on Friday at 00:55. Please let me know what I should do next.,Billing,Medium,133
+838,The application freezes when I submit the form. I first noticed this on Tuesday at 01:25. Please advise on the next step.,Technical,High,121
+839,I was charged after cancelling the service. I first noticed this on Thursday at 03:39. Please advise on the next step.,Billing,High,118
+840,The checkout button is not responding. I first noticed this on Monday at 14:03. Can you look into this?,Technical,High,103
+841,I requested a refund several days ago and it has not arrived. I first noticed this on Monday at 07:56. I would appreciate some help resolving this.,Refund,High,147
+842,Some product images are not displaying correctly. I first noticed this on Wednesday at 10:47. Please let me know what I should do next.,Technical,Low,135
+843,Some product images are not displaying correctly. I first noticed this on Wednesday at 13:32. I would appreciate some help resolving this.,Technical,Low,138
+844,The app crashes whenever I open the settings page. I first noticed this on Tuesday at 08:56. I would appreciate some help resolving this.,Technical,High,137
+845,Notifications have stopped appearing. I first noticed this on Wednesday at 01:15. Can you look into this?,Technical,Medium,105
+846,The app shows a blank screen after the update. I first noticed this on Tuesday at 05:49. Please advise on the next step.,Technical,High,120
+847,My billing date is different from what I expected. I first noticed this on Friday at 01:50. Can you provide an update?,Billing,Medium,118
+848,The courier says my address is invalid. I first noticed this on Saturday at 14:08. Please let me know what I should do next.,Delivery,Medium,124
+849,My promotional discount was not applied. I first noticed this on Friday at 04:02. Can you provide an update?,Billing,Medium,108
+850,I get an error every time I upload a file. I first noticed this on Tuesday at 04:32. I would appreciate some help resolving this.,Technical,High,129
+851,I get an error every time I upload a file. I first noticed this on Monday at 14:47. Please let me know what I should do next.,Technical,High,125
+852,I would like a refund for my recent purchase. I first noticed this on Monday at 12:31. Please advise on the next step.,Refund,Medium,118
+853,I do not recognise a charge on my statement. I first noticed this on Wednesday at 21:03. Please advise on the next step.,Billing,High,120
+854,Notifications have stopped appearing. I first noticed this on Wednesday at 04:55. Please advise on the next step.,Technical,Medium,113
+855,When will my next payment be taken? I first noticed this on Friday at 10:27. Please advise on the next step.,Billing,Low,108
+856,My order arrived damaged. I first noticed this on Friday at 20:54. Can you look into this?,Delivery,High,90
+857,I paid for express shipping but the order is seriously delayed. I first noticed this on Friday at 22:55. Could you check this for me?,Delivery,High,133
+858,Notifications have stopped appearing. I first noticed this on Tuesday at 22:30. Can you provide an update?,Technical,Medium,106
+859,I forgot my password and need to reset it. I first noticed this on Sunday at 13:36. Please advise on the next step.,Account,Medium,115
+860,When should I expect my delivery? I first noticed this on Saturday at 18:21. Can you provide an update?,Delivery,Low,103
+861,My order has not arrived and it is overdue. I first noticed this on Friday at 21:16. Please advise on the next step.,Delivery,High,116
+862,I cannot log in even though my password is correct. I first noticed this on Sunday at 09:01. I would appreciate some help resolving this.,Account,High,137
+863,The application freezes when I submit the form. I first noticed this on Tuesday at 05:05. Please let me know what I should do next.,Technical,High,131
+864,The dashboard takes a long time to load. I first noticed this on Tuesday at 19:23. Please let me know what I should do next.,Technical,Medium,124
+865,How do I change my account email? I first noticed this on Sunday at 23:41. Can you provide an update?,Account,Low,101
+866,The app crashes whenever I open the settings page. I first noticed this on Tuesday at 08:01. Please advise on the next step.,Technical,High,124
+867,The dashboard takes a long time to load. I first noticed this on Wednesday at 04:33. Can you look into this?,Technical,Medium,108
+868,The checkout button is not responding. I first noticed this on Tuesday at 00:08. I would appreciate some help resolving this.,Technical,High,125
+869,Can you tell me where my package is? I first noticed this on Saturday at 11:01. Could you check this for me?,Delivery,Medium,108
+870,There is a minor formatting issue on the dashboard. I first noticed this on Wednesday at 08:13. Please advise on the next step.,Technical,Low,127
+871,I was charged after cancelling the service. I first noticed this on Wednesday at 23:04. I would appreciate some help resolving this.,Billing,High,132
+872,Notifications have stopped appearing. I first noticed this on Tuesday at 18:50. I would appreciate some help resolving this.,Technical,Medium,124
+873,My payment is still showing as pending. I first noticed this on Thursday at 23:38. Can you provide an update?,Billing,Medium,109
+874,The website is running very slowly. I first noticed this on Tuesday at 11:41. Please let me know what I should do next.,Technical,Medium,119
+875,I paid for express shipping but the order is seriously delayed. I first noticed this on Saturday at 03:30. Can you look into this?,Delivery,High,130
+876,Where can I view my billing history? I first noticed this on Friday at 13:45. Please advise on the next step.,Billing,Low,109
+877,Notifications have stopped appearing. I first noticed this on Wednesday at 03:05. Please let me know what I should do next.,Technical,Medium,123
+878,Tracking has not updated for several days. I first noticed this on Saturday at 08:27. Can you provide an update?,Delivery,Medium,112
+879,Search is not returning the expected results. I first noticed this on Tuesday at 15:32. I would appreciate some help resolving this.,Technical,Medium,132
+880,The app shows a blank screen after the update. I first noticed this on Tuesday at 09:29. Please let me know what I should do next.,Technical,High,130
+881,Can you tell me where my package is? I first noticed this on Saturday at 05:31. Could you check this for me?,Delivery,Medium,108
+882,My account keeps logging me out. I first noticed this on Sunday at 21:40. Please let me know what I should do next.,Account,Medium,115
+883,Notifications have stopped appearing. I first noticed this on Wednesday at 00:20. I would appreciate some help resolving this.,Technical,Medium,126
+884,The application freezes when I submit the form. I first noticed this on Tuesday at 06:55. Please advise on the next step.,Technical,High,121
+885,I was charged after cancelling the service. I first noticed this on Wednesday at 22:09. Please advise on the next step.,Billing,High,119
+886,Where can I view my billing history? I first noticed this on Friday at 06:25. Please let me know what I should do next.,Billing,Low,119
+887,The CSV export option is not working. I first noticed this on Tuesday at 21:24. Can you provide an update?,Technical,Medium,106
+888,My verification code has expired. I first noticed this on Sunday at 13:14. Can you look into this?,Account,Medium,98
+889,The tracking link does not work. I first noticed this on Saturday at 15:25. Could you check this for me?,Delivery,Medium,104
+890,The tracking link does not work. I first noticed this on Saturday at 18:10. Please advise on the next step.,Delivery,Medium,107
+891,The amount on my invoice looks incorrect. I first noticed this on Thursday at 19:36. Could you check this for me?,Billing,Medium,113
+892,The refund amount I received is incorrect. I first noticed this on Monday at 05:22. Could you check this for me?,Refund,High,112
+893,I get an error every time I upload a file. I first noticed this on Monday at 11:07. Please advise on the next step.,Technical,High,115
+894,The website layout looks unusual on my tablet. I first noticed this on Wednesday at 11:31. Please advise on the next step.,Technical,Low,122
+895,My payment went through but the balance still shows unpaid. I first noticed this on Thursday at 01:27. Please advise on the next step.,Billing,High,134
+896,I was charged in the wrong currency. I first noticed this on Thursday at 12:49. Please let me know what I should do next.,Billing,Medium,121
+897,My verification code has expired. I first noticed this on Sunday at 19:39. Could you check this for me?,Account,Medium,103
+898,My parcel says delivered but I cannot find it. I first noticed this on Saturday at 02:57. Can you provide an update?,Delivery,High,116
+899,The app crashes whenever I open the settings page. I first noticed this on Tuesday at 02:31. Please advise on the next step.,Technical,High,124
+900,How long do refunds normally take? I first noticed this on Monday at 19:51. Can you look into this?,Refund,Low,99
+901,My account keeps logging me out. I first noticed this on Sunday at 13:25. I would appreciate some help resolving this.,Account,Medium,118
+902,My package is stuck at the sorting centre. I first noticed this on Saturday at 07:54. Can you look into this?,Delivery,Medium,109
+903,I cannot receive verification codes after changing my phone number. I first noticed this on Sunday at 10:40. Please let me know what I should do next.,Account,High,150
+904,I cannot sign in on my new phone. I first noticed this on Sunday at 20:23. Can you provide an update?,Account,Medium,101
+905,The dashboard takes a long time to load. I first noticed this on Tuesday at 14:48. Can you provide an update?,Technical,Medium,109
+906,The website layout looks unusual on my tablet. I first noticed this on Wednesday at 15:11. Please let me know what I should do next.,Technical,Low,132
+907,I would like a refund for my recent purchase. I first noticed this on Monday at 18:01. Please advise on the next step.,Refund,Medium,118
+908,I paid for express shipping but the order is seriously delayed. I first noticed this on Saturday at 00:45. Can you provide an update?,Delivery,High,133
+909,The courier says my address is invalid. I first noticed this on Saturday at 15:58. Please advise on the next step.,Delivery,Medium,114
+910,My order arrived damaged. I first noticed this on Friday at 14:29. I would appreciate some help resolving this.,Delivery,High,111
+911,I cannot receive verification codes after changing my phone number. I first noticed this on Sunday at 09:45. Could you check this for me?,Account,High,137
+912,Someone changed my account email without permission. I first noticed this on Sunday at 07:33. Could you check this for me?,Account,High,122
+913,I was charged after cancelling the service. I first noticed this on Wednesday at 19:24. Could you check this for me?,Billing,High,116
+914,I cannot log in even though my password is correct. I first noticed this on Sunday at 01:41. Can you provide an update?,Account,High,119
+915,I get an error every time I upload a file. I first noticed this on Monday at 08:22. Could you check this for me?,Technical,High,112
+916,I want to return my purchase and request a refund. I first noticed this on Monday at 15:38. I would appreciate some help resolving this.,Refund,Medium,136
+917,The text spacing looks unusual on mobile. I first noticed this on Wednesday at 12:15. Can you look into this?,Technical,Low,109
+918,There is a minor formatting issue on the dashboard. I first noticed this on Wednesday at 14:38. I would appreciate some help resolving this.,Technical,Low,140
+919,The app shows a blank screen after the update. I first noticed this on Monday at 17:54. Can you provide an update?,Technical,High,114
+920,The dashboard takes a long time to load. I first noticed this on Wednesday at 07:18. Can you provide an update?,Technical,Medium,111
+921,The app crashes whenever I open the settings page. I first noticed this on Monday at 21:56. I would appreciate some help resolving this.,Technical,High,136
+922,I paid for express shipping but the order is seriously delayed. I first noticed this on Saturday at 02:35. I would appreciate some help resolving this.,Delivery,High,151
+923,Tracking has not updated for several days. I first noticed this on Saturday at 14:52. Please advise on the next step.,Delivery,Medium,117
+924,The app crashes whenever I open the settings page. I first noticed this on Monday at 10:56. I would appreciate some help resolving this.,Technical,High,136
+925,My order has not arrived and it is overdue. I first noticed this on Saturday at 01:51. Can you provide an update?,Delivery,High,113
+926,My verification code has expired. I first noticed this on Sunday at 14:09. Could you check this for me?,Account,Medium,103
+927,I cannot sign in on my new phone. I first noticed this on Sunday at 11:13. I would appreciate some help resolving this.,Account,Medium,119
+928,My billing date is different from what I expected. I first noticed this on Friday at 00:00. Could you check this for me?,Billing,Medium,120
+929,The CSV export option is not working. I first noticed this on Tuesday at 12:14. I would appreciate some help resolving this.,Technical,Medium,124
+930,My parcel says delivered but I cannot find it. I first noticed this on Friday at 17:47. I would appreciate some help resolving this.,Delivery,High,132
+931,I cannot log in even though my password is correct. I first noticed this on Sunday at 06:16. Please let me know what I should do next.,Account,High,134
+932,My verification code has expired. I first noticed this on Sunday at 15:59. Can you provide an update?,Account,Medium,101
+933,My package is stuck at the sorting centre. I first noticed this on Saturday at 17:59. I would appreciate some help resolving this.,Delivery,Medium,130
+934,I cannot receive verification codes after changing my phone number. I first noticed this on Sunday at 07:55. I would appreciate some help resolving this.,Account,High,153
+935,My order has not arrived and it is overdue. I first noticed this on Friday at 19:26. Please let me know what I should do next.,Delivery,High,126
+936,The website layout looks unusual on my tablet. I first noticed this on Wednesday at 12:26. I would appreciate some help resolving this.,Technical,Low,135
+937,How can I update my personal details? I first noticed this on Sunday at 23:19. I would appreciate some help resolving this.,Account,Low,123
+938,My refund has been pending for several business days. I first noticed this on Monday at 05:55. Please advise on the next step.,Refund,High,126
+939,Can I get a copy of last month's invoice? I first noticed this on Friday at 11:11. Can you look into this?,Billing,Low,106
+940,My payment went through but the balance still shows unpaid. I first noticed this on Thursday at 07:52. I would appreciate some help resolving this.,Billing,High,147
+941,I do not recognise a charge on my statement. I first noticed this on Thursday at 00:43. Please let me know what I should do next.,Billing,High,129
+942,Can I get my money back for a cancelled order? I first noticed this on Monday at 13:37. Please advise on the next step.,Refund,Medium,119
+943,The checkout button is not responding. I first noticed this on Monday at 11:18. Can you provide an update?,Technical,High,106
+944,I get an error every time I upload a file. I first noticed this on Monday at 23:02. I would appreciate some help resolving this.,Technical,High,128
+945,One icon looks different from the others. I first noticed this on Wednesday at 16:39. Can you look into this?,Technical,Low,109
+946,Search is not returning the expected results. I first noticed this on Tuesday at 11:52. Could you check this for me?,Technical,Medium,116
+947,My account has been locked. I first noticed this on Sunday at 09:12. Please advise on the next step.,Account,High,100
+948,My payment is still showing as pending. I first noticed this on Thursday at 16:18. Could you check this for me?,Billing,Medium,111
+949,Where can I check my refund status? I first noticed this on Monday at 23:20. I would appreciate some help resolving this.,Refund,Low,121
+950,My promotional discount was not applied. I first noticed this on Thursday at 14:17. Can you look into this?,Billing,Medium,107
+951,Can you tell me where my package is? I first noticed this on Saturday at 06:26. Please let me know what I should do next.,Delivery,Medium,121
+952,I want to return my purchase and request a refund. I first noticed this on Monday at 13:48. Can you provide an update?,Refund,Medium,118
+953,My parcel says delivered but I cannot find it. I first noticed this on Saturday at 00:12. Can you look into this?,Delivery,High,113
+954,My package is stuck at the sorting centre. I first noticed this on Saturday at 14:19. Could you check this for me?,Delivery,Medium,114
+955,I cancelled my subscription and want a partial refund. I first noticed this on Monday at 18:45. Can you look into this?,Refund,Medium,119
+956,My account keeps logging me out. I first noticed this on Sunday at 17:05. Can you provide an update?,Account,Medium,100
+957,The app shows a blank screen after the update. I first noticed this on Monday at 14:14. I would appreciate some help resolving this.,Technical,High,132
+958,My order has not arrived and it is overdue. I first noticed this on Friday at 15:46. Please advise on the next step.,Delivery,High,116
+959,I was charged twice for the same subscription. I first noticed this on Thursday at 02:11. Can you look into this?,Billing,High,113
+960,The dashboard takes a long time to load. I first noticed this on Tuesday at 18:28. Could you check this for me?,Technical,Medium,111
+961,I cannot sign in on my new phone. I first noticed this on Sunday at 12:08. Can you look into this?,Account,Medium,98
+962,Can I change the name on my profile? I first noticed this on Sunday at 22:57. Could you check this for me?,Account,Low,106
+963,The app shows a blank screen after the update. I first noticed this on Tuesday at 01:14. I would appreciate some help resolving this.,Technical,High,133
+964,I do not recognise a charge on my statement. I first noticed this on Wednesday at 20:08. Can you provide an update?,Billing,High,115
+965,I forgot my password and need to reset it. I first noticed this on Sunday at 16:21. Could you check this for me?,Account,Medium,112
+966,Can I change the delivery address before shipping? I first noticed this on Saturday at 19:27. Can you provide an update?,Delivery,Low,120
+967,My card was declined and my subscription may be cancelled. I first noticed this on Thursday at 04:45. Please advise on the next step.,Billing,High,133
+968,When should I expect my delivery? I first noticed this on Saturday at 22:01. Could you check this for me?,Delivery,Low,105
+969,Notifications have stopped appearing. I first noticed this on Wednesday at 07:40. Could you check this for me?,Technical,Medium,110
+970,My account keeps logging me out. I first noticed this on Sunday at 14:20. Can you look into this?,Account,Medium,97
+971,My verification code has expired. I first noticed this on Sunday at 20:34. Please let me know what I should do next.,Account,Medium,116
+972,I forgot my password and need to reset it. I first noticed this on Sunday at 10:51. Could you check this for me?,Account,Medium,112
+973,The website is running very slowly. I first noticed this on Wednesday at 06:01. Please advise on the next step.,Technical,Medium,111
+974,My billing date is different from what I expected. I first noticed this on Friday at 03:40. I would appreciate some help resolving this.,Billing,Medium,136
+975,The application freezes when I submit the form. I first noticed this on Monday at 22:40. Could you check this for me?,Technical,High,117
+976,How can I update my billing address? I first noticed this on Friday at 08:48. Could you check this for me?,Billing,Low,106
+977,My card was declined and my subscription may be cancelled. I first noticed this on Wednesday at 22:20. Can you provide an update?,Billing,High,129
+978,Notifications have stopped appearing. I first noticed this on Tuesday at 13:20. I would appreciate some help resolving this.,Technical,Medium,124
+979,I was charged in the wrong currency. I first noticed this on Thursday at 16:29. Can you look into this?,Billing,Medium,103
+980,Why was my refund rejected? I first noticed this on Monday at 15:49. Please advise on the next step.,Refund,Medium,100
+981,The application freezes when I submit the form. I first noticed this on Monday at 08:55. Please advise on the next step.,Technical,High,120
+982,The tracking link does not work. I first noticed this on Saturday at 14:30. Can you look into this?,Delivery,Medium,99
+983,The refund amount I received is incorrect. I first noticed this on Monday at 06:17. Please let me know what I should do next.,Refund,High,125
+984,Tracking has not updated for several days. I first noticed this on Saturday at 13:57. Can you provide an update?,Delivery,Medium,112
+985,The website is running very slowly. I first noticed this on Wednesday at 01:26. I would appreciate some help resolving this.,Technical,Medium,124
+986,The website is running very slowly. I first noticed this on Tuesday at 15:21. Can you look into this?,Technical,Medium,101
+987,My package is stuck at the sorting centre. I first noticed this on Saturday at 17:04. Please advise on the next step.,Delivery,Medium,117
+988,The tracking link does not work. I first noticed this on Saturday at 05:20. Please let me know what I should do next.,Delivery,Medium,117
+989,The checkout button is not responding. I first noticed this on Monday at 08:33. Can you look into this?,Technical,High,103
+990,Can I change the name on my profile? I first noticed this on Monday at 01:42. Please advise on the next step.,Account,Low,109
+991,I get an error every time I upload a file. I first noticed this on Tuesday at 10:02. I would appreciate some help resolving this.,Technical,High,129
+992,How can I update my billing address? I first noticed this on Friday at 10:38. Can you provide an update?,Billing,Low,104
+993,The application freezes when I submit the form. I first noticed this on Monday at 12:35. Please let me know what I should do next.,Technical,High,130
+994,One icon looks different from the others. I first noticed this on Wednesday at 13:54. Can you provide an update?,Technical,Low,112
+995,Someone changed my account email without permission. I first noticed this on Sunday at 02:03. Could you check this for me?,Account,High,122
+996,My account keeps logging me out. I first noticed this on Sunday at 15:15. Could you check this for me?,Account,Medium,102
+997,Can you send me a receipt for my latest payment? I first noticed this on Friday at 11:44. Can you provide an update?,Billing,Low,116
+998,I forgot my password and need to reset it. I first noticed this on Sunday at 18:11. Can you provide an update?,Account,Medium,110
+999,Tracking has not updated for several days. I first noticed this on Saturday at 15:47. I would appreciate some help resolving this.,Delivery,Medium,130
+1000,The application freezes when I submit the form. I first noticed this on Monday at 11:40. Could you check this for me?,Technical,High,117

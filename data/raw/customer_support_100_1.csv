@@ -1,0 +1,101 @@
+ticket_id,ticket,category,priority
+1,I was charged twice for the same order.,Billing,High
+2,My monthly subscription payment went through but my account still says unpaid.,Billing,Medium
+3,Why was I charged €12.99 when my plan should cost €9.99?,Billing,Medium
+4,I do not recognise the charge on my bank statement.,Billing,High
+5,Can you tell me when my next subscription payment will be taken?,Billing,Low
+6,My card was declined when I tried to renew my subscription.,Billing,High
+7,I was charged a late payment fee even though I paid on time.,Billing,Medium
+8,The invoice I downloaded has the wrong amount on it.,Billing,Medium
+9,I need a copy of my invoice from last month.,Billing,Low
+10,My payment disappeared and now the system says I still owe money.,Billing,High
+11,I was charged in dollars instead of euros.,Billing,Medium
+12,Can I change the card that is used for future payments?,Billing,Low
+13,The billing date on my account is different from what I expected.,Billing,Low
+14,I have been charged for a service I cancelled last week.,Billing,High
+15,There are two identical charges showing in my account.,Billing,High
+16,My payment is still showing as pending after two days.,Billing,Medium
+17,How can I update my billing address?,Billing,Low
+18,I think my promotional discount was not applied to my bill.,Billing,Medium
+19,My account balance increased after I made a payment.,Billing,High
+20,Can I get a receipt for my latest payment?,Billing,Low
+21,The app crashes every time I try to open the settings page.,Technical,High
+22,The website is loading very slowly today.,Technical,Medium
+23,I keep getting an error message when I upload a file.,Technical,High
+24,The search function is not returning any results.,Technical,Medium
+25,The mobile app closes whenever I try to view my orders.,Technical,High
+26,The page is stuck on a loading screen.,Technical,High
+27,Notifications have stopped appearing on my phone.,Technical,Medium
+28,The website looks broken on my tablet.,Technical,Low
+29,I cannot download my report from the dashboard.,Technical,Medium
+30,The app freezes when I try to submit a form.,Technical,High
+31,Images are not displaying correctly on the product page.,Technical,Low
+32,The password reset page gives me an error.,Technical,High
+33,The dashboard takes several minutes to load.,Technical,Medium
+34,The checkout button does nothing when I click it.,Technical,High
+35,The date filter on the reports page is not working.,Technical,Medium
+36,The app is showing a blank screen after the latest update.,Technical,High
+37,I am receiving the same notification several times.,Technical,Low
+38,The export to CSV feature is not working.,Technical,Medium
+39,The page keeps refreshing by itself.,Technical,Medium
+40,The app works on Wi-Fi but not on mobile data.,Technical,Medium
+41,I cannot log into my account with my correct password.,Account,High
+42,How do I change my email address?,Account,Low
+43,I forgot my password and need to reset it.,Account,Medium
+44,My account has been locked after too many login attempts.,Account,High
+45,Can I change the name shown on my account?,Account,Low
+46,I am not receiving the verification email.,Account,Medium
+47,How do I enable two-factor authentication?,Account,Low
+48,I changed my phone number and cannot access verification codes.,Account,High
+49,Someone changed my account email without my permission.,Account,High
+50,Can I delete my account permanently?,Account,Low
+51,My profile picture will not update.,Account,Low
+52,I cannot sign in on my new phone.,Account,Medium
+53,The verification code I received has expired.,Account,Medium
+54,How can I update my personal details?,Account,Low
+55,My account suddenly logged me out on all devices.,Account,Medium
+56,I think somebody else has accessed my account.,Account,High
+57,I never received the email asking me to verify my account.,Account,Medium
+58,Can I have more than one email address on my account?,Account,Low
+59,My username is showing incorrectly in my profile.,Account,Low
+60,I am unable to change my password from the account page.,Account,Medium
+61,I would like a refund for my recent purchase.,Refund,Medium
+62,Can I get my money back for an order I cancelled?,Refund,Medium
+63,I requested a refund a week ago and still have not received it.,Refund,High
+64,The refund amount I received is incorrect.,Refund,High
+65,How long do refunds normally take?,Refund,Low
+66,I was told my refund was processed but the money is not in my account.,Refund,High
+67,I want to return my purchase and request a refund.,Refund,Medium
+68,My refund was sent to the wrong card.,Refund,High
+69,Why was my refund rejected?,Refund,Medium
+70,I cancelled my subscription and want a refund for the unused period.,Refund,Medium
+71,The refund that appeared on my statement is smaller than expected.,Refund,High
+72,Can I request a refund for something I bought yesterday?,Refund,Low
+73,I have not received confirmation that my refund was issued.,Refund,Medium
+74,My refund has been pending for five business days.,Refund,High
+75,I accidentally placed the same order twice and want one refunded.,Refund,Medium
+76,I was promised a refund but customer service has not followed up.,Refund,Medium
+77,Can you explain why my refund was only partial?,Refund,Medium
+78,I need to know whether this purchase is eligible for a refund.,Refund,Low
+79,The refund has disappeared from my banking app.,Refund,High
+80,Please process a refund for the cancelled service.,Refund,Medium
+81,My order has not arrived yet and it was due yesterday.,Delivery,High
+82,Can you tell me where my package is?,Delivery,Medium
+83,The tracking information has not updated for three days.,Delivery,Medium
+84,My parcel was marked as delivered but I cannot find it.,Delivery,High
+85,I received the wrong item in my delivery.,Delivery,High
+86,My order arrived damaged.,Delivery,High
+87,When should I expect my delivery?,Delivery,Low
+88,The courier says my address is invalid.,Delivery,Medium
+89,My package is stuck at the sorting centre.,Delivery,Medium
+90,I paid for express shipping but my order is still delayed.,Delivery,High
+91,Part of my order is missing from the package.,Delivery,High
+92,Can I change the delivery address before it ships?,Delivery,Low
+93,The tracking link you sent me does not work.,Delivery,Medium
+94,My delivery was returned to the sender.,Delivery,High
+95,The courier attempted delivery while I was away.,Delivery,Low
+96,My package arrived much later than the estimated delivery date.,Delivery,Medium
+97,"I received a notification that my order shipped, but there is no tracking number.",Delivery,Medium
+98,Can you arrange another delivery attempt?,Delivery,Low
+99,My order says delivered to a neighbour but I do not know which neighbour.,Delivery,Medium
+100,The package arrived with the box badly damaged.,Delivery,High
