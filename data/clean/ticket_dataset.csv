@@ -1,0 +1,1001 @@
+ticket_id,ticket,category,priority,ticket_length
+1,I would like a second delivery try. I first noticed this on Friday at 06:02. This is urgent. Please help.,Delivery,Medium,105
+2,I was charged in the wrong currency. I first noticed this on Thursday at 04:34. No rush.,Billing,Low,88
+3,"Dear support, I got a message saying my account is suspended. This started on Friday. This is really frustrating. Thank you in advance.",Account,High,135
+4,"Hey, I want a refund please. I have contacted you beore about something else. I first noticed this on Thurday at 13:02.",Refund,Medium,119
+5,"Good morning, Delivery was promised for Monday and it is still not here. I use this service for work. This is urgent. Let me know what can be done.",Delivery,Medium,147
+6,"Hello, How do I deactivate my profile permanently? Looking forward to your reply.",Account,Low,81
+7,I cannot log in and now my payment will not go through. I already tried restarting my phone. I first noticed this on Friday at 11:39. I have contacted you three times already. I would appreciate some help resolving this.,Account,High,220
+8,I no longer get any alerts from the app. This started on Tuesday. Can you look into this?,Technical,Medium,89
+9,"Hey, My billing date is different from what I expected. I am on the premium plan. Thank you in advance.",Billing,Medium,103
+10,"Good morning, Can the courier come on Saturday instead? I first noticed this on Monday at 06:33. I have contacted you three times already. I would appreciate some help resolving this.",Delivery,Medium,183
+11,"Dear support, Settings screen makes the whole app crash. This started on Tuesday.",Technical,High,81
+12,"Hello, The app shows a blank screen after the update. I first noticed this on Friday at 11:28.",Technical,Medium,94
+13,"Hi team, My account balance does not look right after my last order. I first noticed this on Saturday at 03:58. Please help.",Billing,Low,124
+14,Notifications are not coming through on my phone. I first noticed this on Tuesday at 00:09.,Technical,Medium,91
+15,No SMS code is coming through on my new number. Please advise on the next step.,Account,Medium,79
+16,"Good morning, The authenticator code is always rejected. Please help.",Account,Medium,69
+17,The courier says my address is invalid. Can you provide an update?,Delivery,Medium,66
+18,"Dear support, Can I redirect the parcel to my work address? I am using the latest version. This started on Friday. Looking forward to your reply.",Delivery,Low,145
+19,"hi, part of my refund is missing. i first noticed this on monday at 12:28. thank you in advance.",Refund,Medium,96
+20,"Good morning, Charged after cancelling, please reverse the payment. I am using the latest version. This started on Thursday. I would appreciate some help resolving this.",Refund,High,169
+21,Wishlist is empty after I logged in on another device. It worked fine until recently. This started on Monday. This is really frustrating. Thank you in advance.,Technical,High,159
+22,The search bar gives me wrong items. I have contacted you three times already. Please help.,Technical,High,91
+23,"there is an issue with my account or my order, not sure which. i am using the latest version. it happened yesterday. this is really frustrating. thanks.",Account,Low,152
+24,"Dear support, I returned the parcel but the tracking for the return is not updating. I frst noticed this on Sunday at 00:16. Can you provide an update?",Delivery,Medium,151
+25,"Hi, Tracking has been stuck for several days. I would appreciate some help resolving this",Delivery,High,89
+26,"Hello, How do I deactivate my profile permanently? Let me know what can be done",Account,Low,79
+27,the return was received by you but i am still waiting for my money. i use this service for work. i first noticed this on wednesday at 16:41. no rush. please advise on the next step.,Billing,Medium,181
+28,"Hey, I returned the parcel but the tracking for the return is not updating. No rush. Thanks",Refund,Medium,91
+29,Please change the billing address on my invoice. It has been going on since Saturday morning. Whenever you have a moment,Billing,Low,120
+30,"Hi, Password reset link says expired. I first noticed this on Sunday at 02:47. This is urgent.",Account,Medium,94
+31,"Good morning, My discount code was not applied at checkout. I first noticed this on Monday at 19:40.",Billing,Low,100
+32,I cancelled last month but a charge still appeared. I have contacted you three times already. Let me know what can be done.,Billing,High,123
+33,"Hey, I cancelled last month but a charge still appeared. I ordered last week. I first noticed this on Monday at 04:47. Whenever you have a moment. Thanks.",Billing,Medium,154
+34,"Good morning, I was charged for an order that never arrived. This started on Saturday. I would appreciate some help resolving this.",Billing,High,131
+35,"Hello, No SMS code is coming through on my new number. I am using the latest version. This started on Sunday",Account,High,108
+36,"Hey, My refund shows as pending on my account page. Please help.",Delivery,Medium,64
+37,App is blank on launch now. I use this service for work. This started on Wednesday. Thanks.,Technical,High,91
+38,"Good morning, I am locked out after too many attempts. It happened yesterday. Let me know what can be done.",Account,Medium,107
+39,"Hey, App is blank on launch now. Please help.",Technical,High,45
+40,"Hi, How can I get my money back for my last order? I noticed it a few days ago. Thanks",Refund,High,86
+41,"Good morning, How do I deactivate my profile permanently? I first noticed this on Monday at 07:09. I would appreciate some help resolving this.",Account,Low,143
+42,I cannot log in even though my password is correct. This started on Tuesday.,Account,High,76
+43,There is a typo on the home screen. Thank you in advance.,Technical,Low,57
+44,"Hey, I signed up but there is no welcome email. I ordered last week. I noticed it a few days ago. Please advise on the next step.",Account,Medium,129
+45,"Hello, I need help with my last purchase. I first noticed this on Thursday at 07:16. Thanks.",Technical,Medium,92
+46,"Hey, I was logged out of all my devices unexpectedly. I already tried restarting my phone. I first noticed this on Thursday at 22:56. I have contacted you three tmies already.",Account,High,175
+47,"Hello, I cannot receive verification codes after changing my phone number. I use this service for work. Looking forward to your reply.",Account,High,134
+48,"Good morning, Where can I download my receipts? I have contacted you before about something else. This is urgent.",Billing,High,113
+49,"Hello, How many days until a refund shows up? I already tried restarting my phone. I first noticed this on Saturday at 22:20. Thanks.",Refund,Low,133
+50,"Hello, I am not hpapy with the service I received. Not urgent, just wondering. I would appreciate some help resolving this.",Refund,Low,123
+51,"Hey, I get an error when I try to change my card.",Technical,Medium,49
+52,"Hello, The estimated delivery date has passed. I am on the premium plan. This started on Saturday. Thanks.",Delivery,Low,106
+53,"Hi, I got store credit instead of my money back. I first noticed this on Thursday at 01:06. Can you provide an update?",Delivery,High,118
+54,"Hi team, My account balance does not look right after my last order. I first noticed this on Friday at 08:49. This is urgent. Can you look into this?",Delivery,High,149
+55,"Hi team, Something is wrong with my order, please help. I am on the premium plan. I first noticed this on Monday at 15:35. Let me know what can be done.",Refund,Medium,152
+56,I cannot see where my order is in the app. I have contacted you before about something else. This started on Monday. Thank you in advance.,Delivery,Medium,138
+57,"Hi team, My parcel got lost and I would like to be reimbursed. I first noticed this on Monday at 01:35. I need this fixed today.",Refund,High,128
+58,"Hey, I think someone else accessed my account. I need this fixed today. Thanks.",Account,High,79
+59,"hi, the item stpoped working so i want a refund. i first noticed this on tuesday at 01:25. looking forward to your reply.",Delivery,Medium,121
+60,"hi, there is an issue with my account or my order, not sure which. i noticed it a few days ago. looking forward to your reply.",Delivery,Medium,126
+61,The activation email never showed up. I have contacted you before about something else. This started on Monday. Let me know what can be done,Account,High,140
+62,Package was left with a neighbour I do not know. I am using the latest version. Whenever you have a moment. Can you look into this?,Delivery,Medium,131
+63,"Hi team, Pages are loading very slowly on my device. I first noticed this on Sunday at 14:09. Not urgent, just wondering. Looking forward to your reply.",Technical,Low,152
+64,I cannot see where my order is in the app. I first noticed this on Sunday at 16:03.,Account,Medium,83
+65,"Hello, Please send me proof of the refund. This started on Tuesday. Thank you in advance.",Refund,Low,89
+66,The credit on my account is missing. I am on the premium plan. It has been going on since Thursday morning. Please help.,Refund,Low,120
+67,"Hi team, Can someone call me about my situation? This started on Wednesday. I need this fixed today. Please advise on the next step.",Technical,High,132
+68,"Hey, My past orders are missing from my profile page. I have contacted you three times already.",Account,Medium,95
+69,I have a problem and would like someone to contact me. I noticed it a few days ago. I would appreciate some help resolving this.,Account,Low,128
+70,"Dear support, Can the courier come on Saturday instead? I use this service for work. No rush.",Delivery,Low,93
+71,"Dear support, Since the latest update the app just opens to a white screen. Thanks.",Technical,High,83
+72,"Hi team, I cannot log in and now my payment will not go through. I use this service for work. This started on Tuesday. Please help.",Technical,High,131
+73,"hi, any update on my refund? this started on tuesday. please help.",Billing,High,66
+74,I need a written confirmation of my refund. I already tried restarting my phone. This is urgent. Can you look into this?,Refund,Low,120
+75,"Hi, The app crsahes every time I open the settnigs page. I already tried restarting my phone",Technical,Medium,92
+76,"Hello, The refund was sent to an old card. I first noticed this on Thursday at 00:27. Looking forward to your reply.",Refund,High,116
+77,Refund confirmed by email but nothng in my bank. I first noticed this on Sunday at 01:00. I have contacted you three times already. Let me know what can be done.,Refund,High,161
+78,"Dear support, How can I get my money back for my last order? I noticed it a few days ago. Can you look into this?",Refund,High,113
+79,"Hi, This is not working as expected. I first noticed this on Friday at 22:48.",Technical,Medium,77
+80,"Hi, Invoice amount looks wrong. It worked fine until recently. I noticed it a few days ago. Please advise on the next step.",Billing,Medium,123
+81,"Hi, I need a copy of my receipt for last month. I ordered last week. I first noticed this on Saturday at 03:10.",Billing,Low,111
+82,I no longer get any alerts from the app. I use this service for work. I have contacted you there times already. Let me know what can be done.,Technical,High,141
+83,My account balance does not look right after my last order. This startted on Saturday.,Billing,Medium,86
+84,"Hi team, You said the refuund was processed but I see nothing. This started on Thursday. Can you look into this?",Refund,High,112
+85,"Hey, The refund was sent to an old card. It happened yesterday. I would appreciate some help resolving this.",Refund,High,108
+86,"Hi team, Something is wrong with my order, please help. I first noticed this on Wednesday at 23:25. Looking forward to your reply.",Account,Medium,130
+87,"Dear support, Tracking has been stuck for several days. I have contacted you three times already.",Delivery,Medium,97
+88,"Hello, After the login problem the checkout also fails. Can you provide an update?",Technical,High,82
+89,"hey, refund confirmed by email but nothing in my bank. i have contacted you before about something else. whenever you have a moment. thank you in advance",Refund,High,153
+90,"Hi team, I have a problem and would like someone to contact me. I first noticed this on Thursday at 17:10. This is urgent.",Account,High,122
+91,"Hey, I need help with my last purchase. This is my third order this month. It happened yesterday. Can you provide an update?",Billing,Low,124
+92,"Good morning, Data did not sync between my phone and laptop. Please help",Technical,Medium,72
+93,"Dear support, Can someone call me about my situation? Can you provide an update?",Refund,Medium,80
+94,"Hi team, The refund is smaller than what I was charged. It has been going on since Sunday morning. Thanks.",Refund,Medium,106
+95,"Hi team, I received the wrong item in my order. I first noticed this on Saturday at 02:50. Can you provide an update?",Delivery,High,117
+96,I am not happy with the service I received. This is realy frustrating.,Delivery,High,70
+97,I want my money back because the courier lost my package. It has been going on since Wednesday morning. I have contacted you three times already. I would appreciate some help resolving this.,Delivery,High,190
+98,"Hey, How do I deactivate my profile permanently? I first noticed this on Thursday at 19:37. I need this fixed today. Let me know what can be done.",Account,Medium,146
+99,Can you arrange another delivery attempt? I already tried restarting my phone. I first noticed this on Friday at 07:28. I need this fixed today. Can you provide an update?,Delivery,Medium,171
+100,Order cancelled two weeks ago and no money back. I already trried restarting my phone.,Refund,High,86
+101,How can I get my money back for my last order? This started on Thursday. Let me know what can be done.,Refund,Low,102
+102,A button label looks wrong in the app. It has been going on since Wednesday morning.,Technical,Low,84
+103,"Hey, How do I update the email on my profile? I already tried restarting my phone. I first noticed this on Tuesday at 18:09. Thanks.",Account,Low,132
+104,"Hello, My saved items disappeared after syncing.",Technical,Medium,48
+105,"Hello, I have a problem and would like someone to contact me. It happened yesterday. Looking forward to your reply.",Technical,Medium,115
+106,My payment is still showing as pending. It happened yesterday. Can you look into this?,Delivery,Medium,86
+107,"Hi, My session keeps ending and I have to sign in again. I am on the premium plan. This started on Thursday. I need this fixed today. Thanks.",Technical,High,141
+108,"Hey, I want a refund please. Thanks.",Refund,Medium,36
+109,"Hello, I cannot log in and now my payment will not go through. I first noticed this on Friday at 00:53. Can you provide an update?",Account,High,130
+110,"Good morning, I have a problem and would like someone to contact me. I first noticed this on Wednesday at 11:16. Not urgent, just wondering. Can you look into this?",Delivery,Medium,164
+111,"Hi team, My account has been locked and I do not know why. I first noticed this on Thursday at 03:59. Please help.",Account,High,114
+112,"good morning, the app shows a blank screen after the update. i first noticed this on sunday at 04:17. not urgent, just wondering. please help.",Technical,Medium,142
+113,"Hi, This is not working as expected. Thanks.",Refund,Low,44
+114,"Hello, I cancelled my subscription and was still charged, I want that money returned. I already tried restarting my phone. This started on Friday. Thank you in advance.",Refund,High,168
+115,Everything is lagging and takes forever to open. This is my third order this month. It happened yesterday. I need this fixed today. Please advise on the next step.,Technical,High,163
+116,After the login problem the checkout also fails. It happened yesterday.,Account,Medium,71
+117,"Hello, The dark mode setting does not save. I have contacted you before about something else. I first noticed this on Saturday at 11:36. This is urgent. Thank you in advance.",Technical,Medium,174
+118,Since the latest update the app just opens to a white screen. It happened yesterday. Can you provide an update,Technical,High,110
+119,"Hi, The app will not show my order status. It worked fine until recently. It happened yesterday. This is really frustrating. Can you look into this?",Technical,High,148
+120,"hi, it says invalid credentials every time i sign in. i first noticed this on friday at 14:47. this is really frustrating. i would appreciate some help resolving this.",Account,High,167
+121,"hi team, can someone call me about my situation? not urgent, just wondering. please help.",Technical,Low,89
+122,"Hey, I was billed earlier than my usual date. I already tried restarting my phone. I first noticed this on Thursday at 12:49. Let me know what can be done.",Delivery,Medium,155
+123,Order cancelled two weeks ago and no money back. I am travelling at the moment. I first noticed this on Tuesday at 01:18. Can you look into this?,Refund,High,145
+124,The payment has been pending for days.,Billing,Medium,38
+125,"good morning, wishlist is empty after i logged in on another device. this started on thursday. let me know what can be done.",Technical,Low,124
+126,"dear support, i got a message saying my account is suspended. i am on the premium plan. i first notced this on tuesday at 09:03. can you provide an update?",Account,High,155
+127,"Hi team, This is not working as expected. I ordered last week. It has been going on since Sunday morning. Thanks.",Billing,High,113
+128,Refund confirmed by email but nothing in my bank. I am travelling at the moment. It has been going on since Thursday morning. Please help.,Refund,High,138
+129,"hello, tax is missing from my invoice. it happened yesterday. please help.",Billing,Low,74
+130,"Hi, I used a voucher but was charged full price. I have contacted you before about something else. This started on Sunday.",Billing,Low,122
+131,"hello, i am not happy with the service i received. this is really frustrating. please help.",Technical,High,91
+132,"Hey, I returned the parcel but the tracking for the return is not updating. This started on Friday.",Refund,Low,99
+133,"Hi team, Please help me switch my registered email.",Account,Low,51
+134,"Hey, Driver came when nobody was home. I already tried restarting my phone. This started on Saturday. Looking forward to your reply.",Delivery,Low,132
+135,"Hi, Money left my bank but the payment is not confirmed. I first noticed this on Tuesday at 16:48. Looking forward to your reply.",Billing,Medium,129
+136,My session keeps ending and I have to sign in again. This started on Tuesday. This is urgent. Thanks.,Account,Medium,101
+137,"Hi, Something is wrong with my order, please help. I already tried restarting my phone. I first noticed this on Friday at 05:20. Can you provide an update?",Billing,High,155
+138,"Hi, Data did not sync between my phone and laptop. This started on Saturday. Let me know what can be done.",Technical,Low,106
+139,Return label does not scan at the post office. This started on Wednesday. Whenever you have a moment. Please advise on the next step.,Refund,Low,133
+140,After the login problem the checkout also fails. It happened yesterday. I need this fixed today. I would appreciate some help resolving this.,Technical,High,141
+141,"Good morning, Can the courier come on Saturday instead? This started on Tuesday. Please help.",Delivery,Medium,93
+142,Payment page freezes when I enter my details. I use this service for work. I would appreciate some help resolving this.,Technical,High,119
+143,The authenticator code is always rejected. This is my third order this month. Thanks.,Account,High,85
+144,"Hi team, Payment page freezes when I enter my details. I first noticed this on Saturday at 22:29. Please advise on the next step.",Technical,High,129
+145,Payment taken but my parcel is nowhere to be seen. Please help.,Billing,High,63
+146,My receipt has the wrong delivery address on it. Can you provide an update?,Account,Low,75
+147,"Hey, Can someone call me about my situation? This started on Saturday.",Delivery,Low,70
+148,"Good morning, Is the delivery fee included in my refund? Please help.",Refund,Low,69
+149,"Hi, It says invalid credentials every time I sign in. I first noticed this on Monday at 05:22. Thank you in advance.",Account,High,116
+150,"Hi team, I was charged after cancelling my subscription. I first noticed this on Saturday at 04:37.",Billing,High,99
+151,I want to know the status of my refund request. I first noticed this on Thursday at 06:02. This is urgent. Thanks.,Refund,Low,114
+152,The activation email never showed up. This started on Saturday.,Account,Medium,63
+153,"Hello, A button label looks wrong in the app. I first noticed this on Saturday at 00:01. Not urgent, just wondering. I would appreciate some help resolving this.",Technical,Low,161
+154,"Hi team, Search sows nothing even for things I know exist. I have contacted you before about something else. I first noticed this on Wednesday at 08:15. Can you provide an update?",Technical,Medium,179
+155,"Good morning, The invoice was sent to my old address. I first noticed this on Wednesday at 00:02. Whenever you have a moment. Looking forward to your reply.",Account,Low,156
+156,"Hello, Refund confirmed by email but nothing in my bank. I have contacted you before about something else. It has been going on since Thursday morning. Can you look into this?",Refund,High,175
+157,"Hi team, I want my money back because the courier lost my package. I first noticed this on Friday at 13:23. Let me know what can be done.",Refund,High,137
+158,"Hi team, They could not find my house. Looking forward to your reply.",Delivery,Low,69
+159,"Hello, The app will not show my order status. I first noticed this on Thursday at 07:34.",Technical,Medium,88
+160,Please change the billing address on my invoice. No rush. Let me know what can be done.,Billing,Low,87
+161,"I cannot log in and now my payment will not go through. Not urgent, just wondering. Can you look into this?",Account,Medium,107
+162,Wrong product in the box. I first noticed this on Wednesday at 16:47. Looking forward to your reply,Delivery,High,99
+163,"Hello, Can I get a refund for an item that arrived late? Whenever you have a moment. Let me know what can be done.",Refund,Low,114
+164,"Hello, I got store credit instead of my money back. I first noticed this on Wednesday at 04:31. Whenever you have a moment. Let me know what can be done",Refund,Medium,152
+165,"dear support, i want to know the status of my refund request. i have contacted you before about something else. it happened yesterday. i would appreciate some help resolving this.",Refund,Medium,179
+166,"Hi team, My session keeps ending and I have to sign in again. I ordered last week. It happened yesterday. Can you provide an update?",Account,Medium,132
+167,Money left my bank but the payment is not confirmed. Please advise on the next step.,Billing,Medium,84
+168,"Hi team, The box was crushed and the item is broken. I noticed it a few days ago. Looking forward to your reply.",Delivery,High,112
+169,How long does a refund usually take to process? It worked fine until recently. This started on Thursday.,Refund,Medium,104
+170,My refund shows as pending on my account page. This started on Wednesday. Let me know what can be done.,Account,Medium,103
+171,"Hello, The app shows a blank screen after the update. I already tried restarting my phone. I first noticed this on Thursday at 14:12.",Technical,Medium,133
+172,My parcel got lost and I would like to be reimbursed. I am travelling at the moment. I noticed it a few days ago. I have contacted you three times already. Can you provide an update?,Refund,High,182
+173,"hi team, the app shows a blank screen after the update. i have contacted you three times already. let me know what can be done.",Technical,High,127
+174,"Dear support, My account has been locked and I do not know why. I first noticed this on Sunday at 11:27. Thank you in advance.",Account,High,126
+175,"Hello, Driver came when nobody was home. It happened yesterday. Let me know what can be done.",Delivery,Low,93
+176,"Hi, How long does a refund usaully take to process? I need this fixed today. Can you look into this?",Refund,Low,100
+177,"hi team, i was charged after cancelling my subscription. this started on tuesday. thank you in advance.",Billing,High,103
+178,"Hey, I no longer get any alerts from the app. I noticed it a few days ago. Can you provide an update?",Technical,Low,101
+179,I sent the product back and nothing came in. Thanks.,Billing,High,52
+180,"Hi, The website will not let me update my payment details. Let me know what can be done.",Refund,Low,88
+181,"Hi team, The app will not show my order status. This is my third order this month. It happened yesterday. No rush. Please help.",Refund,Medium,127
+182,"I cancelled my subscription and was still charged, I want that money returned. I first noticed this on Wednesday at 02:56. No rush. Can you look into this?",Refund,Low,155
+183,"hi team, i was chagred after cancelling my subscription.",Billing,High,56
+184,"Dear support, My order is late and there is no news. I have contacted you before about something else. I have contacted you three times already. Please help.",Delivery,High,157
+185,"hey, uploading a photo fails with no error. can you look into this?",Technical,Medium,67
+186,"Good morning, 2FA is not letting me in. It has been going on since Thursday morning. Please advise on the next step.",Account,High,116
+187,"Dear support, I want a refund please. Thanks.",Refund,Medium,45
+188,"Hi, Wrnog product in the box. Whenever you have a moment. I would appreciate some help resolving this.",Delivery,Low,102
+189,"Hello, There is an issue with my account or my order, not sure which. Can you look into this?",Billing,Low,93
+190,"Hi team, Form submission fails with an error message. I first noticed this on Friday at 06:00.",Technical,High,94
+191,"Hi, Return label does not scan at the post office. I am on the premium plan. It has been going on since Wednesday morning. Can you provide an update",Refund,Medium,148
+192,"Hi, There is a typo on the home screen. Thank you in advance",Technical,Low,60
+193,"Good morning, I would like a second delivery try. Please help",Delivery,Low,61
+194,"Dear support, It closes by itself when I go to settings. I am on the premium plan. It has been going on since Sunday morning. This is really frustrating. Let me know what can be done",Technical,High,182
+195,"Hey, App is balnk on launch now. I fist noticed this on Thursday at 01:55.",Technical,High,74
+196,"Hey, It closes by itself when I go to settings. I first noticed this on Tuesday at 04:03. Please advise on the next step.",Technical,High,121
+197,I got store credit instead of my money back. I first noticed this on Modnay at 13:36. Thank you in advance.,Refund,High,107
+198,I cannot see my order history in my account. I am using the latest version. I would appreciiate some help resolving this.,Account,Low,121
+199,I sent the product back and nothing came in. I first noticed this on Monday at 01:26. I need this fixed today.,Refund,High,110
+200,"Hi team, I get an error when I try to change my card. I have contacted you three times already. Thank you in advance.",Billing,Medium,117
+201,payment page freezes when i enter my details. this is my third order this month. i have contacted you three times already.,Technical,High,122
+202,The amount on my statement is in dollars not euro. I am on the premium plan. This is urgent. Please advise on the next step.,Billing,High,124
+203,"Hi team, The courier attempted delivery while I was away. It happened yesterday.",Delivery,Low,80
+204,Please close my account and remove my data. I am travelling at the moment. It has been going on since Thursday morning. Whenever you have a moment.,Account,Low,147
+205,The payment has been pending for days. I ordered last week. I first noticed this on Thursday at 08:34. Looking forward to your reply,Billing,Low,132
+206,I cannot log in and now my payment will not go through. I already tried restarting my phone. It happened yesterday.,Technical,High,115
+207,The inoice was sent to my old address. I ordered last week. I first noticed this on Friday at 16:45. This is urgent. Please advise on the next step.,Billing,Medium,148
+208,Can you check where my refund is? I ordered last week. I first noticed this on Friday at 21:10. I need this fixed today. Thank you in advance.,Refund,High,142
+209,"Can someone call me about my situation? I already tried restarting my phone. Not urgent, just wondering. Can you look into this?",Refund,High,128
+210,"Good morning, App is blank on launch now. I would appreciate some help resolving this.",Technical,High,86
+211,"Hi, I want to change the email address linked to my account. It worked fine until recently. It has been going on since Thursday morning.",Account,Low,136
+212,"Hi, I want to know the status of my refund request.",Refund,High,51
+213,"Hello, I am not happy with the service I received. This started on Tuesday. This is urgent. Thank you in advance",Billing,High,112
+214,Settings screen makes the whole app crash. Thanks.,Technical,High,50
+215,"Hi, Atachment upload gets stuck at 90 percent. Looking forward to your reply.",Technical,Medium,77
+216,"Hey, Everything is lagging and takes forever to open. I have contacted you before about something else. This started on Wednesday. Thank you in advance.",Technical,Medium,152
+217,"Something is wrong with my order, please help. This started on Sunday. Looking forward to your reply.",Account,High,101
+218,"Dear support, I cancelled my subscription and was still charged, I want that money returned. I use this service for work. I first noticed this on Friday at 20:17.",Refund,High,162
+219,"Hello, Wishlist is empty after I logged in on another device. It worked fine until recently. Looking forward to your reply.",Technical,Medium,123
+220,"Hello, App is blank on launch now. I need this fixed today. Thanks.",Technical,High,67
+221,"Good morning, I get an error when I try to change my card. This started on Tuesday. Thnk you in advance.",Technical,Medium,104
+222,"Dear support, The app shows a blank screen after the update. It has been going on since Wednesday morning.",Technical,High,106
+223,How can I get my money back for my last order?,Refund,Medium,46
+224,Search shhows nothing even for things I know exist. It haappened yesterday. Thanks.,Technical,Medium,83
+225,"Hi, I cancelled my subscription and was still charged, I want that money returned.",Billing,Medium,82
+226,"Dear support, I got only two of my three items. I ordered last week. Can you look into this?",Refund,High,92
+227,"Dear support, The webstie will not let me update my payment details. It worked fine until recently. It has been goiing on since Friday morning. Can you provide an update?",Technical,Medium,170
+228,I was charged for an order that never arrived. I first noticed this on Wednesday at 02:40. Thanks.,Refund,High,98
+229,"Hello, The refund is stuck as pending. It worked fine until recently. It has been going on since Thursday morning. Let me know what can be done.",Billing,Low,144
+230,I have a problem and would like someone to contact me. I first noticed this on Saturday at 23:12. I have contacted you three times already. Please advise on the next step.,Account,High,171
+231,"Dear support, App is blank on launch now. I have contacted you before about something else. I noticed it a few days ago. Whenever you have a moment. Thank you in advance",Technical,Medium,169
+232,"Good morning, Login keeps rejecting my password. I first noticed this on Wednesday at 10:30. No rush. Can you look into this?",Account,Medium,125
+233,"Hey, Return label does not scan at the post office. I use this service for work. I first noticed this on Monday at 03:13",Refund,Medium,120
+234,"Hi team, My refund went to the wrong payment method. I am travelling at the moment. I need this fixed today. Can you provide an update?",Refund,High,135
+235,The website will not let me update my payment details. I first noticed this on Saturday at 21:55.,Billing,Medium,97
+236,I have a problem and would like someone to contact me. Please advise on the next step,Delivery,Medium,85
+237,My account has been locked and I do not know why. I noticed it a few days ago. I have contacted you three times already. Can you provide an update?,Account,High,147
+238,"Hey, Why did the charge happen on the 3rd instead of the 15th? I first noticed this on Sunday at 00:35. This is urgent. Looking forward to your reply.",Billing,High,150
+239,I was charged twiice for the same order. Please avise on the next step.,Billing,High,71
+240,"Hello, The site takes ages to load. I have contacted you before about something else. This is urgent. Can you look into this?",Technical,High,125
+241,Order cancelled two weeks ago and no money back. I first noticed this on Thursday at 01:11.,Refund,Medium,91
+242,"good morning, i am being charged more than my plan says. not urgent, just wondering. thanks.",Billing,Low,92
+243,Tracking has been stuck for several days. I first noticed this on Sunday at 10:27. I have contacted you three times already. Thank you in advance.,Delivery,High,146
+244,"Hi, I want a refund please. I already tried restrting my phone.",Refund,Low,63
+245,"My order arived too late to be useful, I want my money back. It has been going on since Saturday morning. Not urgent, just wondering. Thanks.",Refund,Low,141
+246,I cannot see where my order is in the app. This is really frustrating. Thank you in advance.,Delivery,High,92
+247,i would like to request a refund for my recent purchase. i noticed it a few days ago.,Refund,Medium,85
+248,"Hello, My account balance does not look right after my last order. This is my third order this month. I have contacted you three times already. Looking forward to your reply.",Account,High,174
+249,"Hi, There is an issue with my account or my order, not sure which. Please help.",Refund,Low,79
+250,The activation eail never showed up. I am travelling at the moment. Please help,Account,Medium,79
+251,"Hey, My saved items disappeared after syncing. I use this service for work. It happened yesterday. Whenever you have a moment. I would appreciate some help resolving this.",Technical,Low,171
+252,"My order arrived too late to be useful, I want my money back. I have contacted you before about something else. I first noticed this on Saturday at 15:30. I have contacted you three times already. I would appreciate some help resolving this.",Refund,Low,241
+253,"Hey, This is not working as expected. Can you provide an update?",Delivery,Low,64
+254,"Good morning, Since the latest update the app just opens to a white screen. Whenever you have a moment. Thank you in advance.",Technical,High,125
+255,"Hi, The website will not let me update my payment details. It worked fine until recently. I first noticed this on Sunday at 14:17. Please advise on the next step",Billing,Low,161
+256,"Hello, The app shows a blank screen after the update. It happened yesterday.",Technical,Medium,76
+257,"Hi, The app shows a blank screen after the update. I first noticed this on Sunday at 14:50. Not urgent, just wondering. Thanks.",Technical,Medium,127
+258,"Hello, I would like to request a refund for my recent purchase. This is my third order this month. This is urgent. Looking forward to your reply.",Refund,High,145
+259,"Hi, Attachment upload gets stuck at 90 percent. It has been going on since Wednesday morning.",Technical,Medium,93
+260,"Good morning, Driver came when nobody was home. I have contacted you before about something else. Let me know what can be done.",Delivery,Low,127
+261,"Hey, Duplicate payment taken for one purchase. I first noticed this on Saturday at 07:23.",Billing,High,89
+262,"Hey, I used a voucher but was charged full price. It happened yesterday. Not urgent, just wondering.",Billing,Low,100
+263,"Dear support, My past orders are missing from my profile page. I noticed it a few days ago.",Account,Medium,91
+264,"hi, i would like a refund because the product was faulty. it has been going on since thursday morning.",Refund,Medium,102
+265,"Hi, Charged after cancelling, please reverse the payment. I am usng the latest version. I fisrt noticed this on Monday at 06:09. This is really frustrating. Thank you in advance.",Refund,High,178
+266,"Dear support, How many days until a refund shows up? I first noticed this on Friday at 01:48. I need this fixed today",Refund,High,117
+267,I am not happy with the service I received. It happened yesterday. I need this fixed today. Can you provide an update?,Refund,Low,118
+268,"Hi, Two-factor authentication keeps failing when I sign in. I first noticed this on Saturday at 22:29.",Account,High,102
+269,"Hello, I get an error when I try to change my card. It happened yesterday. This is urgent.",Billing,Medium,90
+270,"Dear support, My refund shows as pending on my account page. I have contacted you three times already. Can you look into this?",Billing,High,126
+271,"Good morning, Wrong product in the box.",Delivery,High,39
+272,I missed the cuorier today. I noticed it a few days ago. This is really frustrating. Looking forward to your reply.,Delivery,Medium,115
+273,"Hi team, Please send me proof of the refund. I ordered last week. It happened yesterday. Can you look into this?",Refund,Low,112
+274,"Dear support, I did not get the confirmation email for my new account. I ordered last week. I first noticed this on Friday at 15:52. Whenever you have a moment. I would appreciate some help resolving this.",Account,Low,205
+275,"Hi team, I am locked out after too many attempts. I am on the premium plan. It has been going on since Monday morning. I have contacted you three times already. Please advise on the next step.",Account,High,192
+276,"Hi, My card is declined only inside the app but works elsewhere. I noticed it a few days ago. I need this fixed today. I would appreciate some help resolving this.",Technical,High,163
+277,The search bar gives me wrong items.,Technical,Medium,36
+278,"hi team, the parcel is nowhere to be found according to tracking. i first noticed this on monday at 10:56. can you provide an update?",Delivery,Medium,133
+279,"Hello, There is an issue with my account or my order, not sure which. Let me know what can be done.",Refund,Medium,99
+280,"Good morning, How can I get my money back for my last order? Please advise on the next step.",Refund,Medium,92
+281,The credit on my account is missing. I first noticed this on Friday at 09:52. Whenever you have a moment.,Account,Low,105
+282,"Hi team, The delivery was left in an unsafe place. I have contacted you before about something else. It happened yesterday. Let me know what can be done.",Delivery,High,153
+283,My saved addresses vanished from my account. This started on Monday. Please advise on the next step.,Account,Medium,100
+284,"Good morning, I cannot log in and now my payment will not go through. This started on Friday.",Account,High,93
+285,"Hi, Can someone call me about my situation? I first noticed this on Sunday at 05:14. I need this fixed today. Please advise on the next step.",Refund,Medium,141
+286,The amount on my statement is in dollars not euro.,Billing,Low,50
+287,"Hey, I no lonegr get any alerts from the app. This is my thiird order this month. I noticed it a few days ago. Can you look into this?",Technical,Medium,134
+288,"Hi team, I was charged twice for the same order. Can you look into this?",Billing,High,72
+289,"Good morning, I was charged for an order that never arrived. I noticed it a few days ago. Please help.",Refund,High,102
+290,"Hi, Nothing is going right today. This is my third order this month. It happened yesterday.",Technical,High,91
+291,"Dear support, The amount on my statement is in dollars not euro. Let me know what can be done.",Billing,Medium,94
+292,"Good morning, I get a server error whenever I send the form. I use this service for work. I first noticed this on Tuesday at 06:03.",Technical,High,131
+293,I got store credit instead of my money back. I first noticed this on Sunday at 06:02.,Refund,High,85
+294,The app will not show my order status. I already tried restarting my phone. This started on Saturday. I need this fixed today. Can you look into this?,Technical,High,150
+295,"Good morning, My receipt has the wrong delivery address on it. I would appreciate some help resolving this.",Billing,Low,107
+296,"Good morning, My cancelled order was never refunded. It has been going on since Wednesday morning.",Refund,High,98
+297,The invoice was sent to my old address. This is urgent. Thank you in advance.,Delivery,Medium,77
+298,"Hello, Push notifications have stopped working. I first noticed this on Saturday at 19:52. Can you provide an update?",Technical,Medium,117
+299,I want my money back for a plan I did not use. I need this fixed today. Please help.,Refund,High,84
+300,"Hey, There is an issue with my account or my order, not sure which. No rush",Refund,Medium,75
+301,"Hello, Return label does not scan at the post office.",Refund,Medium,53
+302,i got store credit instead of my money back. i need this fixed today. thanks.,Refund,High,77
+303,I need help with my last purchase. I noticed it a few days ago. Can you look into this?,Delivery,Low,87
+304,"Hello, The app will not show my order status. Please help.",Technical,High,58
+305,"Dear support, Dark mode switches back to light after restart. Looking forward to your reply.",Technical,Low,92
+306,"Hi team, Uploading a photo fails with no error. I am using the latest version. This started on Monday. I would appreciate some help resolving this.",Technical,Medium,147
+307,"Hi team, Please refund my annual plan, I barely used it.",Refund,Medium,56
+308,My saved items disappeared after syncing. I first noticed this on Monday at 06:32. Looking forward to your reply.,Technical,High,113
+309,"Something is wrong with my order, please help. This started on Friday. This is urgent. Looking forward to your reply.",Technical,High,117
+310,"Dear support, My parccel got lost and I would like to be reimbursed. Not urgent, just wondering.",Refund,Medium,96
+311,"Dear support, The authenticator code is always rejected. I have contacted you before about something else. I first nticed this on Tuesday at 05:10. I wuold appreciate some help resolving this.",Account,High,192
+312,the website shows an error 500 when i submit the form. it has been going on since thursday morning. thank you in advance.,Account,High,121
+313,There was a login from a device I do not recognise. I am using the latest version. This started on Wednesday. Can you look into this?,Account,Medium,133
+314,Money left my bank but the payment is not confirmed.,Refund,Low,52
+315,"hi, nothing is going right today. i noticed it a few days ago. please advise on the next step.",Account,High,94
+316,"hi team, can someone call me about my situation? i use this service for work. this started on sunday. please help.",Technical,Medium,114
+317,"good morning, i signed up but there is no welcome email. it worked fine until recently. i first noticed this on monday at 15:27. i would appreciate some help resolving this.",Account,Medium,173
+318,"Hi, I returned my item two weeks ago and still have no refund. No rush.",Refund,Medium,71
+319,"Hello, I cannot log in and now my payment will not go through. I first noticed this on Thursday at 02:42. Please advise on the next step.",Technical,High,137
+320,"Dear support, I am being charged more than my plan says. I am travelling at the moment. I first noticed this on Saturday at 10:08. Thank you in advance.",Billing,Medium,152
+321,"Hello, The invoice was sent to my old address. It worked fine until recently. This is really frustrating. Please advise on the next step.",Billing,Low,137
+322,"Hello, I have a problem and would like someone to contact me. I first noticed this on Wednesday at 23:41. Please advise on the next step.",Delivery,Medium,137
+323,"Hey, Can you send me the invoice for my last payment? I am travelling at the moment. I have contacted you three times already. Please advise on the next step.",Billing,Low,158
+324,"Good morning, Charged after cancelling, please reverse the payment. This is my third order this month. This started on Saturday. No rush.",Refund,High,137
+325,"Good morning, I want my money back because the courier lost my package. Can you provide an update?",Refund,High,98
+326,"Hi, Two-factor authentication keeps failing when I sign in. I ordered last week. I first noticed this on Tuesday at 22:54. I need this fixed today. Please advise on the next step.",Account,High,179
+327,"Good morning, I was charged twice for the same order. I use this service for work. I need this fixed today. Can you look into this?",Billing,High,131
+328,"Good morning, My display preferences reset every time. I first noticed this on Saturday at 12:29. Please advise on the next step.",Technical,Low,129
+329,"Hi, The website will not let me update my payment details. I first noticed this on Monday at 05:23. Can you provide an update?",Technical,Medium,126
+330,"Hi team, I was charged after cancelling my subscription. I am travelling at the moment. I first noticed this on Thursday at 11:54. I have contacted you three times already.",Billing,High,172
+331,Can someone call me about my situation? I use this service for work. I first noticed this on Wednesday at 07:25. Can you provide an update?,Account,Medium,139
+332,"Hi, I misesd the courier today. This strted on Thursday.",Delivery,Low,56
+333,Tax is missing from my invoice. I am on the premium plan. This started on Tuesday. Looking forward to your reply.,Billing,Low,113
+334,"dear support, i want my money back for a plan i did not use. no rush. can you look into this?",Refund,Medium,93
+335,My refund went to the wrong payment method. I first noticed this on Monday at 22:29. I need this fixed today. I would appreciate some help resolving this.,Refund,High,154
+336,"hello, this is not working as expected. i am using the latest version. whenever you have a moment. thanks",Delivery,Medium,105
+337,"Dear support, Any update on my refund? Please advise on the next step.",Refund,Medium,70
+338,"Hi team, I want my money back because the courier lost my package. This started on Thursday. No rush.",Refund,Low,101
+339,The payment has been pending for days. It happened yesterday. Please advise on the next step.,Billing,Medium,93
+340,"Hi, A button label looks wrong in the app. I already tried restarting my phone. I have contacted you three times already. I would appreciate some help resolving this.",Technical,Medium,166
+341,"Hey, Any update on my refund? I am using the latest version. I first noticed this on Tuesday at 16:57. I would appreciate some help resolving this.",Refund,Low,147
+342,"Dear support, There are two identical charges on my statement. I first noticed this on Sunday at 06:28. Can you provide an update?",Billing,High,130
+343,"Hi team, You said the refund was processed but I see nothing. It happened yesterday.",Refund,High,84
+344,"Hello, Nothing happens when I tap Pay now. I first noticed this on Tuesday at 08:00. I have contacted you three times already. Let me know what can be done.",Technical,High,156
+345,"Hi, I am not happy with the service I received. This started on Thursday. Please help.",Delivery,Low,86
+346,"hello, my card expired, how do i change the payment method? i use this service for work. please help.",Billing,Low,101
+347,The delivery was left in an unsafe place. It worked fine until recently. I noticed it a few days ago. No rush. Let me know what can be done.,Delivery,Low,140
+348,"Hi team, I no longer get any alerts from the app. I first noticed this on Monday at 04:03. This is urgent. Thanks.",Technical,High,114
+349,"Hey, Charged after cancelling, please reverse the payment. I first noticed this on Thursday at 09:31. Let me know what can be done.",Refund,High,131
+350,My parcel arrived damaged. I first noticed this on Tuesday at 04:28. Please help.,Delivery,High,81
+351,My discount code was not applied at checkout. I noticed it a few days ago. Thanks.,Billing,Medium,82
+352,"Good morning, How long does a refund usually take to process? I already tried restarting my phone. I first noticed this on Tuesday at 20:05. Can you look into this",Refund,Low,163
+353,"Product is defective, please refund me. I noticed it a few days ago.",Refund,Low,68
+354,"Good morning, The amount on my statement is in dollars not euro. I first noticed this on Wednesday at 20:41. Looking forward to your reply.",Billing,Medium,139
+355,"Hi, There is a charge on my card I never authorised.",Billing,High,52
+356,"Hi, Can someone call me about my situation? I first noticed this on Saturday at 03:19.",Technical,High,86
+357,"Dear support, Tracking has been stuck for several days. I noticed it a few days ago.",Delivery,Medium,84
+358,I sent the product back and nothing came in. Thank you in advance.,Refund,High,66
+359,Can I get a refund for an item that arrived late? I am travelling at the moment. I fisrt noticed this on Wednesday at 03:33. I would appreciate some help resolving this.,Refund,Low,169
+360,"Hey, Can you arrange another delivery attempt? I already tried restarting my phone. It has been going on since Thursday morning.",Delivery,Low,128
+361,"I need help with my last purchase. It has been going on since Saturday morning. Not urgent, just wondering. Looking forward to your reply.",Delivery,High,138
+362,"Hi team, There are two identical charges on my statement. I am travelling at the moment. This started on Monday. Can you provide an update?",Billing,High,139
+363,I see a payment I do not recognise from your company. I first noticed this on Monday at 07:47.,Billing,Medium,94
+364,The website will not let me update my payment details. I first noticed this on Thursday at 02:04. Let me know what can be done.,Billing,Low,127
+365,"Dear support, I am not happy with the service I received. I already tried restarting my phone. It has been going on since Thursday morning. Please advise on the next step",Billing,Low,170
+366,"hey, i cannot complete checkout, the button does nothing. i first noticed this on thursday at 20:16. please help.",Technical,High,113
+367,I moved and need the shipment sent elsewhere. It worked fine until recently. I have contacted you three times already. Can you provide an update?,Delivery,High,145
+368,My saved addresses vanished from my account. I am travelling at the moment. I first noticed this on Sunday at 18:25.,Account,Medium,116
+369,"Dear support, Package was torn open when it got here. I am on the premium plan. I need this fixed today. Thank you in advance.",Delivery,High,126
+370,Return label does not scan at the post office. Please advise on the next step.,Refund,Low,78
+371,"Good morning, Uploading a photo fails with no error. I am using the latest version. I first noticed this on Sunday at 00:25. Looking forward to your reply.",Technical,High,155
+372,"Please refund my annual plan, I barely used it. No rush. I would appreciate some help resolving this",Refund,Medium,100
+373,How long does a refund usually take to process? I use this service for work.,Refund,Low,76
+374,"Hi, The estimated delivery date has passed. Tank you in advance.",Delivery,Low,64
+375,I want to know the status of my refund request. I already tried restarting my phone. This is really frustrating. Can you look into this?,Refund,High,136
+376,Everything is lagging and takes forever to open. I have contacted you before about something else. This started on Tuesday. Whenever you have a moment. Let me know what can be done.,Technical,Medium,181
+377,Data did not sync between my phone and laptop. I first noticed this on Monday at 15:56. Please help.,Technical,Medium,100
+378,"Hey, The search bar gives me wrong items. I first noticed this on Thursday at 14:18. This is really frustrating.",Technical,High,112
+379,"Hi, I want my money back for a plan I did not use. I first noticed this on Thursday at 23:12. This is urgent. Can you look into this?",Refund,High,133
+380,"Hello, The app crashes every time I open the settings page. It has been going on since Thursday morning. Please help.",Technical,Medium,117
+381,"Good morning, My display preferences reset every time. It worked fine until recently. It has been going on since Tuesday morning.",Technical,Low,129
+382,My card was billed in a different currency than the price shown. I ordered last week. I would appreciate some help resolving this.,Billing,High,130
+383,"Hey, My card was billed in a different currency than the price shown. I first noticed this on Thursday at 07:17. No rush. Let me know what can be done.",Billing,Low,151
+384,"Hi team, There are two identical charges on my statement. It happened yesterday. Can you look into this?",Delivery,High,104
+385,"Hello, My saved items disappeared after syncing. I have contacted you before about something else. It has been going on since Thursday morning.",Technical,High,143
+386,"Hi team, Delivery was promised for Monday and it is still not here. This started on Saturday. Looking forward to your reply.",Delivery,Medium,124
+387,"Good morning, My saved items disappeared after syncing. I noticed it a few days ago. Please advise on the next step.",Technical,Medium,116
+388,My saved items disappeared after syncing. I am on the premium plan. I first noticed this on Sunday at 18:09. This is urgent. Thanks.,Technical,Medium,132
+389,"Hi, My saved items disappeared after syncing. I have contacted you before about something else. Please help.",Technical,Medium,108
+390,"Hi team, My card is declined only inside the app but works elsewhere. This is my third order this month. This started on Monday. Whenever you have a moment. Let me know what can be done.",Technical,High,186
+391,"Hello, My payment is still showing as pending. I first noticed this on Tuesday at 07:02. Please advise on the next step.",Billing,Medium,120
+392,"Good morning, Package was left with a neighbour I do not know. I have contacted you before about something else. I first noticed this on Wednesday at 11:07. Let me know what can be done.",Delivery,High,186
+393,"Hi team, Push notifications have stopped working. It worked fine until recently. Please advise on the next step.",Technical,Medium,112
+394,"Dear support, I would like to request a refund for my recent purchase. This started on Saturday. No rush. Please help.",Refund,Low,118
+395,"Hi team, My billing date is different from what I expected. This started on Saturday. This is urgent.",Billing,Medium,101
+396,"Good morning, My invoice shows an incorrect amount. Please adivse on the next step.",Billing,High,83
+397,"Good morning, Something is wrong with my order, please help. I first noticed this on Sunday at 16:25. No rush. Looking forward to your reply.",Billing,Low,141
+398,I want to update the card details on my account. I have contacted you before about something else. I first noticed this on Tuesday at 03:03. Please help.,Billing,Low,153
+399,The estimated delivery date has passed. It has been going on since Sunday morning. Let me know what can be done.,Delivery,High,112
+400,This is not working as expected. It has been going on since Thursday morning.,Refund,High,77
+401,"Hi team, I no longer get any alerts from the app. I am using the latest version. This started on Wednesday.",Account,Low,107
+402,"Hi, The app shows a blank screen after the update. Let me know what can be done.",Technical,High,80
+403,My package was marked as delivered but I never received it. I first noticed this on Saturday at 14:42.,Delivery,High,102
+404,"Hi, I need a written confirmation of my refund. I first noticed this on Wednesday at 02:28.",Refund,Low,91
+405,How do I deactivate my proile permanently? This started on Monday. Let me know what can be done.,Account,Low,96
+406,I cannot see where my order is in the app. This started on Tuesday.,Technical,Medium,67
+407,The monthly fee went up without notice. It happened yesterday. Please advise on the next step.,Billing,Medium,94
+408,"Hi team, Search shows nothing even for things I know exist. Can you provide an update?",Technical,Medium,86
+409,"Hi team, I have a problem and would like someone to contact me.",Delivery,Medium,63
+410,"Hi, The delivery was left in an unsafe place. It happened yesterday. I have contacted you three times already. Let me know what can be done.",Delivery,High,140
+411,Can someone call me about my situation? I already tried restarting my phone. I first noticed this on Thursday at 11:36. I need this fixed today.,Technical,High,144
+412,I want a refund please. I have contacted you before about something else. It happened yesterday. I need this fixed today. Looking forward to your reply.,Refund,High,152
+413,"Hello, I cannot log in even though my password is correct. I am using the latest version. It happened yesterday. Not urgent, just wondering.",Account,High,140
+414,"Hi team, I want a refund please. It happened yesterday. Can you look into this?",Refund,Medium,79
+415,The refund is stuck as pending. I first ntoiced this on Saturday at 13:50. I have contacted you three times already. Thank you in advance.,Delivery,High,138
+416,"Dear support, What is the refund timeline? Looking forward to your reply.",Refund,Low,73
+417,I cannot find the option to delete my account. It happened yesterday. I need this fixed today. Please help.,Account,Medium,107
+418,"Hi, My account has been locked and I do not know why. I ordered last week. Please help.",Account,High,87
+419,"Hi team, Settings screen makes the whole app crash. It worked fine until recently. Thank you in advance.",Technical,High,104
+420,"Good morning, Please hold the parcel at a pickup point. It has been going on since Monday morning. Thank you in advance.",Technical,Low,120
+421,"Hi team, I need help with my last purchase. It worked fine until recently. I noticed it a few days ago. This is really frustrating.",Account,Medium,131
+422,Can the display name on my profile be changed? I need this fixed today. Please advise on the next step,Account,High,102
+423,Invoice amount looks wrong. It hapened yesterday. Please help.,Billing,Medium,62
+424,"Hi team, My account balance does not look right after my last order. This started on Sunday. Can you look into this?",Account,Medium,116
+425,"Hi team, My parcel got lost and I would like to be reimbursed. No rush. Thank you in advance.",Refund,Medium,93
+426,"Hey, Pasword reset link says expired. I first ntoiced this on Sunday at 00:22. Please help.",Account,Medium,91
+427,"Good morning, Please send me proof of the refund. Whenever you have a moment. Thanks.",Refund,Low,85
+428,"Dear support, No SMS code is coming through on my new number. I first noticed this on Sunday at 14:21. I would appreciate some help resolving this.",Account,Medium,147
+429,there is a charge on my card i never authorised. whenever you have a moment. thank you in advance.,Billing,High,98
+430,Nothing happens when I tap Pay now. I have contacted you before about something else. Please help.,Technical,High,98
+431,I was charged after cancelling my subscription. I noticed it a few days ago. I need this fixed today. Can you look into this?,Billing,High,125
+432,"Dear support, I want to update the card details on my account. I have contacted you before about something else. I first noticed this on Saturday at 23:15. I need this fixed today. Let me know what can be done.",Billing,Low,210
+433,"Hello, I would like to request a refund for my recent purchase. This is my third order this month.",Refund,Medium,98
+434,"Hi team, What arrived is not what I ordered. This started on Friday. No rush. Looking forward to your reply.",Delivery,High,108
+435,Driver came when nobody was home. I use this service for work. This is really frustrating.,Delivery,Low,90
+436,"dear support, i get an error when i try to change my card. i first noticed this on wednesday at 00:04. this is urgent. let me know what can be done.",Billing,High,148
+437,"dear support, someone may have got into my profile, i see activity that is not mine. this started on tuesday. no rush.",Account,Medium,118
+438,I did not receive a refund for my cancelled order. I first noticed this on Wednesday at 10:25. Can you provide an update?,Refund,High,121
+439,"Good morning, Push notifications have stopped working. This is urgent. Thank you in advance.",Technical,High,92
+440,Two-factor authentication keeps failing when I sign in. This is my third order this month. I need this fixed today.,Account,High,115
+441,Uploading a phhoto fails with no error. I first noticed this on Tuesday at 15:19. I have contacted you three times already.,Technical,Medium,123
+442,"Hi team, Can I get a refund for an item that arrived late? I am on the premium plan. This started on Wednesday. I would appreciate some help resolving this",Refund,Low,155
+443,"Good morning, I want a refund please. I first noticed this on Wednesday at 05:39. Looking forward to your reply.",Refund,Medium,112
+444,"There is an issue with my account or my order, not sure which. I first noticed this on Friday at 12:17. Please advise on the next step.",Account,Low,135
+445,This is not working as expected. Please advise on the next step.,Refund,Low,64
+446,"Dear support, My package has not arrived and the tracking has not updated. I am usng the latest version. It has been going on since Friday morning. Can you look into this?",Delivery,Medium,171
+447,Please hold the parcel at a pickup point. I would appreciate some help resolving this.,Delivery,Low,86
+448,"Hey, Can the courier come on Saturday instead? I first noticed this on Saturday at 15:44. Can you provide an update",Delivery,Low,115
+449,"Good morning, My billing date is different from what I expected. This started on Friday. I have contacted you three times already. Looking forward to your reply.",Billing,High,161
+450,My receipt has the wrong delivery address on it. I ordered last week. Please help.,Delivery,Low,82
+451,I have a problem and would like someone to contact me. It has been going on since Monday morning.,Technical,Low,97
+452,"Dear support, I get an error when I try to change my card. I ordered last week. It happened yesterday. Can you look into this?",Technical,Low,126
+453,There are two identical charges on my statement. It happened yesterday. I need this fixed today. Let me know what can be done.,Billing,Medium,126
+454,"hi, data did not sync between my phone and laptop. it has been going on since sunday morning. this is urgent. thanks.",Technical,Medium,117
+455,"dear support, my payment is still showing as pending. i am on the premium plan. thank you in advance.",Billing,Medium,101
+456,Three are two identical charges on my statement. It worked fine until recently. This started on Thursday. No rush. I would appreciate some help rsolving this.,Refund,Medium,158
+457,Why did the charge happen on the 3rd instead of the 15th? I first noticed this on Friday at 03:30.,Billing,Medium,98
+458,"Hi team, I want to update the card details on my account. I first noticed this on Sunday at 15:15.",Billing,Medium,98
+459,"Hello, Login keeps rejecting my password. I am using the latest version. I first noticed this on Wednesday at 07:35.",Account,High,116
+460,This is not working as expected. I use this service for work. It happened yesterday. This is really frustrating. Can you provide an update?,Delivery,Low,139
+461,"Good morning, My session keeps ending and I have to sign in again. This is my third order this month. I first noticed this on Friday at 08:20. Looking forward to your reply.",Account,Medium,173
+462,"Good morning, After the login problem the checkout also fails. I have contacted you before about something else. I first noticed this on Sunday at 09:57",Billing,High,152
+463,I need to update the name on my profile. It has been going on since Monday morning. Can you look into this,Account,Low,106
+464,"Hello, My card expired, how do I change the payment method? I already tried restarting my phone. Please help.",Billing,Low,109
+465,the authenticator code is always rejected. it happened yesterday. this is really frustrating. let me know what can be done.,Account,High,123
+466,"Hello, Can I get a refund for an item that arrived late? I need this fixed today. I would appreciate some help resolving this",Refund,Medium,125
+467,The payment has been pending for days. Whenever you have a moment. Please advise on the next step,Billing,Medium,97
+468,They could not find my house. This started on Saturday. I have contacted you three times already.,Delivery,High,97
+469,"hello, i cannot see where my order is in the app. i noticed it a few days ago. can you look into this?",Account,Medium,102
+470,"Hello, They could not find my house. I am using the latest version. It has been going on since Friday morning.",Delivery,Medium,110
+471,"Good morning, I need to update the name on my profile. I first noticed this on Sunday at 03:41. I would appreciate some help resolving this.",Account,Low,140
+472,Form submission fails with an error message. It has been going on since Wednesday morning. Let me know what can be done.,Technical,High,120
+473,The app will not show my order status. I have contacted you before about something else. I first noticed this on Friday at 06:06. This is urgent. Thank you in advance.,Account,Medium,167
+474,"Hi, I was charged twice for the same order. This started on Friday. Thank you in advance.",Refund,High,89
+475,Can I redirect the parcel to my work address? I ordered last week. I first noticed this on Friday at 16:47. I need this fixed today. I would appreciate some help resolving this.,Delivery,Medium,177
+476,Delivery was promised for Monday and it is still not here. I first noticed this on Thursday at 23:50. Please advise on the next step,Delivery,High,132
+477,"Dear support, Nothing is going right today. It worked fine until recently. It happened yesterday. Looking forward to your reply.",Technical,Medium,128
+478,It says invalid credentials every time I sign in. It happened yesterday. Thanks.,Account,High,80
+479,"Dear support, The VAT amount on my invoice looks wrong. I first noticed this on Wednesday at 01:22. Whenever you have a moment. Thank you in advance.",Billing,Low,149
+480,"Dear support, It closes by itself when I go to settings. It has been going on since Thursday morning. Please help.",Technical,Medium,114
+481,The search bar gives me wrong items. Thanks.,Technical,Medium,44
+482,can someone call me about my situation? i first noticed this on wednesday at 09:23. looking forward to your reply.,Account,Medium,114
+483,The website will not let me update my payment details. I first noticed this on Wednesday at 09:39. Thanks.,Billing,High,106
+484,"Hello, My receipt has the wrong delivery address on it. I am using the latest version. I first noticed this on Saturday at 04:35. I have contacted you three times already. Can you prvoide an update?",Technical,Medium,198
+485,"Dear support, Can you send me the invoice for my last payment? I am travelling at the moment. It has been going on since Thursday morning.",Billing,Low,138
+486,Duplicate payment taken for one purchase. This is my third order this month. Can you provide an update?,Billing,High,103
+487,"hi, the dark mode setting does not save. it happened yesterday. can you look into this?",Technical,Low,87
+488,My receipt has the wrong delivery address on it.,Billing,Low,48
+489,"Good morning, I got only two of my three items. I first noticed this on Thursday at 20:53. Looking forward to your reply.",Delivery,Low,121
+490,I was logged out of all my devices unexpectedly. I use this service for work. I have contacted you three times already.,Account,High,119
+491,Can you send me the invoice for my last payment? It happened yesterday.,Billing,Low,71
+492,"Hi, Attachment upload gets stuck at 90 percent. This started on Sunday. This is really frustrating. Please help.",Technical,Medium,112
+493,The app will not show my order status. I have contacted you before about something else. I first noticed this on Sudnay at 02:33. I would appreciate some help resolivng this.,Technical,Medium,174
+494,"Hello, My card expired, how do I change the payment method? I need this fixed today. Please help.",Billing,Medium,97
+495,Can I redirect the parcel to my work address? This started on Thursday. Can you look into this?,Delivery,Low,95
+496,I cannot upload files larger than 5 MB. I already tried restarting my phone. I would appreciate some help resolving this.,Technical,Low,121
+497,"Dear support, I was billed earlier than my usual date. I first noticed this on Monday at 07:36. I need this fixed today. I would appreciate some help resolving this.",Billing,High,165
+498,"Hi team, Everything is lagging and takes forever to open. I first noticed this on Saturday at 12:37.",Technical,Medium,100
+499,"dear support, my parcel got lost and i wolud like to be reimbursed. looking forwward to your reply.",Delivery,Medium,99
+500,"Hello, Tracking says delivered but nothing is here. It has been going on since Thursday morning. Can you look into this?",Technical,High,120
+501,"Hi team, I get an error when I try to change my card. Please help.",Account,Medium,66
+502,I want my money back because the courier lost my package. I first noticed this on Thursday at 06:22. Let me know what can be done,Refund,High,129
+503,"Dear support, My display preferences reset every time. I already tried restarting my phone. I first noticed this on Monday at 23:16. Please help.",Technical,Low,145
+504,"Hi, I want a refund please. This started on Tuesday. Not urgent, just wondering.",Refund,High,80
+505,"Hi team, This is not working as expected. It has been going on since Monday morning.",Technical,Medium,84
+506,I need a written confirmation of my refund. Looking forward to your reply.,Refund,Low,74
+507,"Hey, Product is defective, please refund me. This is my third order this month. It happened yesterday. Whenever you have a moment. Let me know what can be done.",Refund,Low,160
+508,"Hello, Return label does not scan at the post office. Looking forward to your reply.",Refund,Medium,84
+509,Two-factor authentication keeps failing when I sign in. It happened yesterday.,Account,High,78
+510,I need a written confirmation of my refund. I have contacted you three times already.,Refund,Medium,85
+511,"Hi, A button label looks wrong in the app. It happened yesterday. I have contacted you three times already. Thanks.",Technical,Medium,115
+512,"Dear support, My account balance does not look right after my last order. It happened yesterday. Looking forward to your reply.",Billing,Medium,127
+513,"Dear support, Wrong product in the box. I first noticed this on Saturday at 09:53. Please help.",Delivery,High,95
+514,"Dear support, The courier left my parcel outside in the rain. I first noticed this on Wednesday at 04:00. Can you provide an update?",Delivery,Medium,132
+515,What arrived is not what I ordered. I first noticed this on Saturday at 09:57. Thanks,Refund,High,85
+516,this is not working as expected. i first noticed this on sunday at 23:10. i would appreciate some help resolving this.,Delivery,High,118
+517,how can i get my money back for my last order? i first noticed this on tuesday at 02:24. i have contacted you three times already. can you look into this?,Billing,Medium,154
+518,Settings screen makes the whole app crash. I already tried restarting my phone. It has been going on since Saturday morning. Thanks.,Technical,High,132
+519,"Dear support, Delivery was promised for Monday and it is still not here. Please advise on the next step.",Delivery,Medium,104
+520,I want to update the card details on my account. Please help.,Billing,Low,61
+521,Please help me switch my registered email. It has been going on since Sunday morning. I need this fixed today. I would appreciate some help resolving this.,Account,Medium,155
+522,My order is late and there is no news. I already tried restarting my phone. I first noticed this on Saturday at 10:34. Can you look into this?,Delivery,Medium,142
+523,"Dear support, Can I redirect the parcel to my work address? This is my third order this month. I first noticed this on Sunday at 13:09.",Delivery,Low,135
+524,I think someone else accessed my account. I am on the premium plan. It has been going on since Wednesday morning. I need this fixed today. Can you provide an update?,Account,High,165
+525,"Dear support, I keep getting signed out of the account. Please advise on the next step.",Account,Medium,87
+526,The invoice was sent to my old address. I first noticed this on Monday at 12:52. Looking forward to your reply.,Delivery,Medium,111
+527,"hi team, the payment has been pending for days. i first noticed this on monday at 03:22.",Refund,Medium,88
+528,"Dear support, I think someone else accessed my account. It happened yesterday. I would appreciate some help resolving this.",Account,Medium,123
+529,"Hi, I would like a refund because the product was faulty. I am on the premium plan. Thank you in advance.",Refund,Medium,105
+530,"Hey, I returned my item two weeks ago and still have no refund. This started on Thursday. Whenever you have a moment. Looking forward to your reply.",Refund,Low,148
+531,"Dear support, I want to reschedule my delivery to the weekend. It worked fine until recently. I noticed it a few days ago. I would appreciate some help resolving this.",Delivery,Low,167
+532,"Dear support, The website shows an error 500 when I submit the form. It has been going on since Thursday morning. Please help.",Technical,High,126
+533,"hi team, i get a server error whenever i send the form. please help.",Technical,High,68
+534,Can the display name on my profile be changed? Please advise on the next step.,Account,Low,78
+535,"Hi team, How can I get my money back for my last order? I ordered last week. Let me know what can be done.",Refund,Medium,106
+536,The authenticator code is always rejected. I have contacted you three times already. Please advise on the next step.,Account,Medium,116
+537,"I would like to request a refund for my recent purchase. Not urgent, just wondering. Please advise on the next step.",Refund,Medium,116
+538,"Dear support, Order cancelled two weeks ago and no moey back. I have contacted you three times already. Please advise on the next step.",Refund,High,135
+539,"Hi team, My discount code was not applied at checkout. I already tried restarting my phone.",Billing,Low,91
+540,Delivery was promised for Monday and it is still not here. I first noticed this on Wednesday at 20:24. I need this fixed today. Looking forward to your reply.,Delivery,High,158
+541,"Hello, I sent the product back and nothing came in. I first noticed this on Friday at 15:00. Not urgent, just wondering. Can you provide an update?",Refund,Medium,147
+542,"Charged after cancelling, please reverse the payment. I use this service for work.",Billing,High,82
+543,"Hey, Tax is missing from my invoice. I already tried restarting my phone. This started on Friday.",Billing,Low,97
+544,My refund went to the wrong payment method. I first noticed this on Thursday at 20:36. This is urgent. Thanks.,Refund,High,110
+545,"Hi team, Invoice amount looks wrong. It happened yesterday. I have contacted you three times already.",Billing,High,101
+546,"Good morning, An unknown charge appeared on my bank statement. This started on Thursday. This is really frustrating. Thank you in advance.",Billing,High,138
+547,"Hi team, This is not working as expected. This is my third order this month. It happened yesterday. I have contacted you three times already",Refund,High,140
+548,My paarcel got lost and I would like to be reimbursed. I first noticed this on Monday at 09:08. I would appreciate some help resolving this.,Refund,High,140
+549,"Hi team, The credit on my account is missing. I use this service for work. This started on Tuesday. I need this fixed today.",Billing,High,124
+550,How many days until a refund shows up? Please help.,Refund,Low,51
+551,"Hi team, Can someone call me about my situation? I first noticed this on Sunday at 18:48.",Delivery,Low,89
+552,"Hey, It closes by itself when I go to settings. I am using the latest version. This started on Wednesday. Please help.",Technical,Medium,118
+553,Notifications are not coming through on my phone. This started on Monday. Please advise on the next step.,Technical,Low,105
+554,"Hi, Subscription charge came through even though I ended it. Please advise on the next step.",Billing,High,92
+555,It says delivered yesterday and I have no parcel. I already tried restarting my phone. This started on Monday. Looking forward to your reply.,Delivery,High,141
+556,"Hey, The website shows an error 500 when I submit the form. I already tried restarting my phone. I first noticed this on Monday at 17:32.",Technical,High,137
+557,"My card expired, how do I change the payment method? Whenever you have a moment. Thanks.",Billing,Low,88
+558,"Hey, Someone may have got into my profile, I see activity that is not mine. It happened yesterday. Can you provide an update?",Account,High,125
+559,Refund confirmed by email but nothing in my bank. I first noticed this on Tuesday at 08:06. This is urgent. Can you look into this?,Refund,High,131
+560,"Good morning, This is not working as expected. I first noticed this on Monday at 10:42. Thank you in advance.",Technical,High,109
+561,"Hi team, My order is late and there is no news. I noticed it a few days ago. Please help.",Delivery,Medium,89
+562,"Hi, How can I get my money back for my last order? I first noticed this on Monday at 18:38. Pelaase advise on the next step.",Refund,Medium,124
+563,"Good morning, I need a written confirmation of my refund. It happened yesterday. Please help.",Refund,Low,93
+564,"Hello, I get an error when I try to change my card. I first noticed this on Saturday at 07:31. Thank you in advance.",Technical,High,116
+565,"Hi team, Why did the charge happen on the 3rd instead of the 15th? I am uing the latest version. It happened yesterday",Billing,Medium,118
+566,I want my money back because the courier lost my package. This is my third order this month. Please advise on the next step.,Refund,High,124
+567,I received the wrong item in my order. I use this service for work. I would appreciate some help reesolving this.,Delivery,High,113
+568,my name is spelled wrong on my account. can you provide an update?,Account,Medium,66
+569,package was left with a neighbour i do not know. i first noticed this on sunday at 04:26. looking forward to your reply.,Delivery,High,120
+570,"Hello, Where can I download my receipts? Looking forward to your reply.",Billing,Medium,71
+571,"Dear support, There was a login from a device I do not recognise. This started on Thursday. This is really frustrating. Please advise on the next step.",Account,High,151
+572,My past orders are missing from my profile page. I would appreciate some help resolving this.,Account,Medium,93
+573,"Hello, I need help with my last purchase. It has been going on since Thursday morning. This is urgent. Thanks.",Technical,Medium,110
+574,I cannot find the option to delete my account. This started on Thursday. Can you provide an update?,Account,Low,99
+575,No SMS code is coming through on my new number. This started on Sunday. Let me know what can be done.,Account,High,101
+576,Any update on my refund? This started on Tuesday. Thank you in advance.,Refund,Medium,71
+577,"Hi, The estimated delivery date has passed. It happened yesterday. I need this fixed today.",Delivery,High,91
+578,"Good morning, Nothing is going right today. This started on Thursday. Can you provide an update?",Refund,Low,96
+579,I returned the parcel but the tracking for the return is not updating. I would appreciate some help resolving this.,Refund,Medium,115
+580,"Hey, Payment taken but my parcel is nowhere to be seen. Can you look into this?",Billing,Medium,79
+581,"Dear support, My package was marked as delivered but I never received it. Whenever you have a moment. Please help.",Delivery,Low,114
+582,I sent the product back and nothing came in. I first notced this on Sunday at 10:43.,Refund,High,84
+583,"good morning, i keep getting signed out of the account. this is urgent. let me know what can be done.",Account,High,101
+584,"Hey, I would like a refund because the product was faulty. It happened yesterday. Thanks.",Refund,Medium,89
+585,"Hey, My past orders are missing from my profile page. This started on Monday. This is urgent. Can you provide an update?",Account,High,120
+586,"Hi, I cancelled my subscription and was still charged, I want that money returned. Let me know what can be done.",Refund,Medium,112
+587,I would like to change my delivery address. I already tried restarting my phone. I first noticed this on Thursday at 15:35. Can you provide an update?,Delivery,Medium,150
+588,"Hi team, Nothing is going right today. This started on Monday.",Refund,Low,62
+589,"Hi team, I get an error when I try to change my card. I first noticed this on Thursday at 05:26. Thanks.",Technical,Medium,104
+590,"Good morning, Tracking says delivered but nothing is here. I first noticed this on Tuesday at 00:47. This is really frustrating. Let me know what can be done.",Delivery,High,158
+591,"hello, someone may have got into my profile, i see activity that is not mine. not urgent, just wondering. let me know what can be done.",Technical,High,135
+592,"Hi team, Please help me switch my registered email. I use this service for work. No rush. Let me know what can be done.",Account,Low,119
+593,"Hi team, I need help with my last purchase. I am travelling at the moment. This started on Saturday. Whenever you have a moment. Please help.",Technical,Medium,141
+594,Payment page freezes when I enter my details. This started on Sunday. Thank you in advance.,Technical,Medium,91
+595,Search is not returning the expected results. I noticed it a few days ago. Can you provide an update?,Technical,Medium,101
+596,the courier left my parcel outside in the rain.,Delivery,Medium,47
+597,"Hi team, The site takes ages to load. I use this service for work. This started on Monday. No rush. Can you provide an update?",Technical,Low,126
+598,"Dear support, Driver came when nobody was home. I am on the premium plan. I noticed it a few days ago. Can you look into this?",Delivery,Low,126
+599,My payment is still showing as pending. I noticed it a few days ago. Looking forward to your reply.,Billing,Medium,99
+600,It says delivered yesterday and I have no parcel. I use this service for work. This started on Thursday. I need this fixed today. Looking forward to your reply.,Delivery,High,160
+601,"Dear support, The app will not let me pay for my order. I need this fixed today.",Technical,High,80
+602,"Hi team, This is not working as expected. I first noticed this on Wednesday at 03:50. This is really frustrating. Please advise on the next step.",Delivery,High,145
+603,"Dear support, I want my money back because the courier lost my package. I first noticed this on Thursday at 20:52. I need this fixed today. Thanks.",Refund,High,147
+604,"Dear support, Can the courier come on Saturday instead? I first noticed this on Thursday at 05:31. Not urgent, just wondering. Thanks.",Delivery,Low,134
+605,"Hi team, There are two identical charges on my statement. I first noticed this on Monday at 21:28. Looking forward to your reply.",Billing,High,129
+606,"Hi team, My receipt has the wrong delivery address on it. Whenever you have a moment. Can you look into this?",Delivery,Low,109
+607,My parcel got lost and I would like to be reimbursed. This started on Saturday. Thank you in advance.,Refund,High,101
+608,Form submission faails with an error message. It happeened yesterday. No rush.,Technical,Medium,78
+609,"Dear support, Can I redirect the parcel to my work address? It has been going on since Thursday morning. Let me know what can be done.",Delivery,Low,134
+610,"Hello, Package was torn open when it got here. I am travelling at the moment. Can you provide an update?",Delivery,High,104
+611,"Hi team, I am locked out after too many attempts. I have contacted you three times already.",Account,High,91
+612,"Hi, Return label does not scan at the post office. This started on Saturday. Looking forward to your reply.",Delivery,Medium,107
+613,"Good morning, My account has been locked and I do not know why. I first noticed this on Monday at 23:44. Can you provide an update?",Account,High,131
+614,"Hello, My name is spelled wrong on my account. This started on Thursday. I need this fixed today. I would appreciate some help resolving this.",Account,Medium,142
+615,return label does not scan at the post office. i fisrt noticed this on saturday at 05:48. this is really frustrating. let me know what can be done.,Delivery,High,147
+616,"Hi, How long does a refund usually take to process? I am travelling at the moment. It happened yesterday. This is urgent. I would appreciate some help resolving this.",Refund,Medium,166
+617,I was charged for an order that never arrived. This started on Tuesday. Looking forward to your reply.,Refund,Medium,102
+618,Tax is missing from my invoice. I am travelling at the moment. This started on Thursday. Please advise on the next step,Billing,Low,119
+619,I would like a second delivery try. This started on Sunday. No rush.,Delivery,Low,68
+620,"Hello, Nothing is going right today. I first noticed this on Thursday at 03:45. Please help.",Delivery,High,92
+621,"Hi, I used a voucher but was charged full price. I first noticed this on Wednesday at 04:20. Looking forward to your reply.",Billing,Low,123
+622,"Hi team, I cancelled my subscription and was still charged, I want that money returned. This started on Thursday.",Refund,High,113
+623,The app will not show my order status. I first noticed this on Friday at 16:21,Technical,High,78
+624,I no longer get any alerts from the app. It worked fine until recently. I first noticed this on Monday at 01:58. This is really frustrating.,Technical,High,140
+625,"Hey, I see a payment I do not recognise from your company. I am on the premium plan. I first noticed this on Wednesday at 18:55. Thanks.",Billing,High,136
+626,"Hello, I am not happy with the service I received. I have contacted you three times already.",Refund,High,92
+627,"Hi, The credit on my account is missing. This is urgent. Can you provide an update?",Account,Medium,83
+628,"Good morning, I am not happy with the service I received. It happened yesterday. Can you look into this?",Refund,Low,104
+629,"Hello, I need help with my last purchase. I use this service for work. Please help.",Delivery,Low,83
+630,"Dear support, The checkout button is not responding. I have contacted you before about something else. I first noticed this on Wednesday at 02:23. Looking forward to your reply.",Technical,High,177
+631,I need a copy of my receipt for last month. I first noticed this on Monday at 09:02. Can you provide an update?,Billing,Low,111
+632,"Hello, The app will not show my order status. I use this service for work. This started on Tuesday. I have contacted you three times already. Can you provide an update?",Account,High,168
+633,Dark mode switches back to light after restart. I have contacted you before about something else. I first noticed this on Wednesday at 19:39. I would appreciate some help resolving this.,Technical,Low,186
+634,I am locked out after too many attempts. It has been going on since Friday morning. This is urgent. Thanks.,Account,High,107
+635,"Good morning, My refund went to the wrong payment method. It happened yesterday.",Refund,High,80
+636,"hey, my card is declined only inside the app but works elsewhere. this is my tihrd order this month. i first noticed this on thursday at 17:36. can you look into this?",Technical,High,167
+637,"Good morning, The item stopped working so I want a refund. This started on Friday. This is really frustrating. Thank you in advance",Refund,Medium,131
+638,"Hey, I have a problem and would like someone to contact me. This started on Monday. I would appreciate some help resolving this",Account,Medium,127
+639,"Hello, The courier attempted delivery while I was away. I use this service for work. It has been going on since Wednesady morning. Can you look into this?",Delivery,Medium,154
+640,"Hi team, I cannot upload files larger than 5 MB. Whenever you have a moment. Looking forward to your reply.",Technical,Low,107
+641,"Hi, I cancelled my subscription and was still charged, I want that money returned. I am on the premium plan. Thank you in advance.",Billing,High,130
+642,"Hi, The refund is stuck as pending. It has been going on since Monday morning. I would appreciate some help resolving this.",Refund,Medium,123
+643,"dear support, i was charged for an order that never arrived. it has been going on since friday morning. thank you in advance.",Delivery,High,125
+644,"Good morning, I cannot log in and now my payment will not go through. It has been going on since Saturday morning. Can you look into this?",Account,High,138
+645,Notifications are not coming through on my phone. It happened yesterday. Thanks.,Technical,Medium,80
+646,"dear support, please redeliver my parcel. this started on saturday.",Delivery,Low,67
+647,"I can't remember my security answer and need to reset it. I have contacted you before about something else. Not urgent, just wondering.",Account,Low,135
+648,I need help with my last purchase. It worked fine until recently. I noticed it a few days ago. This is really frustrating. Please advise on the next step.,Delivery,Medium,154
+649,"Good morning, I cannot log in and now my payment will not go through. I use this service for work. This started on Thursday. This is really frustrating.",Technical,High,152
+650,"Hello, My card expired, how do I change the payment method? Not urgent, just wondering. Please help.",Billing,Low,100
+651,"Hi team, Can I redirect the parcel to my work address? It happened yesterday. Please help",Delivery,Low,89
+652,"Hey, I am not happy with the service I received. Can you provide an update?",Billing,High,75
+653,"Hey, My refund shows as pending on my account page. I first noticed this on Saturday at 20:34. I have contacted you three times already. Thank you in advance.",Refund,High,158
+654,Driver came when nobody was home. I am on the premium plan. It happened yesterday. I need this fixed today. I would appreciate some help resolving this.,Delivery,Low,152
+655,I cannot see where my order is in the app. This is really frustrating. Thank you in advance.,Delivery,High,92
+656,"Hi team, My name is spelled wrong on my account. I first noticed this on Sunday at 04:05. No rush. Let me know what can be done.",Account,Low,128
+657,Tracking has been stuck for several days. It worked fine until recently. It has been going on since Saturday morning. Let me know what can be done,Delivery,High,146
+658,"Hello, I cannot see my order history in my account. I am using the latest version. I first noticed this on Sunday at 09:36. I have contacted you three times already.",Account,High,165
+659,"Dear support, Pages are loading very slowly on my device. I first noticed this on Saturday at 07:49. Can you look into this?",Technical,Medium,124
+660,"good morning, payment taken but my parcel is nowhere to be seen. i am using the latest version. it happened yesterday. please advise on the next step.",Billing,High,150
+661,"Hey, The return was received by you but I am still waiting for my money. This started on Tuesday. No rush. Looking forward to your reply.",Refund,Medium,137
+662,I want my money back because the courier lost my package. This is my third order this month. Whenever you have a moment.,Refund,Medium,120
+663,My order is late and there is no news. Thank you in advance.,Delivery,Medium,60
+664,"Hey, The refund is stuck as pending. I first noticed this on Saturday at 13:15. No rush. Please help.",Refund,Low,101
+665,My parcel got lost and I would like to be reimbursed. Can you look into this?,Delivery,High,77
+666,Can you email me the refund receipt? I first noticed this on Sunday at 04:57. Looking forward to your reply.,Refund,Low,108
+667,"Good morning, Duplicate payment taken for one purchase.",Billing,High,55
+668,"Hi, The courier left my parcel outside in the rain. I first noticed this on Monday at 07:51. Not urgent, just wondering.",Delivery,Low,120
+669,"Hey, I need a copy of my receipt for last month. It happened yesterday. Looking forward to your reply.",Billing,Low,102
+670,My past orders are missing from my profile page. I already tried restarting my phone. This started on Thursday. I would appreciate some help resolving this.,Account,Low,156
+671,"Hi team, My parcel got lost and I would like to be reimbursed. I first noticed this on Saturday at 21:09. Let me know what can be done.",Delivery,High,135
+672,"Hey, There is an issue with my account or my order, not sure which. I noticed it a few days ago. This is urgent.",Billing,High,112
+673,"dear support, i forgot the answer to my security question. i first noticed this on thursday at 20:40. i would appreciate some help resolving this.",Account,Medium,146
+674,The estimated delivery date has passed. I first noticed this on Friday at 12:02. Please advise on the next step.,Delivery,Low,112
+675,"Hi team, How can I get my money back for my last order? I use this service for work. This started on Thursday.",Refund,Medium,110
+676,"Dear support, I cannot log in and now my payment will not go through. I first noticed this on Friday at 05:46. I need this fixed today. Let me know what can be done.",Technical,High,165
+677,"Hi team, Charged after cancelling, please reverse the payment.",Billing,High,62
+678,"Hey, Delivery failed because of an address problem. I have contacted you before about something else. No rush.",Delivery,Low,110
+679,"Hello, I keep getting signed out of the account. Looking forward to your reply.",Account,Medium,79
+680,"Hello, The courier attempted delivery while I was away. This is my third order this month. I first noticed this on Friday at 08:10. I have contacted you three times already. Thanks.",Delivery,Medium,181
+681,It closes by itself when I go to settings. I am on the premium plan.,Technical,High,68
+682,Can I get a refund for an item that arrived late? Thank you in advance.,Refund,Medium,71
+683,I think someone else accessed my account. I need this fixed today. Please advise on the next step.,Account,High,98
+684,"Charged after cancelling, please reverse the payment. I first noticed this on Tuesday at 06:36. This is urgent. Please advise on the next step.",Refund,High,143
+685,"Hey, I keep getting signed out of the account.",Account,Medium,46
+686,"I cannot complete checkout, the button does nothing. It has been going on since Friday morning. This is really frustrating. Thanks.",Technical,High,131
+687,"Hi team, Something is wrong with my order, please help. Can you provide an update",Billing,Medium,81
+688,I have a problem and would like someone to contact me. I am travelling at the moment. This started on Monday. Let me know what can be done.,Refund,Low,139
+689,Please send me proof of the refund. Thanks.,Refund,Low,43
+690,"Hi, I was charged after cancelling my subscription. Looking forward to your reply.",Billing,Medium,82
+691,"Dear support, Payment taken but my parcel is nowhere to be seen. I first noticed this on Thursday at 01:19. Not urgent, just wondering. Please advise on the next step.",Refund,High,167
+692,"Hi team, I forgot the answer to my security question. It has been going on since Saturday morning. I would appreciate some help resolving this.",Account,Low,143
+693,"Hi team, Since the laetst update the app just oepns to a white screen. I am using the latest version. This started on Monday. Can you look into this?",Technical,Medium,149
+694,"Dear support, After the login problem the checkout also fails. I would appreciate some help resolving this",Account,High,106
+695,"Hey, I can't remember my security answer and need to reset it. I use this service for work. This is really frustrating. Let me know what can be done.",Account,Medium,149
+696,"Hey, My refnud was approved but the mnoey has not reached my account. It happened yesterday. Thanks.",Refund,High,100
+697,Search is not returning the expected results. I use this service for work. This started on Thursday. Let me know what can be done.,Technical,High,130
+698,I want my money back for a plan I did not use. Thank you in advance.,Refund,Low,68
+699,Driver came when nobody was home. This is really frustrating. Thank you in advance.,Delivery,High,83
+700,"hi team, you said the refund was processed but i see nothing. it happened yesterday. whenever you have a moment.",Refund,Medium,112
+701,"Dear support, I cannot log in and now my payment will not go through. This is my third order this month. Please advise on the next step.",Billing,Medium,136
+702,"Hi, I am not happy with the service I received. I already tried restarting my phone. This started on Thursday. Can you provide an update?",Technical,Low,137
+703,"Hi team, I want to update the card details on my account. This is my third order this month. It happened yesterday. Thank you in advance.",Billing,Medium,137
+704,"Hello, The website shows an error 500 when I submit the form. I have contacted you before about something else. This started on Wednesday. Thanks.",Technical,High,146
+705,"Good morning, I cannot log in and now my payment will not go through. I am using the latest version",Technical,High,99
+706,I no longer get any alerts from the app. I first noticed this on Saturday at 11:53. Let me know what can be done.,Technical,Medium,113
+707,"Dear support, The VAT amount on my invoice looks wrong. I ordered last week. It has been going on since Sunday morning. Thank you in advance.",Billing,Low,141
+708,"Dear support, What is the refund timeline? Let me know what can be done.",Refund,Low,72
+709,"Hey, I returned my item two weeks ago and still have no refund. It has been going on since Thursday morning. Let me know what can be done.",Refund,High,138
+710,"Good morning, The app will not let me pay for my order. I first noticed this on Wednesday at 09:06. I would appreciate some help resolving this.",Technical,High,144
+711,"Dear support, The app will not show my order status. I noticed it a few days ago. Whenever you have a moment.",Delivery,Low,109
+712,"Hey, The courier attempted delivery while I was away. Thanks.",Delivery,Low,61
+713,"Hi, My session keeps ending and I have to sign in again. I first noticed this on Monday at 17:21. Please advise on the next step.",Account,Medium,129
+714,The verification code never arrives since I switched numbers. This started on Sunday. Let me know what can be done.,Account,Medium,115
+715,I need help with my last purchase. I ordered last week. I need this fixed today.,Refund,Low,80
+716,"Good morning, I want to update the card details on my account. I use this service for work. It happened yesterday. This is urgent. I would appreciate some help resolving this.",Billing,Medium,175
+717,"dear support, payment page freezes when i enter my details. i have contacted you before about something else. this is urgent. thank you in advance.",Technical,High,147
+718,"Hi, One item was not in the box. This is my third order this month. I first noticed this on Sunday at 15:21. Whenever you have a moment. Please advise on the next step.",Delivery,Low,168
+719,Can you arrange another delivery attempt? I have contacted you before about something else. This started on Thursday. Whenever you have a moment. Please advise on the next step.,Delivery,Low,177
+720,"Hi, I need help with my last purchase. It has been going on since Friday morning.",Billing,Low,81
+721,"Hi, Dark mode switches back to light after restart. Let me know what can be done.",Technical,Low,81
+722,i was charged for an order that never arrived. i am using the latest version. i first noticed this on tuesday at 07:12. looking forward to your reply.,Refund,High,150
+723,"Hello, The item stopped working so I want a refund. Please advise on the next step.",Refund,Low,83
+724,I have a problem and would like someone to contact me. I have contacted you three times already. Thanks.,Billing,High,104
+725,"Good morning, Duplicate payment taken for one purchase. Thank you in advance.",Billing,High,77
+726,"Good morning, How many days until a refund shows up? I am on the premium plan.",Refund,Low,78
+727,There was a login from a device I do not recognise. I fisrt noticed this on Wednesday at 18:26.,Account,High,95
+728,The refund is stuck as pending. I use this service for work. This started on Thursday. Please advise on the next step.,Refund,Medium,118
+729,"Good morning, I was logged out of all my devices unexpectedly. Please advise on the next step.",Account,Medium,94
+730,"Hello, My prcel arrived damaged. I firrst noticed this on Thursday at 05:36. Thanks.",Delivery,Medium,84
+731,"Hi, I cannot upload files larger than 5 MB. This started on Monday. I have contacted you three times already. Can you look into this?",Technical,High,133
+732,"Hey, Money left my bank but the payment is not confirmed. This started on Friday.",Billing,High,81
+733,Return label does not scan at the post office. This started on Monday.,Delivery,Low,70
+734,"Hello, Order cancelled two weeks ago and no money back. I use this service for work. This is really frustrating.",Refund,High,112
+735,"hello, i want my money back for a plan i did not use. i have contacted you before about something else. this started on friday.",Refund,Medium,127
+736,"Hello, The website will not let me update my payment details. I already tried restarting my phone. It happened yesterday. This is urgent. Let me know what can be done.",Billing,High,167
+737,"Good morning, Nothing is going right today. It happened yesterday. Can you look into this?",Refund,Medium,90
+738,I wuold like to change my delivery address. I first noticed this on Tuesday at 09:55. Whenever you have a moment. Thank you in advance.,Delivery,Low,135
+739,I used a voucher but was charged full price. I use this service for work. I first noticed this on Thursday at 23:57. I need this fixed today. Looking forward to your reply.,Billing,Medium,172
+740,I want a refund please. I first noticed this on Sunday at 22:24. Whenever you have a moment. Looking forward to your reply.,Refund,Low,123
+741,"Hey, My display preferences reset every time. It has been going on since Monday morning. Let me know what can be done.",Technical,Low,118
+742,Invoice amount looks wrong. It worked fine until recently. Thanks.,Billing,Low,66
+743,"Dear support, I want to know the status of my refund request.",Refund,Medium,61
+744,"Hey, My session keeps ending and I have to sign in again. I ordered last week. No rush.",Account,Low,87
+745,"Hi team, I cannot see my order history in my account. I am travelling at the moment. I first noticed this on Wednesday at 15:00. This is really frustrating. Let me know what can be done.",Account,High,186
+746,"Hi team, I returned the parcel but the tracking for the return is not updating. This started on Saturday. I would appreciate some help resolving this.",Delivery,Low,150
+747,"Hey, This is not working as expected. Please advise on the next step.",Refund,Medium,69
+748,"Hi, My name is spelled wrng on my account. I first noticed this on Monday at 10:53",Account,Low,82
+749,"hi team, i would like a refund because the product was faulty. this is really frustrating. looking forward to your reply.",Refund,Medium,121
+750,"Good morning, My receipt has the wrong delivery address on it. It has been going on since Wednesday morning. Thank you in advance",Delivery,Low,129
+751,I have a prooblem and would like someone to cotnact me. I first noticed this on Sunday at 01:12. Can you look into this?,Refund,Medium,120
+752,"Hi team, There is an issue with my account or my order, not sure which. I noticed it a few days ago. Looking forward to your reply.",Account,Medium,131
+753,"Hi, Nothing happens when I tap Pay now. I noticed it a few days ago.",Technical,High,68
+754,Can someone call me about my situation? I first noticed this on Sunday at 17:48. Thank you in advance.,Refund,High,102
+755,"Hi team, I was charged after cancelling my subscription. I am on the premium plan. I first noticed this on Sunday at 08:31. This is really frustrating. Can you provide an update?",Billing,High,178
+756,"hi, the courier says my address is invalid. this started on tuesday.",Delivery,Medium,68
+757,please hold the parcel at a pickup point. i first noticed this on sunday at 22:22. no rush. thanks.,Delivery,Low,99
+758,"Hey, The delivery was left in an unsafe place. I would appreciate some help resolving this.",Delivery,Medium,91
+759,My pacel arrived damaged. I first noticed this on Sunday at 05:27. This is really frustrating. I wuld appreciate some help resolving this.,Delivery,High,138
+760,Can you send me the invoice for my last payment? Can you look into this?,Billing,Medium,72
+761,My receipt has the wrong dellivery address on it. I fisrt noticed this on Sunday at 08:38.,Billing,Low,90
+762,"Hi, The amount on my statement is in dollars not euro. I first noticed this on Thursday at 12:52. Please advise on the next step.",Billing,High,129
+763,"Hey, Driver came when nobody was home. It happened yesterday. Thanks.",Delivery,Low,69
+764,I need a written confirmation of my refund. I ordered last week. Whenever you have a moment.,Refund,Low,92
+765,"Hi, The credit on my account is missing. It has been going on since Monday morning. I need this fixed today. Looking forward to your reply.",Billing,Medium,139
+766,"Good morning, Form submission fails with an error message. This started on Thursday.",Technical,High,84
+767,"Good morning, Attachment upload gets stuck at 90 percent. This started on Sunday. Please help.",Technical,Medium,94
+768,"hello, i was charged twice for the same order. let me know what can be done.",Billing,High,76
+769,"Hi, My subscription renewed at a higher price. It has been going on since Sunday morning. Can you look into this?",Delivery,Medium,113
+770,"Hi, The app shows a blank screen after the update. It happened yesterday. Looking forward to your reply.",Technical,High,104
+771,"Hi, My package has not arrived and the tracking has not updated. I am using the latest version. I first noticed this on Sunday at 03:03. I need this fixed today. Looking forward to your reply",Delivery,High,191
+772,"Something is wrong with my order, please help. I use this service for work. I first noticed this on Tuesday at 05:52. This is urgent. Can you provide an update?",Account,Low,160
+773,"Hey, I returned the parcel but the tracking for the return is not updating. This started on Sunday. Can you look into this?",Refund,Medium,123
+774,"good morning, this is not working as expected. can you provide an update?",Account,High,73
+775,"Hi, I am locked out after too many attempts. I am travelling at the moment. It has been going on since Friday morning. Whenever you have a moment. Thanks.",Account,High,154
+776,"Hey, Order cancelled two weeks ago and no money back. It has been going on since Friday morning. Let me know what can be done.",Refund,High,126
+777,"Hello, Refund confirmed by email but nothing in my bank. Thank you in advance.",Refund,High,78
+778,"Hello, The app will not let me pay for my order. It wored fine until recently. This started on Thursday. No rush.",Technical,Medium,113
+779,"hi team, charged after cancelling, please reverse the payment. this started on wednesday. i need this fixed today. i would appreciate some help resolving this.",Refund,High,159
+780,"Dear support, My session keeps ending and I have to sign in again. I first noticed this on Monday at 21:53. Can you look into this",Account,Medium,130
+781,"Hi, My discount code was not applied at checkout. I first noticed this on Tuesday at 15:19.",Billing,Low,91
+782,"Hey, The app will not show my order status. I already tried restarting my phone. Thanks.",Delivery,Medium,88
+783,"Dear support, How do I update the email on my profile? Let me know what can be done.",Account,Low,84
+784,The activation email never showed up. I need this fixed today.,Account,Low,62
+785,"Hi, The website will not let me update my payment details. I have contacted you before about something else. No rush. Thanks.",Technical,Low,125
+786,Nothing is going right today. I ordered last week. This is really frustrating,Refund,High,77
+787,"hi, an unknown charge appeared on my bank statement. it happened yesterday.",Billing,High,75
+788,The refund is stuck as pending. Can you look into this?,Billing,Medium,55
+789,"Hey, My receipt has the wrong delivery address on it. This started on Saturday. This is really frustrating.",Billing,Low,107
+790,"Dear support, My receipt has the wrong delivery address on it. I ordered last week. I would appreciate some help resolving this.",Billing,Low,128
+791,"Hi team, The invoice was sent to my old address. I first noticed this on Monday at 20:55. I would appreciate some help resolving this.",Billing,Low,134
+792,"Hi, My cancelled order was never refunded. I first noticed this on Thursday at 04:10. I have contacted you three times already. Can you provide an update?",Refund,High,154
+793,my paymnt is still showing as pending. it worked fine until recently. i noticed it a few days ago. thanks.,Billing,Medium,106
+794,lgin keeps rejecting my password. i am on the premium plan. i first noticed this on thursday at 23:32.,Account,High,102
+795,I cannot see my order history in my account. It happened yesterday. Please advise on the next step.,Account,Medium,99
+796,Form submission fails with an error message. I first noticed this on Sunday at 16:49.,Technical,High,85
+797,"dear support, package was left with a neighbour i do not know. i ordered last week. can you provide an update?",Delivery,Medium,110
+798,"Hi, There was a login from a device I do not recognise. I ordered last week. It happened yesterday. Let me know what can be done.",Technical,High,129
+799,"hi team, the payment has been pendng for days. it worked fine until recently. i first noticed this on friday at 10:20. can you provide an update?",Billing,Medium,145
+800,"Hi team, My parcel got lost and I would like to be reimbursed. Let me know what can be done.",Delivery,High,92
+801,"Hello, My refund shows as pending on my account page. I ordered last week. Looking forward to your reply.",Billing,Medium,105
+802,"There is an issue with my account or my order, not sure which. This is my third order this month. It has been going on since Monday morning. I need this fixed today. Can you look into this?",Technical,Medium,189
+803,"Hello, Payment page freezes when I enter my details. This started on Sunday.",Technical,High,76
+804,"Hi team, Can I get a refund for an item that arrived late? I ordered last week. It has been going on since Sunday morning. Looking forward to your reply.",Refund,Low,153
+805,It closes by itself when I go to settings. It worked fine until recently. This is really frustrating. Thanks.,Technical,High,109
+806,Login keeps rejecting my password. I am travelling at the moment. This started on Saturday. Thanks.,Account,Medium,99
+807,"Good morning, The delivery was left in an unsafe place. Thank you in advance.",Delivery,Low,77
+808,"Hello, My account has been locked and I do not know why.",Account,High,56
+809,"hey, package was left with a neighbour i do not know. this is my third order this month. it happened yesterday. can you provide an update?",Technical,Medium,138
+810,"Hi team, I cancelled my subscription and was still charged, I want that money returned. I have contacted you before about something else. I first noticed this on Friday at 11:26. Can you provide an update?",Refund,High,205
+811,The app shows a blank screen after the update. I ordered last week. I first noticed this on Saturday at 02:41. I have contacted you three times already. Please advise on the next step.,Technical,High,184
+812,"Good morning, The website shows an error 500 when I submit the form. I first noticed this on Sunday at 21:42. Please help.",Technical,High,122
+813,"Hey, What arrived is not what I ordered. I would appreciate some help resolving this.",Delivery,High,85
+814,"Good morning, I want my money back because the courier lost my package. I first noticed this on Thursday at 06:47. Looking forward to your reply.",Delivery,Medium,145
+815,I get an error when I try to change my card. Can you provide an update?,Billing,Medium,71
+816,My refund went to the wrong payment method. I first noticed this on Monday at 01:52. Can you provide an update?,Refund,Medium,111
+817,My cancelled order was never refunded. It has been going on since Tuesday morning. Please help.,Refund,High,95
+818,The delivery was left in an unsafe place. I first noticed this on Fiday at 21:18. Thank you in advance.,Delivery,Medium,103
+819,App is blank on launch now. I first noticed this on Tuesday at 09:59. Please help.,Technical,High,82
+820,"Hey, The site takes ages to load. This started on Friday. Thanks",Technical,Medium,64
+821,"Good morning, The checkout button is not responding. Thanks.",Technical,Medium,60
+822,I want my money back for a plan I did not use. I first noticed this on Thursday at 04:22. Please help.,Refund,Low,102
+823,"Hey, Can someone call me about my situation? This is urgent. I would appreciate some help resolving this.",Account,Low,105
+824,"Hi team, My saved addresses vanished from my account. Can you look into this?",Account,Medium,77
+825,"Good morning, After the login problem the checkout also fails. I already tried restarting my phone. No rush",Account,Low,107
+826,I would like to request a refund for my recent purchase. I am travelling at the moment. This is really frustrating. Please help,Refund,High,127
+827,"Charged after cancelling, please reverse the payment.",Billing,High,53
+828,"Dear support, My parcel got lost and I would like to be reimbursed. It worked fine until recently. I first noticed this on Thursday at 17:39. Thank you in advance.",Refund,High,163
+829,"Hi, My cancelled order was never refunded. I first noticed this on Saturday at 19:30. This is urgent. Looking forward to your reply.",Refund,High,132
+830,i got store credit instead of my money back. i am using the latest version. no rush. can you provide an update?,Refund,High,111
+831,"Dear support, Any update on my refund? This started on Monday. Can you provide an update?",Refund,Medium,89
+832,"I returned my item two weeks ago and still have no refund. This is my third order this month. I first noticed this on Monday at 17:34. Not urgent, just wondering. Please advise on the next step.",Delivery,Medium,194
+833,The invoice was sent to my old address. I first noticed this on Tuesday at 12:38. Please advise on the next step.,Delivery,Low,113
+834,the search bar gives me wrong items. thanks.,Technical,Medium,44
+835,"Hi, Wrong product in the box. It happened yesterday. Can you look into this?",Delivery,Medium,76
+836,I was charged twice for the same order. I am on the premium plan. This started on Tuesday. Can you provide an update?,Billing,High,117
+837,"Hello, Tracking has been stuck for sevearl days. Can you look into this?",Delivery,High,72
+838,"Dear support, My saved items disappeared after syncing. It has been going on since Saturday morning. I have contacted you three times already. I would appreciate some help resolving this.",Technical,High,187
+839,"Hello, Wrong product in the box. I ordered last week. I first noticed this on Thursday at 13:12. Can you look into this?",Delivery,High,120
+840,"Hey, I used a voucher but was charged full price. I am using the latest version. Can you look into this?",Billing,Low,104
+841,After the login problem the checkout also fails. I already tried restarting my phone. It happened yesterday. Let me know what can be done.,Account,High,138
+842,"Hello, The promo code did not reduce my total.",Billing,Low,46
+843,Can someone call me about my situation? It worked fine until recently. This is urgent. Let me know what can be done.,Account,High,116
+844,"Good morning, The return was received by you but I am still waiting for my money. This started on Thursday.",Refund,High,107
+845,"Hello, My refund shows as pending on my account page. I am on the premium plan. I first noticed this on Thursday at 09:50. Thanks.",Refund,Medium,130
+846,I was charged for an order that never arrived. I first noticed this on Monday at 21:48. Let me know what can be done.,Delivery,High,117
+847,"Dear support, My package was marked as delivered but I never received it. I am on the premium plan. I first noticed this on Tuesday at 01:46. No rush. Let me know what can be done",Delivery,Medium,179
+848,"Dear support, Everything is lagging and takes forever to open. I first noticed this on Thursday at 23:46.",Technical,Medium,105
+849,The app will not show my order status. I first noticed this on Thursday at 17:03. Thanks.,Delivery,High,89
+850,"Hi, Charged after cancelling, pllease reverse the payment. This started on Monday. Thanks.",Refund,High,90
+851,I cancelled last month but a charge still appeared. Please help.,Billing,High,64
+852,"Hi team, The dark mode setting does not save. I first noticed this on Thursday at 15:26.",Technical,Low,88
+853,I was charged for an order that never arrived. This started on Friday. Thanks.,Delivery,High,78
+854,"Dear support, I would like a refund because the product was faulty. Please help.",Refund,High,80
+855,Can someone call me about my situation?,Technical,High,39
+856,"Hi, My refund went to the wrong payment method. Let me know what can be done.",Refund,High,77
+857,"Dear support, There is an issue with my account or my order, not sure which. This is my third order this month.",Billing,Medium,111
+858,"Hi team, The estimated delivery date has passed. This is my third order this month. This is urgent. Can you provide an update?",Delivery,Low,126
+859,Can you arrange another delivery attempt? It happened yesterday. Please help.,Delivery,Low,77
+860,"Dear support, The payment has been pending for days. Please advise on the next step.",Billing,Medium,84
+861,"Dear support, After the login problem the checkout also fails. I am on the premium plan. I first noticed this on Sunday at 04:41. Thank you in advance.",Account,High,151
+862,"Hello, My parcel arrived damaged. I first noticed this on Tuesday at 20:20. Please help.",Technical,High,88
+863,"Hi, The VAT amount on my invoice looks wrong. It happened yesterday. Can you provide an update?",Billing,Low,95
+864,"Good morning, I am not happy with the service I received. I am on the premium plan. Whenever you have a moment. Let me know what can be done.",Account,Low,141
+865,"Hey, Nothing is going right today. Can you look into this?",Refund,Low,58
+866,They could not find my house. Can you provide an update?,Delivery,Medium,56
+867,"Dear support, Notifications are not coming through on my phone. Thank you in advance.",Technical,Medium,85
+868,"Hi team, The courier says my address is invalid. This is my third order this month. It has been going on since Wednesday morning. Looking forward to your reply.",Delivery,Medium,160
+869,"Dear support, I returned the parcel but the tracking for the return is not updating. I am on the premium plan. I first noticed this on Tuesday at 05:20. Please advise on the next step.",Delivery,Medium,184
+870,"Dear support, My order arrived too late to be useful, I want my money back. I use this service for work.",Refund,Low,104
+871,"good morning, i would like to request a refund for my recent purchase. it has been going on since thursday morning.",Refund,High,115
+872,The website shows an error 500 when I submit the form. I am on the premium plan. I noticed it a few days ago. Thank you in advance.,Technical,High,131
+873,The dark mode setting does not save. I first noticed this on Sunday at 08:08. Whenever you have a moment. Looking forward to your reply.,Technical,Medium,136
+874,"hi, the total on my invoice does not match what i paid. please advise on the next step",Refund,Medium,86
+875,"Good morning, I was charged twice for the same order. This started on Monday. Thanks.",Billing,High,85
+876,I want to reschedule my delivery to the weekend. I have contacted you before about something else. Thank you in advance.,Delivery,Low,120
+877,"Hey, The refund is stuck as pending. I have contacted you before about something else. It has been going on since Saturday morning. Can you look into this?",Billing,Medium,155
+878,"Dear support, My refund shows as pending on my account page. I noticed it a few days ago",Billing,Medium,88
+879,I was logged out of all my devices unexpectedly. I am on the premium plan. Thank you in advance.,Account,Medium,96
+880,My payment is still showing as pending. I first noticed this on Friday at 03:59. Let me know what can be done.,Billing,Medium,110
+881,"hi, my payment is still showing as pending. this started on wednesday. i would appreciate some help resolving this.",Billing,High,115
+882,Return label does not scan at the post office. I first noticed this on Saturday at 02:03. Thanks.,Delivery,Medium,97
+883,My refund shows as pending on my account page. I first noticed this on Wednesday at 21:23. Can you look into this?,Delivery,Low,114
+884,"Hey, I need a written confirmation of my refund. It has been going on since Monday morning. No rush. Looking forward to your reply.",Refund,Low,131
+885,"Good morning, Wrong product in the box. I need this fixed today. I would appreciate some help resolving this.",Delivery,High,109
+886,"Dear support, My card expired, how do I change the payment method? Please help.",Billing,Low,79
+887,Tracking has been stuck for several days. I ordered last week. This started on Monday. I have contacted you three times already. I would appreciate some help resolving this.,Delivery,High,173
+888,Can I redirect the parcel to my work address? This started on Thursday. Please advise on the next step.,Delivery,Low,103
+889,My saved items disappeared after syncing. This is my third order this month. Can you look into this?,Technical,Medium,100
+890,"Good morning, Can I get a refund for an item that arrived late? It happened yesterday. This is really frustrating.",Refund,Medium,114
+891,"Dear support, The website will not let me update my payment details. This is my third order this month. It happened yesterday. Please help.",Technical,High,139
+892,"Hi, Search shows nothing even for things I know exist. This started on Wednesday. I have contacted you three times already.",Technical,Medium,123
+893,"dear support, something is wrong with my order, please help. i first noticed this on friday at 17:33. i would appreciate some help resolving this",Billing,Medium,145
+894,"Hey, I would like to change my delivery address. Please advise on the next step.",Delivery,Low,80
+895,You said the refund was processed but I see nothing. This is my third order this month. Let me know what can be done.,Refund,High,117
+896,"Hey, Search is not returning the expected results. I first noticed this on Wednesday at 23:45. I need this fixed today. Please advise on the next step.",Technical,High,151
+897,"Hi team, I was charged after cancelling my subscription. It happened yesterday.",Billing,Medium,79
+898,"Hi team, Tax is missing from my invoice. Thanks.",Billing,Low,48
+899,"Hey, Login keeps rejecting my password. I already tried restarting my phone. I first noticed this on Wednesday at 09:19. Please advise on the next step.",Account,High,152
+900,"Hey, Payment taken but my parcel is nowhere to be seen. This is urgent. Please help.",Refund,High,84
+901,"Hi, The refund was sent to an old card. Please advise on the next step.",Refund,High,71
+902,"Hello, My card expired, how do I change the payment method? Let me know what can be done.",Billing,Low,89
+903,"Dear support, I did not get the confirmation email for my new account. It worked fine until recently. It happened yesterday. Thanks.",Account,Medium,132
+904,"Hello, I was charged for an order that never arrived. I am using the latest version. This started on Monday.",Delivery,High,108
+905,"Hi, This is not working as expected. I first noticed this on Wednesday at 04:32. Thank you in advance.",Billing,Low,102
+906,"Hi, Can you send me the invoice for my last payment? I first noticed this on Sunday at 23:03. I would appreciate some help resolving this.",Billing,Low,138
+907,"Hello, I moved and need the shipment sent elsewhere. It happened yesterday. This is really frustrating. Let me know what can be done.",Delivery,Medium,133
+908,"Good morning, Tracking has been stuck for several days. It has been going on since Thursday morning. I have contacted you three times already. Please advise on the next step.",Delivery,High,174
+909,"Hello, The courier says my address is invalid. This is really frustrating.",Delivery,High,74
+910,"Hey, My saved items disappeared after syncing. I have contacted you before about something else. This started on Sunday. Can you look into this?",Technical,Medium,144
+911,"Something is wrong with my order, please help. I use this service for work. This started on Sunday. No rush. Please advise on the next step.",Technical,Medium,140
+912,"Hey, The refund was sent to an old card. This started on Thursday. Looking forward to your reply.",Refund,High,97
+913,"Good morning, I am not happy with the service I received. This started on Tuesday. Whenever you have a moment. Can you provide an update?",Billing,Low,137
+914,"Dear support, I want to change the email address linked to my account. Can you provide an update?",Account,Low,97
+915,"Hey, Return label does not scan at the post office. I first noticed this on Tuesday at 03:44. No rush. I would appreciate some help resolving this.",Delivery,Medium,147
+916,"Hello, The app will not let me pay for my order. Thanks.",Technical,High,56
+917,"Hi, There is an issue with my account or my order, not sure which. I first noticed this on Friday at 16:55. I would appreciate some help resolving this.",Refund,Low,152
+918,I moved and need the shipment sent elsewhere. I first noticed this on Saturday at 07:50. Please help.,Delivery,Medium,101
+919,"Hi team, I did not get the confirmation email for my new account. Let me know what can be done.",Account,Low,95
+920,"Hi team, I have a problem and would like someone to contact me. I am travelling at the moment. I first noticed this on Monday at 16:24. Can you provide an update?",Account,Medium,162
+921,"Hello, My receipt has the wrong delivery address on it. Can you provide an update?",Delivery,Low,82
+922,"hey, package was left with a neighbour i do not know. it worked fine until recently. it has been going on since tuesday morning. looking forward to your reply.",Delivery,Medium,159
+923,"Hi, Part of my order is missing from the package. I first noticed this on Tuesday at 02:03. Looking forward to your reply.",Delivery,Medium,122
+924,"Dear support, My cancelled order was never refunded. I already tried restarting my phone.",Refund,High,89
+925,"Hi, Can you email me the refund receipt? It happened yesterday. I would appreciate some help resolving this",Refund,Medium,107
+926,I am not happy with the service I received. I noticed it a few days ago. Please help.,Refund,Medium,85
+927,"good morning, dark mode switches back to light after restart. let me know what can be done.",Technical,Low,91
+928,"Hello, My receipt has the wrong delivery address on it. Can you provide an update?",Delivery,Low,82
+929,i did not get the confirmation email for my new account. i am travelling at the moment. pleease help.,Account,Low,101
+930,"Hey, They could not find my house. Can you provide an update?",Delivery,Medium,61
+931,"Dear support, The total on my invoice does not match what I paid. It has been going on since Thursday morning. Please help.",Billing,Medium,123
+932,"Good morning, Search shows nothing even for things I know exist. This is my third order this month",Technical,Medium,98
+933,"Hey, Can I redirect the parcel to my work address? I noticed it a few days ago. Thank you in advance.",Delivery,Low,101
+934,My card is declined only inside the app but works elsewhere. I first noticed this on Wednesday at 09:16. Can you provide an update,Technical,High,130
+935,"Dear support, Someone may have got into my profile, I see activity that is not mine. This started on Sunday. I would appreciate some help resolving this.",Account,High,153
+936,"Hey, My card expired, how do I change the payment method? It worked fine until recently. Thanks.",Billing,Low,96
+937,"My order arrived too late to be useful, I want my money back. This is my third order this month. Thanks.",Refund,Low,104
+938,Can you send me the invoice for my last payment? I first noticed this on Sunday at 09:06. Can you provide an update?,Billing,Medium,116
+939,"Good morning, The website will not let me update my payment details. I need this fixed today. Thank you in advance",Technical,Medium,114
+940,I am not happy with the service I received. I first noticed this on Thursday at 22:10. No rush. I would appreciate some help resolving this.,Delivery,Low,140
+941,This is not working as expected. I already tried restarting my phone. It has been going on since Tuesday morning. Thanks.,Account,Low,121
+942,What arrived is not what I ordered. It has been going on since Thursday morning.,Delivery,High,80
+943,"Hi, Two-factor authentication keeps failing when I sign in. I am travelling at the moment. I first noticed this on Tuesday at 18:47.",Account,High,132
+944,The authenticator code is always rejected. I am on the premium plan. I noticed it a few days ago. I would appreciate some help resolving this.,Account,High,142
+945,"Dear support, Please close my account and remove my data.",Account,Low,57
+946,"Dear support, My order is late and there is no news. I use this service for work. It happened yesterday. Thank you in advance.",Delivery,Low,126
+947,"Hi, You said the refund was processed but I see nothing. I first noticed this on Tuesday at 04:13. This is urgent. Thank you in advance.",Refund,High,136
+948,Refund confirmed by email but nothing in my bank. Please advise on the next step.,Refund,High,81
+949,"Hello, Dark mode switches back to light after restart. I ordered last week. No rush. Please advise on the next step.",Technical,Low,116
+950,The site takes ages to load. I noticed it a few days ago. Let me know what can be done.,Technical,Medium,87
+951,"Good morning, This is not working as expected. I am on the premium plan. Can you provide an update",Delivery,High,98
+952,"Hi, How do I update the email on my profile? I already tried restarting my phone. It happened yesterday. Can you provide an update?",Account,Low,131
+953,I received the wrong item in my order. I am on the premium plan. I noticed it a few days ago. I have contacted you three times already. Can you look into this?,Delivery,High,159
+954,"Hi, I got store credit instead of my money back. I first notticed this on Sunday at 18:06. Please help",Refund,High,102
+955,"Hello, The checkout button is not responding. I am travelling at the moment. Can you provide an update?",Technical,High,103
+956,The courier says my address is invalid. I am on the premium plan. This started on Friday. Let me know what can be done.,Delivery,Medium,119
+957,"Hi team, How long does a refund usually take to process? It worked fine until recently.",Refund,Low,87
+958,"Hi team, My parcel got lost and I would like to be reimbursed. Please advise on the next step.",Refund,High,94
+959,"Dear support, I see a payment I do not recognise from your company. I ordered last week. I first noticed this on Thursday at 06:19. Please advise on the next step.",Billing,High,163
+960,"Hi team, I returned the parcel but the tracking for the return is not updating. It has been going on since Saturday morning. Can you provide an update?",Refund,Low,151
+961,"Hi team, My account has been locked and I do not know why. I noticed it a few days ago. Can you look into this?",Account,High,111
+962,"Something is wrong with my order, please help. I first noticed this on Monday at 10:28. Thank you in advance.",Billing,Low,109
+963,"Hello, Can you check where my refund is? I first noticed this on Thursday at 22:05.",Refund,Low,83
+964,I no longer get any alerts from the app. Can you provide an update?,Technical,Medium,67
+965,My saved addresses vanished from my account. I first noticed this on Tuesday at 21:14. Thank you in advance.,Account,Low,108
+966,my receipt has the wrong delivery address on it. it happened yesterday. whenever you have a moment. thanks.,Billing,Low,107
+967,"Good morning, Return label does not scan at the post office. I first noticed this on Friday at 04:00. I need this fixed today. I would appreciate some help resolving this.",Refund,High,171
+968,I was charged after cancelling my subscription. This started on Monday. Let me know what can be done.,Billing,High,101
+969,The dark mode setting does not save. It has been going on since Sunday morning. Thank you in advance.,Technical,Medium,101
+970,"Hey, I want my money back for a plan I did not use. I first noticed this on Thursday at 14:57. I would appreciate some help resolving this.",Refund,Medium,139
+971,"Good morning, How do I update the email on my profile? It worked fine until recently. Looking forward to your reply.",Technical,Low,116
+972,Search shows nothing even for things I know exist. I first noticed this on Monday at 20:30. Can you provide an update?,Technical,Medium,118
+973,My subscription renewed at a higher price. I already tried restarting my phone. I first noticed this on Friday at 08:28.,Billing,Low,120
+974,"Hey, The box was crushed and the item is broken. This is my third order this month. This started on Monday. Can you provide an update",Delivery,Medium,133
+975,It says delivered yesterday and I have no parcel.,Delivery,High,49
+976,"good morning, my refund was approved but the money has not reached my account. it happened yesterday. this is urgent. thank you in advance.",Refund,High,139
+977,"Hi, The item stopped worrkiing so I want a refund. Thanks.",Refund,Medium,58
+978,"hello, the courier left my parcel outside in the rain. i am travelling at the moment. it has been going on since wednesday morning. please help.",Delivery,Medium,144
+979,"Hello, Money left my bank but the payment is not confirmed. Looking forward to your reply",Billing,Medium,89
+980,"Hey, Can someone call me about my situation? This started on Sunday. Please help.",Refund,High,81
+981,"Hey, How many days until a refund shows up? I noticed it a few days ago.",Refund,Low,72
+982,"Hello, The courier says my address is invalid. I first noticed this on Friday at 10:12. Not urgent, just wondering. Let me know what can be done.",Delivery,Low,145
+983,"Hi team, I got a message saying my account is suspended.",Account,Medium,56
+984,"Dear support, Form submission fails with an error message. It worked fine until recently. I noticed it a few days ago. Please help.",Technical,High,131
+985,"Hello, The credit on my account is missing. I am on the premium plan. I noticed it a few days ago. Whenever you have a moment. Looking forward to your reply.",Account,Low,157
+986,"Dear support, Can I get a refund for an item that arrived late? It happened yesterday. I need this fixed today. Thanks.",Refund,Medium,119
+987,"Hi team, The text on the menu is cut off on my tablet. I first noticed this on Saturday at 11:45. Thank you in advance.",Technical,Low,119
+988,"Good morning, My past orders are missing from my profile page. I would appreciate some help resolving this.",Account,High,107
+989,"Hi team, What is the refund timeline? I am travelling at the moment. I first nticed this on Thursday at 19:47. Please advise on the next step.",Refund,Low,142
+990,"Hey, Part of my refund is missing. I noticed it a few days ago. Can you look into this?",Refund,Medium,87
+991,The promo code did not reduce my total. I first noticed this on Tuesday at 10:41. Let me know what can be done.,Billing,Medium,111
+992,"hi, the app will not show my order status.",Technical,Medium,42
+993,Can I get a refund for an item that arrived late? I have contacted you before about something else. I first noticed this on Thursday at 21:15. I would appreciate some help resolving this.,Refund,Medium,187
+994,"hey, duplicate payment taken for one purchase. i am on the premium plan. i would appreciate some help resolving this.",Billing,High,117
+995,"Dear support, This is not working as expected. I am travelling at the moment. I first noticed this on Sunday at 03:56.",Account,Low,118
+996,The authenticator code is always rejected. I ordered last week. I first noticed this on Sunday at 05:10. Let me know what can be done.,Account,High,134
+997,I want to update the card details on my account. I first noticed this on Friday at 22:23. Thank you in advance.,Billing,Low,111
+998,"Hi team, Nothing happens when I tap Pay now. Let me know what can be done",Technical,High,73
+999,Please send me proof of the refund. I first noticed this on Wednesday at 08:56.,Refund,Low,79
+1000,"Hello, I cannot log in and now my payment will not go through. This started on Tuesday. No rush. Thank you in advance.",Account,High,118
