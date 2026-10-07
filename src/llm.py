@@ -9,7 +9,7 @@ def ticket_analysis(query):
     response = client.responses.create(
         model="gpt-6-luna",
         instructions="""
-        You are a customer supper helper and assistant
+        You are a customer support helper and assistant
         you need to analyse the ticket given and provide the following:
 
         1) a small summary of the problem
