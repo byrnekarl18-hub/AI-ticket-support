@@ -23,9 +23,7 @@ def ticket_analysis(query):
 
     return response.output_text
 
-query = """I placed an order for a computer mouse three weeks ago and 
-        it hasnt come. The tracking information has not changed in a 
-        week and i desperately need it for college work"""
+query = """Help me reverse a linked list please"""
 
 answer = ticket_analysis(query)
 print(answer)
