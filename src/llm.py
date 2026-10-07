@@ -20,10 +20,9 @@ def ticket_analysis(query):
         """,
         input=query
     )
-
     return response.output_text
 
-query = """Help me reverse a linked list please"""
+query = """"""
 
 answer = ticket_analysis(query)
 print(answer)
